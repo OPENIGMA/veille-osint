@@ -1,14 +1,23 @@
 // ---------------------------------------------------------
-// Page "Presse locale" : filtres région + thématique, rendu
-// de la liste d'articles agrégés depuis data/presse/latest.json
+// Page "Presse locale" : filtres région + thématique + recherche
+// texte libre, rendu de la liste d'articles depuis
+// data/presse/latest.json
 // ---------------------------------------------------------
 
 let state = {
   articles: [],
   activeRegions: new Set(),
   activeThemes: new Set(),
+  searchQuery: '',
   themeLabels: {}, // id -> label, construit dynamiquement depuis les données
 };
+
+function normalizeText(str) {
+  return (str || '')
+    .toLowerCase()
+    .normalize('NFD')
+    .replace(/[\u0300-\u036f]/g, ''); // retire les accents
+}
 
 function buildRegionFilters() {
   const container = document.getElementById('region-filters');
@@ -84,14 +93,31 @@ function renderActiveFilters() {
     });
     container.appendChild(chip);
   });
+
+  if (state.searchQuery.trim()) {
+    const chip = document.createElement('span');
+    chip.className = 'active-filter-chip';
+    chip.innerHTML = `Recherche : "${escapeHtml(state.searchQuery)}" <button aria-label="Effacer la recherche">×</button>`;
+    chip.querySelector('button').addEventListener('click', () => {
+      state.searchQuery = '';
+      document.getElementById('article-search').value = '';
+      render();
+    });
+    container.appendChild(chip);
+  }
 }
 
 function getFilteredArticles() {
+  const q = normalizeText(state.searchQuery);
   return state.articles.filter(a => {
     if (!state.activeRegions.has(a.region)) return false;
     if (state.activeThemes.size > 0) {
       const hasTheme = a.themes.some(t => state.activeThemes.has(t));
       if (!hasTheme) return false;
+    }
+    if (q) {
+      const haystack = normalizeText(a.title + ' ' + a.summary + ' ' + a.source_label);
+      if (!haystack.includes(q)) return false;
     }
     return true;
   });
@@ -105,7 +131,6 @@ function renderArticleList(articles) {
     return;
   }
 
-  // Tri par date de publication décroissante quand elle est parsable
   const sorted = [...articles].sort((a, b) => {
     const da = new Date(a.published).getTime() || 0;
     const db = new Date(b.published).getTime() || 0;
@@ -146,6 +171,18 @@ function setupThemeSearch() {
   });
 }
 
+function setupArticleSearch() {
+  const input = document.getElementById('article-search');
+  let debounceTimer;
+  input.addEventListener('input', () => {
+    clearTimeout(debounceTimer);
+    debounceTimer = setTimeout(() => {
+      state.searchQuery = input.value;
+      render();
+    }, 150);
+  });
+}
+
 async function init() {
   try {
     const [presseData, manualLinksData] = await Promise.all([
@@ -164,7 +201,6 @@ async function init() {
     document.getElementById('last-update').textContent =
       'Dernière mise à jour : ' + formatDate(presseData.fetched_at);
 
-    // Compte des articles par thématique pour trier/afficher les filtres pertinents
     const themeCounts = {};
     state.articles.forEach(a => {
       a.themes.forEach(t => {
@@ -176,8 +212,8 @@ async function init() {
     buildRegionFilters();
     buildThemeFilters(themeCounts);
     setupThemeSearch();
+    setupArticleSearch();
 
-    // Vérifie s'il y a des erreurs de flux à signaler
     try {
       const errors = await fetchJSON(DATA_URLS.presseErrors);
       if (errors.errors && errors.errors.length > 0) {
