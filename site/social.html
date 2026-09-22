@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Veille OSINT — Réseaux sociaux</title>
+<link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+
+<div class="app">
+  <aside class="sidebar">
+    <div class="brand">
+      <span class="brand-mark">VO</span>
+      <div>
+        <div class="brand-title">Veille OSINT</div>
+        <div class="brand-sub">Occitanie · PACA · Corse</div>
+      </div>
+    </div>
+
+    <nav class="tabs">
+      <a href="index.html" class="tab">Presse locale</a>
+      <a href="social.html" class="tab active">Réseaux sociaux</a>
+    </nav>
+
+    <div class="filter-group">
+      <div class="filter-label">Source</div>
+      <div class="filter-list">
+        <label class="filter-item"><input type="checkbox" value="reddit" checked class="source-toggle"> Reddit</label>
+        <label class="filter-item"><input type="checkbox" value="mastodon" checked class="source-toggle"> Mastodon</label>
+        <label class="filter-item"><input type="checkbox" value="manual" checked class="source-toggle"> Liens manuels (X / FB / Insta)</label>
+      </div>
+    </div>
+
+    <div class="filter-group">
+      <div class="filter-label">Thématique</div>
+      <input type="text" id="theme-search" class="theme-search" placeholder="Filtrer les thématiques…">
+      <div id="theme-filters" class="filter-list filter-list-scroll"></div>
+    </div>
+
+    <div class="sidebar-footer">
+      <span id="last-update">Dernière mise à jour : —</span>
+    </div>
+  </aside>
+
+  <main class="content">
+    <header class="content-header">
+      <div>
+        <h1>Réseaux sociaux</h1>
+        <p class="subtitle">Reddit et Mastodon sont interrogés automatiquement. X, Facebook et Instagram n'offrant pas de recherche publique gratuite, des liens de recherche pré-remplis sont fournis pour consultation manuelle.</p>
+      </div>
+    </header>
+
+    <div id="active-filters" class="active-filters"></div>
+
+    <div id="social-content" class="social-content">
+      <div class="loading">Chargement des données…</div>
+    </div>
+  </main>
+</div>
+
+<script src="assets/data.js"></script>
+<script src="assets/social.js"></script>
+</body>
+</html>
