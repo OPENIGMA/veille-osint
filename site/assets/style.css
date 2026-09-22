@@ -43,7 +43,6 @@ button {
   cursor: pointer;
 }
 
-/* Focus visible pour accessibilité clavier */
 a:focus-visible, button:focus-visible, input:focus-visible {
   outline: 2px solid var(--accent);
   outline-offset: 2px;
@@ -266,6 +265,32 @@ a:focus-visible, button:focus-visible, input:focus-visible {
   font-size: 10.5px;
   color: var(--text-dim);
   margin-top: 2px;
+}
+
+/* ---------- Barre de recherche (page presse) ---------- */
+
+.search-bar {
+  margin-bottom: 16px;
+}
+
+.search-input {
+  width: 100%;
+  background: var(--panel);
+  border: 1px solid var(--border);
+  color: var(--text);
+  padding: 11px 14px;
+  border-radius: 4px;
+  font-size: 14px;
+  font-family: var(--font-ui);
+}
+
+.search-input:focus {
+  border-color: var(--accent);
+  outline: none;
+}
+
+.search-input::placeholder {
+  color: var(--text-dim);
 }
 
 .active-filters {
