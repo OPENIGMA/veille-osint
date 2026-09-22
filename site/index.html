@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Veille OSINT — Presse locale</title>
+<link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+
+<div class="app">
+  <aside class="sidebar">
+    <div class="brand">
+      <span class="brand-mark">VO</span>
+      <div>
+        <div class="brand-title">Veille OSINT</div>
+        <div class="brand-sub">Occitanie · PACA · Corse</div>
+      </div>
+    </div>
+
+    <nav class="tabs">
+      <a href="index.html" class="tab active">Presse locale</a>
+      <a href="social.html" class="tab">Réseaux sociaux</a>
+    </nav>
+
+    <div class="filter-group">
+      <div class="filter-label">Région</div>
+      <div id="region-filters" class="filter-list"></div>
+    </div>
+
+    <div class="filter-group">
+      <div class="filter-label">Thématique</div>
+      <input type="text" id="theme-search" class="theme-search" placeholder="Filtrer les thématiques…">
+      <div id="theme-filters" class="filter-list filter-list-scroll"></div>
+    </div>
+
+    <div class="sidebar-footer">
+      <span id="last-update">Dernière mise à jour : —</span>
+    </div>
+  </aside>
+
+  <main class="content">
+    <header class="content-header">
+      <div>
+        <h1>Presse locale</h1>
+        <p class="subtitle">Articles agrégés depuis les flux presse régionaux, classés par thématique détectée automatiquement.</p>
+      </div>
+      <div class="stat-badges">
+        <div class="stat-badge">
+          <span class="stat-value" id="stat-total">—</span>
+          <span class="stat-key">articles</span>
+        </div>
+        <div class="stat-badge">
+          <span class="stat-value" id="stat-filtered">—</span>
+          <span class="stat-key">affichés</span>
+        </div>
+      </div>
+    </header>
+
+    <div id="active-filters" class="active-filters"></div>
+
+    <div id="error-banner" class="error-banner" hidden></div>
+
+    <div id="article-list" class="article-list">
+      <div class="loading">Chargement des données…</div>
+    </div>
+  </main>
+</div>
+
+<script src="assets/data.js"></script>
+<script src="assets/presse.js"></script>
+</body>
+</html>
