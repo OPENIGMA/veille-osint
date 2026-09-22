@@ -1,0 +1,597 @@
+{
+  "generated_at": "2026-09-22T08:36:04.453378+00:00",
+  "themes": {
+    "agriculture": {
+      "label": "Agriculture",
+      "keywords": [
+        "agriculture",
+        "agriculteurs",
+        "FNSEA",
+        "exploitation agricole",
+        "blocage tracteurs"
+      ],
+      "links": {
+        "x": "https://x.com/search?q=agriculture%20agriculteurs%20FNSEA%20exploitation%20agricole%20blocage%20tracteurs&src=typed_query&f=live",
+        "facebook": "https://www.facebook.com/search/posts/?q=agriculture%20agriculteurs%20FNSEA%20exploitation%20agricole%20blocage%20tracteurs",
+        "instagram_hashtag": "https://www.instagram.com/explore/tags/agriculture/"
+      }
+    },
+    "chasse": {
+      "label": "Chasse",
+      "keywords": [
+        "chasse",
+        "chasseurs",
+        "battue",
+        "fédération de chasse"
+      ],
+      "links": {
+        "x": "https://x.com/search?q=chasse%20chasseurs%20battue%20f%C3%A9d%C3%A9ration%20de%20chasse&src=typed_query&f=live",
+        "facebook": "https://www.facebook.com/search/posts/?q=chasse%20chasseurs%20battue%20f%C3%A9d%C3%A9ration%20de%20chasse",
+        "instagram_hashtag": "https://www.instagram.com/explore/tags/chasse/"
+      }
+    },
+    "armes": {
+      "label": "Armes",
+      "keywords": [
+        "trafic d'armes",
+        "arme à feu",
+        "saisie d'armes",
+        "détention d'armes"
+      ],
+      "links": {
+        "x": "https://x.com/search?q=trafic%20d%27armes%20arme%20%C3%A0%20feu%20saisie%20d%27armes%20d%C3%A9tention%20d%27armes&src=typed_query&f=live",
+        "facebook": "https://www.facebook.com/search/posts/?q=trafic%20d%27armes%20arme%20%C3%A0%20feu%20saisie%20d%27armes%20d%C3%A9tention%20d%27armes",
+        "instagram_hashtag": "https://www.instagram.com/explore/tags/traficd%27armes/"
+      }
+    },
+    "delinquance": {
+      "label": "Délinquance",
+      "keywords": [
+        "délinquance",
+        "délinquant",
+        "cambriolage",
+        "vol aggravé"
+      ],
+      "links": {
+        "x": "https://x.com/search?q=d%C3%A9linquance%20d%C3%A9linquant%20cambriolage%20vol%20aggrav%C3%A9&src=typed_query&f=live",
+        "facebook": "https://www.facebook.com/search/posts/?q=d%C3%A9linquance%20d%C3%A9linquant%20cambriolage%20vol%20aggrav%C3%A9",
+        "instagram_hashtag": "https://www.instagram.com/explore/tags/d%C3%A9linquance/"
+      }
+    },
+    "criminalite": {
+      "label": "Criminalité",
+      "keywords": [
+        "criminalité",
+        "meurtre",
+        "règlement de comptes",
+        "homicide"
+      ],
+      "links": {
+        "x": "https://x.com/search?q=criminalit%C3%A9%20meurtre%20r%C3%A8glement%20de%20comptes%20homicide&src=typed_query&f=live",
+        "facebook": "https://www.facebook.com/search/posts/?q=criminalit%C3%A9%20meurtre%20r%C3%A8glement%20de%20comptes%20homicide",
+        "instagram_hashtag": "https://www.instagram.com/explore/tags/criminalit%C3%A9/"
+      }
+    },
+    "derives_sectaires": {
+      "label": "Dérives sectaires",
+      "keywords": [
+        "dérive sectaire",
+        "secte",
+        "MIVILUDES",
+        "emprise mentale"
+      ],
+      "links": {
+        "x": "https://x.com/search?q=d%C3%A9rive%20sectaire%20secte%20MIVILUDES%20emprise%20mentale&src=typed_query&f=live",
+        "facebook": "https://www.facebook.com/search/posts/?q=d%C3%A9rive%20sectaire%20secte%20MIVILUDES%20emprise%20mentale",
+        "instagram_hashtag": "https://www.instagram.com/explore/tags/d%C3%A9rivesectaire/"
+      }
+    },
+    "ecologie": {
+      "label": "Écologie",
+      "keywords": [
+        "écologie",
+        "environnement",
+        "pollution",
+        "biodiversité"
+      ],
+      "links": {
+        "x": "https://x.com/search?q=%C3%A9cologie%20environnement%20pollution%20biodiversit%C3%A9&src=typed_query&f=live",
+        "facebook": "https://www.facebook.com/search/posts/?q=%C3%A9cologie%20environnement%20pollution%20biodiversit%C3%A9",
+        "instagram_hashtag": "https://www.instagram.com/explore/tags/%C3%A9cologie/"
+      }
+    },
+    "enseignement": {
+      "label": "Enseignement",
+      "keywords": [
+        "enseignement",
+        "professeurs",
+        "lycée",
+        "collège",
+        "université"
+      ],
+      "links": {
+        "x": "https://x.com/search?q=enseignement%20professeurs%20lyc%C3%A9e%20coll%C3%A8ge%20universit%C3%A9&src=typed_query&f=live",
+        "facebook": "https://www.facebook.com/search/posts/?q=enseignement%20professeurs%20lyc%C3%A9e%20coll%C3%A8ge%20universit%C3%A9",
+        "instagram_hashtag": "https://www.instagram.com/explore/tags/enseignement/"
+      }
+    },
+    "education_nationale": {
+      "label": "Éducation nationale",
+      "keywords": [
+        "éducation nationale",
+        "rectorat",
+        "ministère de l'éducation"
+      ],
+      "links": {
+        "x": "https://x.com/search?q=%C3%A9ducation%20nationale%20rectorat%20minist%C3%A8re%20de%20l%27%C3%A9ducation&src=typed_query&f=live",
+        "facebook": "https://www.facebook.com/search/posts/?q=%C3%A9ducation%20nationale%20rectorat%20minist%C3%A8re%20de%20l%27%C3%A9ducation",
+        "instagram_hashtag": "https://www.instagram.com/explore/tags/%C3%A9ducationnationale/"
+      }
+    },
+    "energie": {
+      "label": "Énergie",
+      "keywords": [
+        "énergie",
+        "électricité",
+        "gaz",
+        "coupure d'électricité",
+        "EDF",
+        "TotalEnergies"
+      ],
+      "links": {
+        "x": "https://x.com/search?q=%C3%A9nergie%20%C3%A9lectricit%C3%A9%20gaz%20coupure%20d%27%C3%A9lectricit%C3%A9%20EDF%20TotalEnergies&src=typed_query&f=live",
+        "facebook": "https://www.facebook.com/search/posts/?q=%C3%A9nergie%20%C3%A9lectricit%C3%A9%20gaz%20coupure%20d%27%C3%A9lectricit%C3%A9%20EDF%20TotalEnergies",
+        "instagram_hashtag": "https://www.instagram.com/explore/tags/%C3%A9nergie/"
+      }
+    },
+    "ferroviaire": {
+      "label": "Ferroviaire",
+      "keywords": [
+        "SNCF",
+        "ferroviaire",
+        "grève SNCF",
+        "voie ferrée",
+        "train TER",
+        "accident de train"
+      ],
+      "links": {
+        "x": "https://x.com/search?q=SNCF%20ferroviaire%20gr%C3%A8ve%20SNCF%20voie%20ferr%C3%A9e%20train%20TER%20accident%20de%20train&src=typed_query&f=live",
+        "facebook": "https://www.facebook.com/search/posts/?q=SNCF%20ferroviaire%20gr%C3%A8ve%20SNCF%20voie%20ferr%C3%A9e%20train%20TER%20accident%20de%20train",
+        "instagram_hashtag": "https://www.instagram.com/explore/tags/SNCF/"
+      }
+    },
+    "festivites": {
+      "label": "Festivités",
+      "keywords": [
+        "festivités",
+        "fête locale",
+        "feu d'artifice",
+        "festival"
+      ],
+      "links": {
+        "x": "https://x.com/search?q=festivit%C3%A9s%20f%C3%AAte%20locale%20feu%20d%27artifice%20festival&src=typed_query&f=live",
+        "facebook": "https://www.facebook.com/search/posts/?q=festivit%C3%A9s%20f%C3%AAte%20locale%20feu%20d%27artifice%20festival",
+        "instagram_hashtag": "https://www.instagram.com/explore/tags/festivit%C3%A9s/"
+      }
+    },
+    "evenements_voie_publique": {
+      "label": "Événements voie publique",
+      "keywords": [
+        "rassemblement",
+        "voie publique",
+        "occupation de la voie publique"
+      ],
+      "links": {
+        "x": "https://x.com/search?q=rassemblement%20voie%20publique%20occupation%20de%20la%20voie%20publique&src=typed_query&f=live",
+        "facebook": "https://www.facebook.com/search/posts/?q=rassemblement%20voie%20publique%20occupation%20de%20la%20voie%20publique",
+        "instagram_hashtag": "https://www.instagram.com/explore/tags/rassemblement/"
+      }
+    },
+    "criminalite_organisee": {
+      "label": "Criminalité organisée",
+      "keywords": [
+        "narcotrafic",
+        "trafic de drogue",
+        "criminalité organisée",
+        "point de deal",
+        "cartel"
+      ],
+      "links": {
+        "x": "https://x.com/search?q=narcotrafic%20trafic%20de%20drogue%20criminalit%C3%A9%20organis%C3%A9e%20point%20de%20deal%20cartel&src=typed_query&f=live",
+        "facebook": "https://www.facebook.com/search/posts/?q=narcotrafic%20trafic%20de%20drogue%20criminalit%C3%A9%20organis%C3%A9e%20point%20de%20deal%20cartel",
+        "instagram_hashtag": "https://www.instagram.com/explore/tags/narcotrafic/"
+      }
+    },
+    "free_rave_teknival": {
+      "label": "Free rave / Teknival",
+      "keywords": [
+        "free party",
+        "rave party",
+        "teknival",
+        "sound system"
+      ],
+      "links": {
+        "x": "https://x.com/search?q=free%20party%20rave%20party%20teknival%20sound%20system&src=typed_query&f=live",
+        "facebook": "https://www.facebook.com/search/posts/?q=free%20party%20rave%20party%20teknival%20sound%20system",
+        "instagram_hashtag": "https://www.instagram.com/explore/tags/freeparty/"
+      }
+    },
+    "immigration": {
+      "label": "Immigration",
+      "keywords": [
+        "immigration",
+        "migrants",
+        "OQTF",
+        "centre de rétention"
+      ],
+      "links": {
+        "x": "https://x.com/search?q=immigration%20migrants%20OQTF%20centre%20de%20r%C3%A9tention&src=typed_query&f=live",
+        "facebook": "https://www.facebook.com/search/posts/?q=immigration%20migrants%20OQTF%20centre%20de%20r%C3%A9tention",
+        "instagram_hashtag": "https://www.instagram.com/explore/tags/immigration/"
+      }
+    },
+    "nucleaire": {
+      "label": "Nucléaire",
+      "keywords": [
+        "nucléaire",
+        "centrale nucléaire",
+        "EDF nucléaire",
+        "incident nucléaire"
+      ],
+      "links": {
+        "x": "https://x.com/search?q=nucl%C3%A9aire%20centrale%20nucl%C3%A9aire%20EDF%20nucl%C3%A9aire%20incident%20nucl%C3%A9aire&src=typed_query&f=live",
+        "facebook": "https://www.facebook.com/search/posts/?q=nucl%C3%A9aire%20centrale%20nucl%C3%A9aire%20EDF%20nucl%C3%A9aire%20incident%20nucl%C3%A9aire",
+        "instagram_hashtag": "https://www.instagram.com/explore/tags/nucl%C3%A9aire/"
+      }
+    },
+    "peche": {
+      "label": "Pêche",
+      "keywords": [
+        "pêche",
+        "pêcheurs",
+        "quota de pêche",
+        "chalutier"
+      ],
+      "links": {
+        "x": "https://x.com/search?q=p%C3%AAche%20p%C3%AAcheurs%20quota%20de%20p%C3%AAche%20chalutier&src=typed_query&f=live",
+        "facebook": "https://www.facebook.com/search/posts/?q=p%C3%AAche%20p%C3%AAcheurs%20quota%20de%20p%C3%AAche%20chalutier",
+        "instagram_hashtag": "https://www.instagram.com/explore/tags/p%C3%AAche/"
+      }
+    },
+    "separatisme": {
+      "label": "Séparatisme",
+      "keywords": [
+        "séparatisme",
+        "autonomisme",
+        "nationalisme corse",
+        "indépendantisme"
+      ],
+      "links": {
+        "x": "https://x.com/search?q=s%C3%A9paratisme%20autonomisme%20nationalisme%20corse%20ind%C3%A9pendantisme&src=typed_query&f=live",
+        "facebook": "https://www.facebook.com/search/posts/?q=s%C3%A9paratisme%20autonomisme%20nationalisme%20corse%20ind%C3%A9pendantisme",
+        "instagram_hashtag": "https://www.instagram.com/explore/tags/s%C3%A9paratisme/"
+      }
+    },
+    "survivalisme": {
+      "label": "Survivalisme",
+      "keywords": [
+        "survivalisme",
+        "survivaliste",
+        "bushcraft"
+      ],
+      "links": {
+        "x": "https://x.com/search?q=survivalisme%20survivaliste%20bushcraft&src=typed_query&f=live",
+        "facebook": "https://www.facebook.com/search/posts/?q=survivalisme%20survivaliste%20bushcraft",
+        "instagram_hashtag": "https://www.instagram.com/explore/tags/survivalisme/"
+      }
+    },
+    "visite_officielle": {
+      "label": "Visite officielle",
+      "keywords": [
+        "visite officielle",
+        "déplacement ministériel",
+        "visite préfet",
+        "visite présidentielle"
+      ],
+      "links": {
+        "x": "https://x.com/search?q=visite%20officielle%20d%C3%A9placement%20minist%C3%A9riel%20visite%20pr%C3%A9fet%20visite%20pr%C3%A9sidentielle&src=typed_query&f=live",
+        "facebook": "https://www.facebook.com/search/posts/?q=visite%20officielle%20d%C3%A9placement%20minist%C3%A9riel%20visite%20pr%C3%A9fet%20visite%20pr%C3%A9sidentielle",
+        "instagram_hashtag": "https://www.instagram.com/explore/tags/visiteofficielle/"
+      }
+    },
+    "radicalisation": {
+      "label": "Radicalisation",
+      "keywords": [
+        "radicalisation",
+        "signalement radicalisation",
+        "dérive radicale"
+      ],
+      "links": {
+        "x": "https://x.com/search?q=radicalisation%20signalement%20radicalisation%20d%C3%A9rive%20radicale&src=typed_query&f=live",
+        "facebook": "https://www.facebook.com/search/posts/?q=radicalisation%20signalement%20radicalisation%20d%C3%A9rive%20radicale",
+        "instagram_hashtag": "https://www.instagram.com/explore/tags/radicalisation/"
+      }
+    },
+    "proselytisme": {
+      "label": "Prosélytisme",
+      "keywords": [
+        "prosélytisme",
+        "endoctrinement"
+      ],
+      "links": {
+        "x": "https://x.com/search?q=pros%C3%A9lytisme%20endoctrinement&src=typed_query&f=live",
+        "facebook": "https://www.facebook.com/search/posts/?q=pros%C3%A9lytisme%20endoctrinement",
+        "instagram_hashtag": "https://www.instagram.com/explore/tags/pros%C3%A9lytisme/"
+      }
+    },
+    "terrorisme": {
+      "label": "Terrorisme",
+      "keywords": [
+        "terrorisme",
+        "attentat",
+        "cellule terroriste",
+        "plan Vigipirate"
+      ],
+      "links": {
+        "x": "https://x.com/search?q=terrorisme%20attentat%20cellule%20terroriste%20plan%20Vigipirate&src=typed_query&f=live",
+        "facebook": "https://www.facebook.com/search/posts/?q=terrorisme%20attentat%20cellule%20terroriste%20plan%20Vigipirate",
+        "instagram_hashtag": "https://www.instagram.com/explore/tags/terrorisme/"
+      }
+    },
+    "animalistes": {
+      "label": "Animalistes",
+      "keywords": [
+        "animalistes",
+        "L214",
+        "anti-chasse",
+        "libération animale"
+      ],
+      "links": {
+        "x": "https://x.com/search?q=animalistes%20L214%20anti-chasse%20lib%C3%A9ration%20animale&src=typed_query&f=live",
+        "facebook": "https://www.facebook.com/search/posts/?q=animalistes%20L214%20anti-chasse%20lib%C3%A9ration%20animale",
+        "instagram_hashtag": "https://www.instagram.com/explore/tags/animalistes/"
+      }
+    },
+    "mouvements_ecologistes": {
+      "label": "Mouvements écologistes",
+      "keywords": [
+        "Extinction Rebellion",
+        "Les Soulèvements de la Terre",
+        "activistes climat",
+        "désobéissance civile écologiste"
+      ],
+      "links": {
+        "x": "https://x.com/search?q=Extinction%20Rebellion%20Les%20Soul%C3%A8vements%20de%20la%20Terre%20activistes%20climat%20d%C3%A9sob%C3%A9issance%20civile%20%C3%A9cologiste&src=typed_query&f=live",
+        "facebook": "https://www.facebook.com/search/posts/?q=Extinction%20Rebellion%20Les%20Soul%C3%A8vements%20de%20la%20Terre%20activistes%20climat%20d%C3%A9sob%C3%A9issance%20civile%20%C3%A9cologiste",
+        "instagram_hashtag": "https://www.instagram.com/explore/tags/ExtinctionRebellion/"
+      }
+    },
+    "projet_amenagement_conteste": {
+      "label": "Projet d'aménagement contesté",
+      "keywords": [
+        "projet contesté",
+        "méga-bassine",
+        "grand projet inutile",
+        "autoroute contestée"
+      ],
+      "links": {
+        "x": "https://x.com/search?q=projet%20contest%C3%A9%20m%C3%A9ga-bassine%20grand%20projet%20inutile%20autoroute%20contest%C3%A9e&src=typed_query&f=live",
+        "facebook": "https://www.facebook.com/search/posts/?q=projet%20contest%C3%A9%20m%C3%A9ga-bassine%20grand%20projet%20inutile%20autoroute%20contest%C3%A9e",
+        "instagram_hashtag": "https://www.instagram.com/explore/tags/projetcontest%C3%A9/"
+      }
+    },
+    "ultra_droite": {
+      "label": "Ultra droite",
+      "keywords": [
+        "ultra droite",
+        "groupuscule identitaire",
+        "extrême droite radicale"
+      ],
+      "links": {
+        "x": "https://x.com/search?q=ultra%20droite%20groupuscule%20identitaire%20extr%C3%AAme%20droite%20radicale&src=typed_query&f=live",
+        "facebook": "https://www.facebook.com/search/posts/?q=ultra%20droite%20groupuscule%20identitaire%20extr%C3%AAme%20droite%20radicale",
+        "instagram_hashtag": "https://www.instagram.com/explore/tags/ultradroite/"
+      }
+    },
+    "ultra_gauche": {
+      "label": "Ultra gauche",
+      "keywords": [
+        "ultra gauche",
+        "mouvance autonome",
+        "black bloc"
+      ],
+      "links": {
+        "x": "https://x.com/search?q=ultra%20gauche%20mouvance%20autonome%20black%20bloc&src=typed_query&f=live",
+        "facebook": "https://www.facebook.com/search/posts/?q=ultra%20gauche%20mouvance%20autonome%20black%20bloc",
+        "instagram_hashtag": "https://www.instagram.com/explore/tags/ultragauche/"
+      }
+    },
+    "jo_2030": {
+      "label": "JO 2030",
+      "keywords": [
+        "JO 2030",
+        "Jeux Olympiques 2030",
+        "Alpes 2030"
+      ],
+      "links": {
+        "x": "https://x.com/search?q=JO%202030%20Jeux%20Olympiques%202030%20Alpes%202030&src=typed_query&f=live",
+        "facebook": "https://www.facebook.com/search/posts/?q=JO%202030%20Jeux%20Olympiques%202030%20Alpes%202030",
+        "instagram_hashtag": "https://www.instagram.com/explore/tags/JO2030/"
+      }
+    },
+    "elections_2027": {
+      "label": "Élections 2027",
+      "keywords": [
+        "élections 2027",
+        "présidentielle 2027",
+        "campagne présidentielle"
+      ],
+      "links": {
+        "x": "https://x.com/search?q=%C3%A9lections%202027%20pr%C3%A9sidentielle%202027%20campagne%20pr%C3%A9sidentielle&src=typed_query&f=live",
+        "facebook": "https://www.facebook.com/search/posts/?q=%C3%A9lections%202027%20pr%C3%A9sidentielle%202027%20campagne%20pr%C3%A9sidentielle",
+        "instagram_hashtag": "https://www.instagram.com/explore/tags/%C3%A9lections2027/"
+      }
+    },
+    "apologie": {
+      "label": "Apologie",
+      "keywords": [
+        "apologie du terrorisme",
+        "apologie de crime",
+        "incitation à la haine"
+      ],
+      "links": {
+        "x": "https://x.com/search?q=apologie%20du%20terrorisme%20apologie%20de%20crime%20incitation%20%C3%A0%20la%20haine&src=typed_query&f=live",
+        "facebook": "https://www.facebook.com/search/posts/?q=apologie%20du%20terrorisme%20apologie%20de%20crime%20incitation%20%C3%A0%20la%20haine",
+        "instagram_hashtag": "https://www.instagram.com/explore/tags/apologieduterrorisme/"
+      }
+    },
+    "blocage_occupation": {
+      "label": "Blocage / Occupation",
+      "keywords": [
+        "blocage",
+        "occupation",
+        "barrage filtrant",
+        "blocage routier"
+      ],
+      "links": {
+        "x": "https://x.com/search?q=blocage%20occupation%20barrage%20filtrant%20blocage%20routier&src=typed_query&f=live",
+        "facebook": "https://www.facebook.com/search/posts/?q=blocage%20occupation%20barrage%20filtrant%20blocage%20routier",
+        "instagram_hashtag": "https://www.instagram.com/explore/tags/blocage/"
+      }
+    },
+    "cybercriminalite": {
+      "label": "Cybercriminalité",
+      "keywords": [
+        "cybercriminalité",
+        "rançongiciel",
+        "piratage informatique",
+        "cyberattaque"
+      ],
+      "links": {
+        "x": "https://x.com/search?q=cybercriminalit%C3%A9%20ran%C3%A7ongiciel%20piratage%20informatique%20cyberattaque&src=typed_query&f=live",
+        "facebook": "https://www.facebook.com/search/posts/?q=cybercriminalit%C3%A9%20ran%C3%A7ongiciel%20piratage%20informatique%20cyberattaque",
+        "instagram_hashtag": "https://www.instagram.com/explore/tags/cybercriminalit%C3%A9/"
+      }
+    },
+    "drones": {
+      "label": "Drones",
+      "keywords": [
+        "drone",
+        "survol illégal",
+        "drone interdit"
+      ],
+      "links": {
+        "x": "https://x.com/search?q=drone%20survol%20ill%C3%A9gal%20drone%20interdit&src=typed_query&f=live",
+        "facebook": "https://www.facebook.com/search/posts/?q=drone%20survol%20ill%C3%A9gal%20drone%20interdit",
+        "instagram_hashtag": "https://www.instagram.com/explore/tags/drone/"
+      }
+    },
+    "emeute": {
+      "label": "Émeute",
+      "keywords": [
+        "émeute",
+        "violences collectives",
+        "nuit d'émeutes"
+      ],
+      "links": {
+        "x": "https://x.com/search?q=%C3%A9meute%20violences%20collectives%20nuit%20d%27%C3%A9meutes&src=typed_query&f=live",
+        "facebook": "https://www.facebook.com/search/posts/?q=%C3%A9meute%20violences%20collectives%20nuit%20d%27%C3%A9meutes",
+        "instagram_hashtag": "https://www.instagram.com/explore/tags/%C3%A9meute/"
+      }
+    },
+    "greve": {
+      "label": "Grève",
+      "keywords": [
+        "grève",
+        "mouvement social",
+        "préavis de grève"
+      ],
+      "links": {
+        "x": "https://x.com/search?q=gr%C3%A8ve%20mouvement%20social%20pr%C3%A9avis%20de%20gr%C3%A8ve&src=typed_query&f=live",
+        "facebook": "https://www.facebook.com/search/posts/?q=gr%C3%A8ve%20mouvement%20social%20pr%C3%A9avis%20de%20gr%C3%A8ve",
+        "instagram_hashtag": "https://www.instagram.com/explore/tags/gr%C3%A8ve/"
+      }
+    },
+    "installation_illicite": {
+      "label": "Installation illicite",
+      "keywords": [
+        "installation illicite",
+        "campement illégal",
+        "occupation illégale de terrain"
+      ],
+      "links": {
+        "x": "https://x.com/search?q=installation%20illicite%20campement%20ill%C3%A9gal%20occupation%20ill%C3%A9gale%20de%20terrain&src=typed_query&f=live",
+        "facebook": "https://www.facebook.com/search/posts/?q=installation%20illicite%20campement%20ill%C3%A9gal%20occupation%20ill%C3%A9gale%20de%20terrain",
+        "instagram_hashtag": "https://www.instagram.com/explore/tags/installationillicite/"
+      }
+    },
+    "intrusion": {
+      "label": "Intrusion",
+      "keywords": [
+        "intrusion",
+        "intrusion site industriel",
+        "intrusion établissement"
+      ],
+      "links": {
+        "x": "https://x.com/search?q=intrusion%20intrusion%20site%20industriel%20intrusion%20%C3%A9tablissement&src=typed_query&f=live",
+        "facebook": "https://www.facebook.com/search/posts/?q=intrusion%20intrusion%20site%20industriel%20intrusion%20%C3%A9tablissement",
+        "instagram_hashtag": "https://www.instagram.com/explore/tags/intrusion/"
+      }
+    },
+    "manifestation": {
+      "label": "Manifestation",
+      "keywords": [
+        "manifestation",
+        "cortège",
+        "manif",
+        "défilé revendicatif"
+      ],
+      "links": {
+        "x": "https://x.com/search?q=manifestation%20cort%C3%A8ge%20manif%20d%C3%A9fil%C3%A9%20revendicatif&src=typed_query&f=live",
+        "facebook": "https://www.facebook.com/search/posts/?q=manifestation%20cort%C3%A8ge%20manif%20d%C3%A9fil%C3%A9%20revendicatif",
+        "instagram_hashtag": "https://www.instagram.com/explore/tags/manifestation/"
+      }
+    },
+    "squat": {
+      "label": "Squat",
+      "keywords": [
+        "squat",
+        "squatteurs",
+        "occupation de logement"
+      ],
+      "links": {
+        "x": "https://x.com/search?q=squat%20squatteurs%20occupation%20de%20logement&src=typed_query&f=live",
+        "facebook": "https://www.facebook.com/search/posts/?q=squat%20squatteurs%20occupation%20de%20logement",
+        "instagram_hashtag": "https://www.instagram.com/explore/tags/squat/"
+      }
+    },
+    "violences_urbaines": {
+      "label": "Violences urbaines",
+      "keywords": [
+        "violences urbaines",
+        "affrontements",
+        "voitures brûlées"
+      ],
+      "links": {
+        "x": "https://x.com/search?q=violences%20urbaines%20affrontements%20voitures%20br%C3%BBl%C3%A9es&src=typed_query&f=live",
+        "facebook": "https://www.facebook.com/search/posts/?q=violences%20urbaines%20affrontements%20voitures%20br%C3%BBl%C3%A9es",
+        "instagram_hashtag": "https://www.instagram.com/explore/tags/violencesurbaines/"
+      }
+    },
+    "zad_zio": {
+      "label": "ZAD / ZIO",
+      "keywords": [
+        "ZAD",
+        "zone à défendre",
+        "ZIO",
+        "zone d'intérêt",
+        "occupation de terrain militant"
+      ],
+      "links": {
+        "x": "https://x.com/search?q=ZAD%20zone%20%C3%A0%20d%C3%A9fendre%20ZIO%20zone%20d%27int%C3%A9r%C3%AAt%20occupation%20de%20terrain%20militant&src=typed_query&f=live",
+        "facebook": "https://www.facebook.com/search/posts/?q=ZAD%20zone%20%C3%A0%20d%C3%A9fendre%20ZIO%20zone%20d%27int%C3%A9r%C3%AAt%20occupation%20de%20terrain%20militant",
+        "instagram_hashtag": "https://www.instagram.com/explore/tags/ZAD/"
+      }
+    }
+  }
+}
