@@ -1,0 +1,96 @@
+name: Mise à jour et déploiement
+
+# Ce workflow fait TOUT en une seule chaîne, pour rester simple à diagnostiquer :
+# 1. récupère les données (presse, Reddit, Mastodon)
+# 2. copie ces données dans site/data
+# 3. commit les nouvelles données sur main (si elles ont changé)
+# 4. déploie le contenu de site/ sur GitHub Pages
+#
+# Déclencheurs :
+#   - à chaque push sur main (donc dès que tu modifies quoi que ce soit)
+#   - toutes les 3 heures automatiquement
+#   - manuellement depuis l'onglet Actions ("Run workflow")
+
+on:
+  push:
+    branches: [main]
+  schedule:
+    - cron: "0 */3 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+jobs:
+  update-and-deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Checkout du dépôt
+        uses: actions/checkout@v4
+
+      - name: Installer Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Installer les dépendances
+        run: pip install -r requirements.txt
+
+      - name: Récupérer les articles de presse locale
+        run: python3 scripts/fetch_rss.py
+
+      - name: Générer les liens de recherche manuels
+        run: python3 scripts/build_manual_links.py
+
+      - name: Récupérer les résultats Reddit
+        if: ${{ secrets.REDDIT_CLIENT_ID != '' }}
+        env:
+          REDDIT_CLIENT_ID: ${{ secrets.REDDIT_CLIENT_ID }}
+          REDDIT_CLIENT_SECRET: ${{ secrets.REDDIT_CLIENT_SECRET }}
+          REDDIT_USER_AGENT: "veille-osint-script/1.0"
+        run: python3 scripts/fetch_reddit.py
+
+      - name: Récupérer les résultats Mastodon
+        if: ${{ secrets.MASTODON_ACCESS_TOKEN != '' }}
+        env:
+          MASTODON_INSTANCE: "mastodon.social"
+          MASTODON_ACCESS_TOKEN: ${{ secrets.MASTODON_ACCESS_TOKEN }}
+        run: python3 scripts/fetch_mastodon.py
+
+      - name: Copier les données vers le site
+        run: |
+          mkdir -p site/data/presse site/data/reddit site/data/mastodon
+          cp -f data/presse/latest.json site/data/presse/latest.json || true
+          cp -f data/presse/_errors.json site/data/presse/_errors.json || true
+          cp -f data/manual_links.json site/data/manual_links.json || true
+          cp -f data/reddit/latest.json site/data/reddit/latest.json || true
+          cp -f data/mastodon/latest.json site/data/mastodon/latest.json || true
+
+      - name: Commit des données mises à jour
+        run: |
+          git config user.name "veille-bot"
+          git config user.email "veille-bot@users.noreply.github.com"
+          git add data site/data
+          git diff --cached --quiet || git commit -m "Mise à jour automatique des données [skip ci]"
+          git push || echo "Rien à pousser ou push impossible (pas bloquant pour le déploiement)"
+
+      - name: Configurer GitHub Pages
+        uses: actions/configure-pages@v5
+
+      - name: Uploader le dossier site/ comme artefact Pages
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: "site"
+
+      - name: Déployer sur GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
