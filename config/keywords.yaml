@@ -1,0 +1,197 @@
+# Thématiques de veille et mots-clés associés
+# ------------------------------------------------------------
+# Chaque thématique est transverse aux 3 régions surveillées
+# (Occitanie, PACA, Corse). Les mots-clés sont utilisés pour :
+#   - la recherche sur Reddit (API officielle)
+#   - la recherche sur Mastodon (API publique)
+#   - la génération de liens de recherche pré-remplis
+#     (X / Facebook / Instagram)
+#
+# Tu peux ajouter/retirer des mots-clés librement dans chaque
+# liste "keywords" sans toucher au code.
+# ------------------------------------------------------------
+
+themes:
+  - id: agriculture
+    label: "Agriculture"
+    keywords: ["agriculture", "agriculteurs", "FNSEA", "exploitation agricole", "blocage tracteurs"]
+
+  - id: chasse
+    label: "Chasse"
+    keywords: ["chasse", "chasseurs", "battue", "fédération de chasse"]
+
+  - id: armes
+    label: "Armes"
+    keywords: ["trafic d'armes", "arme à feu", "saisie d'armes", "détention d'armes"]
+
+  - id: delinquance
+    label: "Délinquance"
+    keywords: ["délinquance", "délinquant", "cambriolage", "vol aggravé"]
+
+  - id: criminalite
+    label: "Criminalité"
+    keywords: ["criminalité", "meurtre", "règlement de comptes", "homicide"]
+
+  - id: derives_sectaires
+    label: "Dérives sectaires"
+    keywords: ["dérive sectaire", "secte", "MIVILUDES", "emprise mentale"]
+
+  - id: ecologie
+    label: "Écologie"
+    keywords: ["écologie", "environnement", "pollution", "biodiversité"]
+
+  - id: enseignement
+    label: "Enseignement"
+    keywords: ["enseignement", "professeurs", "lycée", "collège", "université"]
+
+  - id: education_nationale
+    label: "Éducation nationale"
+    keywords: ["éducation nationale", "rectorat", "ministère de l'éducation"]
+
+  - id: energie
+    label: "Énergie"
+    keywords: ["énergie", "électricité", "gaz", "coupure d'électricité", "EDF", "TotalEnergies"]
+
+  - id: ferroviaire
+    label: "Ferroviaire"
+    keywords: ["SNCF", "ferroviaire", "grève SNCF", "voie ferrée", "train TER", "accident de train"]
+
+  - id: festivites
+    label: "Festivités"
+    keywords: ["festivités", "fête locale", "feu d'artifice", "festival"]
+
+  - id: evenements_voie_publique
+    label: "Événements voie publique"
+    keywords: ["rassemblement", "voie publique", "occupation de la voie publique"]
+
+  - id: criminalite_organisee
+    label: "Criminalité organisée"
+    keywords: ["narcotrafic", "trafic de drogue", "criminalité organisée", "point de deal", "cartel"]
+
+  - id: free_rave_teknival
+    label: "Free rave / Teknival"
+    keywords: ["free party", "rave party", "teknival", "sound system"]
+
+  - id: immigration
+    label: "Immigration"
+    keywords: ["immigration", "migrants", "OQTF", "centre de rétention"]
+
+  - id: nucleaire
+    label: "Nucléaire"
+    keywords: ["nucléaire", "centrale nucléaire", "EDF nucléaire", "incident nucléaire"]
+
+  - id: peche
+    label: "Pêche"
+    keywords: ["pêche", "pêcheurs", "quota de pêche", "chalutier"]
+
+  - id: separatisme
+    label: "Séparatisme"
+    keywords: ["séparatisme", "autonomisme", "nationalisme corse", "indépendantisme"]
+
+  - id: survivalisme
+    label: "Survivalisme"
+    keywords: ["survivalisme", "survivaliste", "bushcraft"]
+
+  - id: visite_officielle
+    label: "Visite officielle"
+    keywords: ["visite officielle", "déplacement ministériel", "visite préfet", "visite présidentielle"]
+
+  - id: radicalisation
+    label: "Radicalisation"
+    keywords: ["radicalisation", "signalement radicalisation", "dérive radicale"]
+
+  - id: proselytisme
+    label: "Prosélytisme"
+    keywords: ["prosélytisme", "endoctrinement"]
+
+  - id: terrorisme
+    label: "Terrorisme"
+    keywords: ["terrorisme", "attentat", "cellule terroriste", "plan Vigipirate"]
+
+  - id: animalistes
+    label: "Animalistes"
+    keywords: ["animalistes", "L214", "anti-chasse", "libération animale"]
+
+  - id: mouvements_ecologistes
+    label: "Mouvements écologistes"
+    keywords: ["Extinction Rebellion", "Les Soulèvements de la Terre", "activistes climat", "désobéissance civile écologiste"]
+
+  - id: projet_amenagement_conteste
+    label: "Projet d'aménagement contesté"
+    keywords: ["projet contesté", "méga-bassine", "grand projet inutile", "autoroute contestée"]
+
+  - id: ultra_droite
+    label: "Ultra droite"
+    keywords: ["ultra droite", "groupuscule identitaire", "extrême droite radicale"]
+
+  - id: ultra_gauche
+    label: "Ultra gauche"
+    keywords: ["ultra gauche", "mouvance autonome", "black bloc"]
+
+  - id: jo_2030
+    label: "JO 2030"
+    keywords: ["JO 2030", "Jeux Olympiques 2030", "Alpes 2030"]
+
+  - id: elections_2027
+    label: "Élections 2027"
+    keywords: ["élections 2027", "présidentielle 2027", "campagne présidentielle"]
+
+  - id: apologie
+    label: "Apologie"
+    keywords: ["apologie du terrorisme", "apologie de crime", "incitation à la haine"]
+
+  - id: blocage_occupation
+    label: "Blocage / Occupation"
+    keywords: ["blocage", "occupation", "barrage filtrant", "blocage routier"]
+
+  - id: cybercriminalite
+    label: "Cybercriminalité"
+    keywords: ["cybercriminalité", "rançongiciel", "piratage informatique", "cyberattaque"]
+
+  - id: drones
+    label: "Drones"
+    keywords: ["drone", "survol illégal", "drone interdit"]
+
+  - id: emeute
+    label: "Émeute"
+    keywords: ["émeute", "violences collectives", "nuit d'émeutes"]
+
+  - id: greve
+    label: "Grève"
+    keywords: ["grève", "mouvement social", "préavis de grève"]
+
+  - id: installation_illicite
+    label: "Installation illicite"
+    keywords: ["installation illicite", "campement illégal", "occupation illégale de terrain"]
+
+  - id: intrusion
+    label: "Intrusion"
+    keywords: ["intrusion", "intrusion site industriel", "intrusion établissement"]
+
+  - id: manifestation
+    label: "Manifestation"
+    keywords: ["manifestation", "cortège", "manif", "défilé revendicatif"]
+
+  - id: squat
+    label: "Squat"
+    keywords: ["squat", "squatteurs", "occupation de logement"]
+
+  - id: violences_urbaines
+    label: "Violences urbaines"
+    keywords: ["violences urbaines", "affrontements", "voitures brûlées"]
+
+  - id: zad_zio
+    label: "ZAD / ZIO"
+    keywords: ["ZAD", "zone à défendre", "ZIO", "zone d'intérêt", "occupation de terrain militant"]
+
+# ------------------------------------------------------------
+# Régions surveillées (utilisées pour le croisement région x thème
+# côté presse locale ; les thématiques ci-dessus restent transverses)
+# ------------------------------------------------------------
+regions:
+  - id: occitanie
+    label: "Occitanie"
+  - id: paca
+    label: "PACA"
+  - id: corse
+    label: "Corse"
