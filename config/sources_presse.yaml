@@ -1,0 +1,93 @@
+# Sources de presse locale, classées par région.
+#
+# Deux types de sources sont supportés :
+#
+#   type: "rss"    -> flux RSS natif du site (url renseignée directement)
+#   type: "gnews"  -> pas de flux RSS natif fiable/gratuit trouvé :
+#                      on utilise le flux RSS PUBLIC et GRATUIT de
+#                      Google News, filtré sur le nom de domaine du
+#                      site (site:nicematin.com par ex.), en français,
+#                      localisé France. C'est 100% gratuit, sans clé
+#                      API, et très robuste (le flux Google ne casse
+#                      pas quand le site change son propre RSS).
+#
+# Le script fetch_rss.py sait traiter les deux types de la même façon
+# (les deux retournent du XML RSS standard).
+#
+# Ajoute/retire des sources librement, ou change le "type" d'une
+# source si tu retrouves un jour son flux RSS natif.
+
+occitanie:
+  - id: ladepeche
+    label: "La Dépêche du Midi"
+    type: rss
+    url: "https://www.ladepeche.fr/rss/a-la-une.rss"
+
+  - id: midilibre
+    label: "Midi Libre"
+    type: gnews
+    site: "midilibre.fr"
+
+  - id: lindependant
+    label: "L'Indépendant"
+    type: gnews
+    site: "lindependant.fr"
+
+  - id: centre_presse_aveyron
+    label: "Centre Presse Aveyron"
+    type: gnews
+    site: "centrepresseaveyron.fr"
+
+  - id: france3_occitanie
+    label: "France 3 Occitanie"
+    type: rss
+    url: "https://france3-regions.franceinfo.fr/societe/rss?r=occitanie"
+
+paca:
+  - id: nice_matin
+    label: "Nice-Matin"
+    type: gnews
+    site: "nicematin.com"
+
+  - id: var_matin
+    label: "Var-Matin"
+    type: gnews
+    site: "varmatin.com"
+
+  - id: la_provence
+    label: "La Provence"
+    type: gnews
+    site: "laprovence.com"
+
+  - id: la_marseillaise
+    label: "La Marseillaise"
+    type: gnews
+    site: "lamarseillaise.fr"
+
+  - id: france3_paca
+    label: "France 3 PACA"
+    type: rss
+    url: "https://france3-regions.franceinfo.fr/provence-alpes-cote-d-azur/rss"
+
+corse:
+  - id: corse_matin
+    label: "Corse-Matin"
+    type: gnews
+    site: "corsematin.com"
+
+  - id: corse_net_infos
+    label: "Corse Net Infos"
+    type: gnews
+    site: "corsenetinfos.corsica"
+
+  - id: france3_corse
+    label: "France 3 Corse ViaStella"
+    type: rss
+    url: "https://france3-regions.franceinfo.fr/corse/rss"
+
+# ------------------------------------------------------------
+# NOTE :
+# Le script journalise tout flux qui échoue (erreur réseau, XML
+# invalide, etc.) dans data/presse/_errors.json, pour que tu
+# puisses corriger l'URL d'une source sans devoir fouiller le code.
+# ------------------------------------------------------------
