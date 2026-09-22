@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-22T13:54:25.166697+00:00",
+  "fetched_at": "2026-09-22T18:30:38.142035+00:00",
   "errors": [
     {
       "region": "occitanie",
@@ -7,7 +7,7 @@
       "source_label": "La Dépêche du Midi",
       "url": "https://www.ladepeche.fr/rss/a-la-une.rss",
       "error": "HTTP Error 404: Not Found",
-      "at": "2026-09-22T13:54:25.166697+00:00"
+      "at": "2026-09-22T18:30:38.142035+00:00"
     }
   ]
 }
