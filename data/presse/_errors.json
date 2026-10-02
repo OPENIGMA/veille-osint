@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-02T17:30:52.181234+00:00",
+  "fetched_at": "2026-10-02T21:51:36.835351+00:00",
   "errors": [
     {
       "region": "occitanie",
@@ -7,15 +7,7 @@
       "source_label": "La Dépêche du Midi",
       "url": "https://www.ladepeche.fr/rss/a-la-une.rss",
       "error": "HTTP Error 404: Not Found",
-      "at": "2026-10-02T17:30:52.181234+00:00"
-    },
-    {
-      "region": "paca",
-      "source_id": "france3_paca",
-      "source_label": "France 3 PACA",
-      "url": "https://france3-regions.franceinfo.fr/provence-alpes-cote-d-azur/rss",
-      "error": "<urlopen error [Errno 104] Connection reset by peer>",
-      "at": "2026-10-02T17:30:52.181234+00:00"
+      "at": "2026-10-02T21:51:36.835351+00:00"
     }
   ]
 }
