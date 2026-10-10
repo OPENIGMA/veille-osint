@@ -1,7 +1,17 @@
 {
-  "fetched_at": "2026-10-09T22:33:03.593432+00:00",
-  "count": 350,
+  "fetched_at": "2026-10-10T04:29:00.670141+00:00",
+  "count": 351,
   "articles": [
+    {
+      "region": "occitanie",
+      "source_id": "midilibre",
+      "source_label": "Midi Libre",
+      "title": "\"De rien Bally t’es un bon wallah\" : Victor Wembanyama répond au maire de Saint-Denis et défend le mouvement des lycéens - Midi Libre",
+      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNR3lJb3VnSGZTc3RFSkZLdEs0dGpiRVA4b1oyaVVFaGs1SUtKakZwdV9HX3ZObEs3WEMxMU1ZM29xNDYxc2FvWkRDXzVELVRzUncxTF9oVWFaZFFUMzBycUhWMVU0c1lSSGwtX2FGNEdlOUd6bnhsWGd5MFR3eDVuYUg4TXprWlNPaGZRWkpzQ3dXMmlrNmF3ZTlqTE03dGstaW1Yc3VrOVNtenBDRmYxa09zR2xtdkNnLXNBdzlHZ3ctWURSTW4taWhFYkM4QzFXUXRtUXZCdjY1cnJSUTh5RUtjUFlHVS10VFlzZ0RfRnBZQmd2clRj?oc=5",
+      "published": "Fri, 09 Oct 2026 17:08:00 GMT",
+      "summary": "\"De rien Bally t’es un bon wallah\" : Victor Wembanyama répond au maire de Saint-Denis et défend le mouvement des lycéens &nbsp;&nbsp; Midi Libre",
+      "themes": []
+    },
     {
       "region": "occitanie",
       "source_id": "midilibre",
@@ -26,20 +36,22 @@
       "region": "occitanie",
       "source_id": "midilibre",
       "source_label": "Midi Libre",
-      "title": "\"Français par la CAF versée\" : les publications Facebook de l’assistant du député RN Franck Allisio lui coûtent sa place - Midi Libre",
-      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQSE9hT2JENFNhMnV0bWNGMmMzeDJtYkpkYzQydGxsWkUtOGlJcTJWQ0pMMFc1RS1oajdqSGIyS2RSWmJHTGwwXzZBbGZfVjcyNlRWMHdUWWU2S01rSUJvRnpkM1kyN2lBQ2JLNWVheUNveGV5YVltTWdBRFFNd2pRVlFRZGdpMVdpTmtnMHdDa3BQWHhwMUd2YzBJeGQydXNhMzR4bGNDdmc4Ym9lTWppZFVGX1ZGcFpFRW1vXzFmMWNKTVdNSWFFRkFkWFg5NjZ6Z04zZkZ2dDZPd21QY3RfcHNqazJiWW1BZFdWRXA2NkVGT0d1ZjQ4?oc=5",
-      "published": "Fri, 09 Oct 2026 08:45:00 GMT",
-      "summary": "\"Français par la CAF versée\" : les publications Facebook de l’assistant du député RN Franck Allisio lui coûtent sa place &nbsp;&nbsp; Midi Libre",
-      "themes": []
+      "title": "Un trafic de lingots d’or démantelé, une enfant autiste s’échappe de l’école, un festival gourmand ce week-end : l’essentiel de l’actu en région - Midi Libre",
+      "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOU1lTUHdyYnp3Y1BoamJJWnM2c0tWY01tY3dPdDc2V1pFeTlBUUJiOG50SXk0MHR5eHV0VU52by1mNVZvdWpxdkxneTM5SEswdktEaVA5eXVQQ3ptRXhFb3hNVXdWWVdBcGdDLWRmSmkydVVkdXk2SEJ6Znh4WUs3cUpiS3NOMVhhRVZDbGxFaUdwaWxhVDNmdVFrWVJHWVo0MExMakF6ZzdVb056X0lmcVB4cG55WTlBNmlCRkJDdEREZ0FPY01LampVM3k2SjZJRDVrakV2X2Y3dmJPdTdSMDdQcG1SU0dJeWozNkc1dV9YTTR2U3hKcG1GN1c1ZEpVSzU0dWVlb0ppa0Fxa3pxTVlB?oc=5",
+      "published": "Fri, 09 Oct 2026 18:31:00 GMT",
+      "summary": "Un trafic de lingots d’or démantelé, une enfant autiste s’échappe de l’école, un festival gourmand ce week-end : l’essentiel de l’actu en région &nbsp;&nbsp; Midi Libre",
+      "themes": [
+        "festivites"
+      ]
     },
     {
       "region": "occitanie",
       "source_id": "midilibre",
       "source_label": "Midi Libre",
-      "title": "Viol d’un petit garçon à Beaucaire en 2021 : la cour criminelle du Gard plus sévère que l’avocate générale - Midi Libre",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOQjJPUTBPUF93WlVUeTRSVFRxNHlvMEpFX0QxaHdlX1E1bVhqTzBIVFMzYzQtMDRxck1hWktPWkZyaTFyYVN0WUZ5LVVudm5DdTlpMHhuVUNGd3Z4Rzh5OW5TY3Znd3dkMnBZcVlWVEZfUWFkZjFtWVEyQnAwWURWZW1NTEdneVdFMmo3THB3azU4X0E4S0NZd0w0ZUhRTlBhSDU5bmFDQlB3WldQUnhHZmFmTFlFUzlCYmw2TjNadDVMQ0FQUGYzZEdnYldzSmZ1VkgzS1Voc1QzLUlFYlk5cmEwWU9sZw?oc=5",
-      "published": "Thu, 08 Oct 2026 12:06:00 GMT",
-      "summary": "Viol d’un petit garçon à Beaucaire en 2021 : la cour criminelle du Gard plus sévère que l’avocate générale &nbsp;&nbsp; Midi Libre",
+      "title": "REPLAY MHSC-Grenoble : Montpellier s’impose avec autorité et relance parfaitement sa saison - Midi Libre",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPYVVDeVdWbW0yQTU4T29EWFktWFRZUmNTWXByWnExS3BKRW5MSXV4dWJLeG0wQ2F1NmJZRnF1b3FnTU1NaXFHNkZ5VDZ2V243V3FBLTI2OFMydDBBdkxoWFNwQVJOUkNrOGFfdW15MVpQTVRjNk5fZjhuU1E3RnBfNmhiNVdhNXJVVkNjbEdCd1BBOVJVQTNfLU00UUJQU0JfVlR2UzRDaE91bkFiWDc1dGJUMDRtRjhNUFlFVk5RZnhNQlQwRTB3dnNGMVdLX3RUMnpwc2dWZDU2UkxmVHRTQlgxM2Z3OWVpTlItTUxJWi04Zw?oc=5",
+      "published": "Fri, 09 Oct 2026 17:23:00 GMT",
+      "summary": "REPLAY MHSC-Grenoble : Montpellier s’impose avec autorité et relance parfaitement sa saison &nbsp;&nbsp; Midi Libre",
       "themes": []
     },
     {
@@ -58,13 +70,11 @@
       "region": "occitanie",
       "source_id": "midilibre",
       "source_label": "Midi Libre",
-      "title": "Un trafic de lingots d’or démantelé, une enfant autiste s’échappe de l’école, un festival gourmand ce week-end : l’essentiel de l’actu en région - Midi Libre",
-      "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOU1lTUHdyYnp3Y1BoamJJWnM2c0tWY01tY3dPdDc2V1pFeTlBUUJiOG50SXk0MHR5eHV0VU52by1mNVZvdWpxdkxneTM5SEswdktEaVA5eXVQQ3ptRXhFb3hNVXdWWVdBcGdDLWRmSmkydVVkdXk2SEJ6Znh4WUs3cUpiS3NOMVhhRVZDbGxFaUdwaWxhVDNmdVFrWVJHWVo0MExMakF6ZzdVb056X0lmcVB4cG55WTlBNmlCRkJDdEREZ0FPY01LampVM3k2SjZJRDVrakV2X2Y3dmJPdTdSMDdQcG1SU0dJeWozNkc1dV9YTTR2U3hKcG1GN1c1ZEpVSzU0dWVlb0ppa0Fxa3pxTVlB?oc=5",
-      "published": "Fri, 09 Oct 2026 18:31:00 GMT",
-      "summary": "Un trafic de lingots d’or démantelé, une enfant autiste s’échappe de l’école, un festival gourmand ce week-end : l’essentiel de l’actu en région &nbsp;&nbsp; Midi Libre",
-      "themes": [
-        "festivites"
-      ]
+      "title": "\"Français par la CAF versée\" : les publications Facebook de l’assistant du député RN Franck Allisio lui coûtent sa place - Midi Libre",
+      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQSE9hT2JENFNhMnV0bWNGMmMzeDJtYkpkYzQydGxsWkUtOGlJcTJWQ0pMMFc1RS1oajdqSGIyS2RSWmJHTGwwXzZBbGZfVjcyNlRWMHdUWWU2S01rSUJvRnpkM1kyN2lBQ2JLNWVheUNveGV5YVltTWdBRFFNd2pRVlFRZGdpMVdpTmtnMHdDa3BQWHhwMUd2YzBJeGQydXNhMzR4bGNDdmc4Ym9lTWppZFVGX1ZGcFpFRW1vXzFmMWNKTVdNSWFFRkFkWFg5NjZ6Z04zZkZ2dDZPd21QY3RfcHNqazJiWW1BZFdWRXA2NkVGT0d1ZjQ4?oc=5",
+      "published": "Fri, 09 Oct 2026 08:45:00 GMT",
+      "summary": "\"Français par la CAF versée\" : les publications Facebook de l’assistant du député RN Franck Allisio lui coûtent sa place &nbsp;&nbsp; Midi Libre",
+      "themes": []
     },
     {
       "region": "occitanie",
@@ -90,30 +100,10 @@
       "region": "occitanie",
       "source_id": "midilibre",
       "source_label": "Midi Libre",
-      "title": "Incendie à Crans-Montana : Jessica Moretti réclame des indemnités à son assurance et indigne les victimes - Midi Libre",
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNV3RKZlFXVDlGb2dza3BHQU91Wnp6NTY1cVo3dGt3WjhianhDN3VhMmpEUkVjT0QwRkQzQWxGY05EU2FuYjdSZC1FM3NCd09zVlhOLV9fNEtJYjVuYjI1X3VxaG9wNDJQTlZQYXBVVWgwa0lKSEZ1aXBwUlFVLTJwbEs3Wkh6djhYTlVEcDBnOFVDTjluVDVoYVBGeVJFbEk5YmpSakwtdjd3Vm8xcENWa0d2S0lLSnQtVXhjUHpBS1puclVvcmc1YzQxVUxyMXo3N2Y0WUxoUjU5Ul9VNHRDejkxYkNjb0k?oc=5",
-      "published": "Wed, 07 Oct 2026 13:53:00 GMT",
-      "summary": "Incendie à Crans-Montana : Jessica Moretti réclame des indemnités à son assurance et indigne les victimes &nbsp;&nbsp; Midi Libre",
-      "themes": []
-    },
-    {
-      "region": "occitanie",
-      "source_id": "midilibre",
-      "source_label": "Midi Libre",
       "title": "Cette morgue retrouve un corps oublié dans sa chambre froide : l’homme était mort il y a 14 ans, en novembre 2012 - Midi Libre",
       "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNQjhWNUc1V0pqbzZDN2ZoSHpjWGlxT0g3Ykg0allMeldERFg3V1diWGc2bFhwQ3ctbzBjVjM0RlVDRHN1MU5BUVJPVTR3ZnFXVDZTWGFsRUdid1ZzQl9JbWdJMmFlaWN0ckdFZUhVM1FuZU9mLW8wcmJFbmxhdkZ4TE93UmhBU0NaNDNtakRXVFFsVy1JT01NRERIZ0p4Tm5FY0s1LW5FR0haUzVocjRQVjZTdnpYRjFHT01yWUcxMFJKQnlLcF9qZlp4Unppbl9ZVVg3MHdjTWl3cWFIZndXb3Bwc0I1RDVXY2xJUkk3UQ?oc=5",
       "published": "Fri, 09 Oct 2026 19:14:00 GMT",
       "summary": "Cette morgue retrouve un corps oublié dans sa chambre froide : l’homme était mort il y a 14 ans, en novembre 2012 &nbsp;&nbsp; Midi Libre",
-      "themes": []
-    },
-    {
-      "region": "occitanie",
-      "source_id": "midilibre",
-      "source_label": "Midi Libre",
-      "title": "\"Ce sont les chauffeurs qui signalent ce qu’ils voient\" : Poidz, un GPS gratuit pour les routiers conçu à Agde par David Bartolomeu - Midi Libre",
-      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPS1JEakVDbmlmQmxvVklieUFpMDJRTnJsUXFlWFFYbVRZa3VyaEp2UXNKYUdHb2JZOXRubU56ZGVOTGJBbGUyOGV2Wk42bEVPbzRaZDdHcFY5UWd3RklyZFZQbDkwWmw3LXFfLUI4NXNIN3NNbmw1bnAwSkR2bDhnN3dBandfMW9JVTRvTHRXOVhuLTBDWFhOYzVBY1prbUdEMzJqZWkzWU5hbXR5YjhGMk1WcE5uYTFQVE9UZTBLOU5zSTl4RGNDbWRnNUhiX3RlTlFJLUFUYlQwbW5hZGtzckowM09hM1RCM3RvMW1DTVFXaWxzSE1fbkFRRFIyLW0xbkFGMQ?oc=5",
-      "published": "Fri, 09 Oct 2026 15:01:00 GMT",
-      "summary": "\"Ce sont les chauffeurs qui signalent ce qu’ils voient\" : Poidz, un GPS gratuit pour les routiers conçu à Agde par David Bartolomeu &nbsp;&nbsp; Midi Libre",
       "themes": []
     },
     {
@@ -130,30 +120,22 @@
       "region": "occitanie",
       "source_id": "midilibre",
       "source_label": "Midi Libre",
-      "title": "242 kg de résine de cannabis saisis sur l’A75 : une \"mule\", recrutée sur fond de dette de jeu, interpellée au péage de Millau - Midi Libre",
-      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOajZSLWo4eENGVkF5Y0VUb3JkS2hZYV9DX3Rkb2p3WWZvMDBWdERodmZxaTFQUFNGbV8tMmNJRGhyWENSMF9UU01EZks2VS15b0pMUE1JZGtpaUFqV1RNbVRBUjNBRHY3WGt1LUlLWk1wbXgtb0dyakM1c01UNkhJenJneGdYRVk4ZHA4R1JiTXh1eW1uVm13Rmo4ajhoVGZ2aHlIYkRLVG9KMHB5N1NqYTBZYVU5ZUNZUmJGQVVkUjJYLXFKeEhQcmZkUHk2enlUNi04NGhndmpOeXJkcFF6Rzg2NEJVQjdJOFo0ZHo5ZEVaV25GaVk5Nk51MA?oc=5",
-      "published": "Fri, 09 Oct 2026 15:11:00 GMT",
-      "summary": "242 kg de résine de cannabis saisis sur l’A75 : une \"mule\", recrutée sur fond de dette de jeu, interpellée au péage de Millau &nbsp;&nbsp; Midi Libre",
-      "themes": []
+      "title": "Présidentielle 2027 : \"Une affaire dont tout le monde se moque\"… Accusé d’antisémitisme, Jordan Bardella affirme être \"un garçon raisonnable\" - Midi Libre",
+      "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPb0RRa3BxMXJYaDBQbDdVaUZKVVhyOWtmTjlwSXJpekk2RFJfTmVfVXFqTlJ6dk9ZOUtaSXdPZ3R4TW81Skpld19PMVh2UDRhOXlFZW9EdERQWHNFVVhhd3pjSDcwb3k3OXppdFdRVDd2dUpjSFY4UHF1Sm42YTBacmZzYmtjQzhHb2VNMlpmN0ZrZ01rYzVHb0xvLVllVC1rOGI3c2VIQ0kxTTVNb2xLQWU2LXJNYWExTi1GSncwN0tOM1NuVG9NdzZGRHJ6WHhtNHdQd0hVaVkxQXpQSHRvbmNhZHNVeVJfeG5nOW1wbGJFTUd2ZDhMN01wY0pzWThiaUREbl9kU3dlM1Jac0E?oc=5",
+      "published": "Fri, 09 Oct 2026 05:59:00 GMT",
+      "summary": "Présidentielle 2027 : \"Une affaire dont tout le monde se moque\"… Accusé d’antisémitisme, Jordan Bardella affirme être \"un garçon raisonnable\" &nbsp;&nbsp; Midi Libre",
+      "themes": [
+        "elections_2027"
+      ]
     },
     {
       "region": "occitanie",
       "source_id": "midilibre",
       "source_label": "Midi Libre",
-      "title": "Maison inondée, campeurs paniqués et routes coupées : l’Hérault sous les eaux après des pluies diluviennes d’une violence inouïe - Midi Libre",
-      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOUkFuM0FVd3ZJOXF5dlUya0F2QWxuZnctQW1jMWMwcHhiMEpibU9HNndkeTNYczh5N3A0Zjd4bkxwR0c0Q0Rranp6UURvR1ZBWHJjUUNnQ3JWVlJMWnFFNXU4UUVnUHZqSzlsYXBGZkktWERRdko5SHAzMnZjM3N1YmRITG0tQ3JHMzA3VWQwams5S2hhZmJLMDh2enV4VHBtOXRLQWE1QmxXeUhKMmRaOW4xVUpqZDVXX0JOc2lwMi1fLUN1RGx6bkFmLUl2TUNCcEV2VUw1czZwWENDcVNtVjduNzBFcHV5UEFSUTZvU0NYQU1WdnlfMjFGWWdlVjZSZmc?oc=5",
-      "published": "Wed, 07 Oct 2026 08:05:00 GMT",
-      "summary": "Maison inondée, campeurs paniqués et routes coupées : l’Hérault sous les eaux après des pluies diluviennes d’une violence inouïe &nbsp;&nbsp; Midi Libre",
-      "themes": []
-    },
-    {
-      "region": "occitanie",
-      "source_id": "midilibre",
-      "source_label": "Midi Libre",
-      "title": "Une décision très stratégique pour Lidl : l’enseigne change ses horaires, voici quand les magasins seront désormais ouverts - Midi Libre",
-      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxObUxiel8tRnlPVkFiT0tfOU9FSXBDZzlnc0IyWDZYcHByM1VMRnRsMkxVLS0xX1hZaU9sYXdwbURIU1NMdmV5Zkw4WXUyTnFjS256aDlNMTR0d0NXVWNYNVB5ZWthbF95elBMODluNU1tSUVvY3VkY2NGUVZuRXNXSTNHX3p3NnhWMG5HbWJBSnBLT0VndmlxWGZTR2VUWGVyQy1Yc0VHUk1ZckpjN3Uyd0FsV002RXRrWERKS2dmRE9tdmN2OC03NTV5Z2ltZmtqUlYxSkFTaWNKbnpMOFR5cGRUd3RMaG04U21pMWNlRGlRRm4xYVU5OTh5aVM?oc=5",
-      "published": "Fri, 09 Oct 2026 07:41:00 GMT",
-      "summary": "Une décision très stratégique pour Lidl : l’enseigne change ses horaires, voici quand les magasins seront désormais ouverts &nbsp;&nbsp; Midi Libre",
+      "title": "\"Ma fille est une miraculée\" : à Montpellier, une élève de 8 ans atteinte d’autisme quitte l’école en pleine journée sans que personne ne la voit - Midi Libre",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNOFJiRmFnQUZiZk9jWU1VZHNNblpzX3A0SW45Z2ZWSzB0N3BTLWZMVHFBVHpJSDBMSkNqYUVBWGdYMmtfQWhXeVltLUdhaGhVbFcyZzM5UHlaSjVzRHFvbHZ2M0F3ZDR0VXoxRlp4MUVBT2I0SFRhNUFEUjB0Q1hocE1hMGpqNzNnczI5bDBsZzFqZEVZMUd5OTlTRVR0TzdSZnkyWlJFdDdZX1BqalQ4aTRPbzhhQnJuZ3g1TUpNc1JKcG9DMjFpUi1lY040MXk5THJrbHhIcTVNOENOQlNFY0k1SnJHRkRDVFVEZEhDNA?oc=5",
+      "published": "Fri, 09 Oct 2026 11:01:00 GMT",
+      "summary": "\"Ma fille est une miraculée\" : à Montpellier, une élève de 8 ans atteinte d’autisme quitte l’école en pleine journée sans que personne ne la voit &nbsp;&nbsp; Midi Libre",
       "themes": []
     },
     {
@@ -170,30 +152,50 @@
       "region": "occitanie",
       "source_id": "midilibre",
       "source_label": "Midi Libre",
-      "title": "\"Ma fille est une miraculée\" : à Montpellier, une élève de 8 ans atteinte d’autisme quitte l’école en pleine journée sans que personne ne la voit - Midi Libre",
-      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNOFJiRmFnQUZiZk9jWU1VZHNNblpzX3A0SW45Z2ZWSzB0N3BTLWZMVHFBVHpJSDBMSkNqYUVBWGdYMmtfQWhXeVltLUdhaGhVbFcyZzM5UHlaSjVzRHFvbHZ2M0F3ZDR0VXoxRlp4MUVBT2I0SFRhNUFEUjB0Q1hocE1hMGpqNzNnczI5bDBsZzFqZEVZMUd5OTlTRVR0TzdSZnkyWlJFdDdZX1BqalQ4aTRPbzhhQnJuZ3g1TUpNc1JKcG9DMjFpUi1lY040MXk5THJrbHhIcTVNOENOQlNFY0k1SnJHRkRDVFVEZEhDNA?oc=5",
-      "published": "Fri, 09 Oct 2026 11:01:00 GMT",
-      "summary": "\"Ma fille est une miraculée\" : à Montpellier, une élève de 8 ans atteinte d’autisme quitte l’école en pleine journée sans que personne ne la voit &nbsp;&nbsp; Midi Libre",
+      "title": "Une décision très stratégique pour Lidl : l’enseigne change ses horaires, voici quand les magasins seront désormais ouverts - Midi Libre",
+      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxObUxiel8tRnlPVkFiT0tfOU9FSXBDZzlnc0IyWDZYcHByM1VMRnRsMkxVLS0xX1hZaU9sYXdwbURIU1NMdmV5Zkw4WXUyTnFjS256aDlNMTR0d0NXVWNYNVB5ZWthbF95elBMODluNU1tSUVvY3VkY2NGUVZuRXNXSTNHX3p3NnhWMG5HbWJBSnBLT0VndmlxWGZTR2VUWGVyQy1Yc0VHUk1ZckpjN3Uyd0FsV002RXRrWERKS2dmRE9tdmN2OC03NTV5Z2ltZmtqUlYxSkFTaWNKbnpMOFR5cGRUd3RMaG04U21pMWNlRGlRRm4xYVU5OTh5aVM?oc=5",
+      "published": "Fri, 09 Oct 2026 07:41:00 GMT",
+      "summary": "Une décision très stratégique pour Lidl : l’enseigne change ses horaires, voici quand les magasins seront désormais ouverts &nbsp;&nbsp; Midi Libre",
       "themes": []
     },
     {
       "region": "occitanie",
       "source_id": "midilibre",
       "source_label": "Midi Libre",
-      "title": "Mort de Loana : on sait désormais de quoi est décédée la star de téléréalité disparue il y a sept mois - Midi Libre",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQUGU2MnUzank1eHhSQkVrTmZ6YUYzUkVwSlRzWnFTQnZpcW5HMFNBYzhzZzJlN3FXRk1wZHc1eUN6cm4xRUVyMV9QS28tZ25Yak5Ham1CTEtXQ0RUaUtTY1p6dXZBWEZ1Ui16NlcyVHRCOXh4Sm1JSXAxLXQ2SlRpUnNRTTZNaHVyM3hqa3JxaDAtb0FidDdGWUdZR1pWZDJEOVhzOE4wSlhoNlhuc2p5Y2NrazM1elBOdUFJRVZ0N1RfLXJXdmQwZDRLZDBRYXBFajFIOUlKeWhNRTllRU1xUU10VQ?oc=5",
-      "published": "Tue, 06 Oct 2026 10:57:00 GMT",
-      "summary": "Mort de Loana : on sait désormais de quoi est décédée la star de téléréalité disparue il y a sept mois &nbsp;&nbsp; Midi Libre",
+      "title": "Autoroute A69 : plus que quelques jours avant la fin des travaux, la mise en service est prévue pour \"la première semaine de novembre\" - Midi Libre",
+      "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxORHI4OFBTZ1R3QVV0RnBsaHIzMi1NM3hWUDRFdlIxUmNHWjFXeHdvUkI0d0xoajZCZ0kyZ3RjV0F4WlhfTjFvc3NqekF1UmJkamJVRERHU1FNVmNWWWxuVlJsN1I0cmROM2Y2cnlURkFzbzNiV2VsMFl1elFRRkplVjRNVVU4b1R5OXlyN2prSFQ3S3N0cnozQ0l0WFkyWmk2bWV5N25vdmhyd2E1bm92LVA0MmpOQ2pzUUFOSmJ4cVBkbXAwZ3RNTW5tX0kzUm1LaWFUSFZuX2hhNGxDemxBbGV5bUY0ME1MdUliREI0ZF9aTFl3Z3V5Z1FEUUZnN1pzQ1ctc2xrN1E5dw?oc=5",
+      "published": "Fri, 09 Oct 2026 17:38:00 GMT",
+      "summary": "Autoroute A69 : plus que quelques jours avant la fin des travaux, la mise en service est prévue pour \"la première semaine de novembre\" &nbsp;&nbsp; Midi Libre",
       "themes": []
     },
     {
       "region": "occitanie",
       "source_id": "midilibre",
       "source_label": "Midi Libre",
-      "title": "\"J’ai eu tellement peur qu’on ne me retrouve jamais\" : Rose a passé 10 heures accrochée à un câble au fond d’un puits à Villeneuve-lès-Béziers - Midi Libre",
-      "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOQWhWY2R0bGRMTHV4VlNyRzBtQ1BVamRfTlRhRGNwQmowd3VzTVpZdFFMN1VGb2Q1UGhHci1NZnY2aHBDdEtpclgxOTZCVXN3OURzUkFybG1fOW9zaklpUERfUWZ1Y0pRZWtLQXhDT2hRVktCcVF0U0x2WFZNR0pqZG5ySE1YMWFHZ1NLWWNrNnk0Rm52Ym1tU1IwVkhGSFZQYlNsZUd4ekpMbG1pWGI3MEU5R1Y3UDQ2VnRTWXB1QV9lemMtb19pUHl4b1hBOHo1VVo4bFdvMjAwYnNJMnVtTDZ6NnJDaFdvclZoMGtxVk42N0xiRG43NDhPRlRPYXRnM1pTRGZweGdxSTAzY01R?oc=5",
-      "published": "Tue, 06 Oct 2026 13:13:00 GMT",
-      "summary": "\"J’ai eu tellement peur qu’on ne me retrouve jamais\" : Rose a passé 10 heures accrochée à un câble au fond d’un puits à Villeneuve-lès-Béziers &nbsp;&nbsp; Midi Libre",
+      "title": "242 kg de résine de cannabis saisis sur l’A75 : une \"mule\", recrutée sur fond de dette de jeu, interpellée au péage de Millau - Midi Libre",
+      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOajZSLWo4eENGVkF5Y0VUb3JkS2hZYV9DX3Rkb2p3WWZvMDBWdERodmZxaTFQUFNGbV8tMmNJRGhyWENSMF9UU01EZks2VS15b0pMUE1JZGtpaUFqV1RNbVRBUjNBRHY3WGt1LUlLWk1wbXgtb0dyakM1c01UNkhJenJneGdYRVk4ZHA4R1JiTXh1eW1uVm13Rmo4ajhoVGZ2aHlIYkRLVG9KMHB5N1NqYTBZYVU5ZUNZUmJGQVVkUjJYLXFKeEhQcmZkUHk2enlUNi04NGhndmpOeXJkcFF6Rzg2NEJVQjdJOFo0ZHo5ZEVaV25GaVk5Nk51MA?oc=5",
+      "published": "Fri, 09 Oct 2026 15:11:00 GMT",
+      "summary": "242 kg de résine de cannabis saisis sur l’A75 : une \"mule\", recrutée sur fond de dette de jeu, interpellée au péage de Millau &nbsp;&nbsp; Midi Libre",
+      "themes": []
+    },
+    {
+      "region": "occitanie",
+      "source_id": "midilibre",
+      "source_label": "Midi Libre",
+      "title": "Un exercice incendie à l’école - Midi Libre",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPMU5KMlAwZWFtMzdjNUpmbWNyQnBXTklaUXVnbmNRYjJYRjhJY3JVTGh3OEo5SHlnd2V2WTJvTmJjSWR3Tm13TWNGQS1peUNCS2pET2oweG5QOFFmc0pIOWQwVlF2M0JfVFBsaEtaLTZlMHVsMmJ3Si1WMlNRTUR2VDAwdWY?oc=5",
+      "published": "Sat, 10 Oct 2026 03:05:00 GMT",
+      "summary": "Un exercice incendie à l’école &nbsp;&nbsp; Midi Libre",
+      "themes": []
+    },
+    {
+      "region": "occitanie",
+      "source_id": "midilibre",
+      "source_label": "Midi Libre",
+      "title": "Des voisins font arrêter les travaux qui avaient déjà débuté : tout le quartier doit rembourser près de 700 000 euros au prestataire - Midi Libre",
+      "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPX01RZmJBQVR2aGp1Vm1FeFB0d3hpRTlQUE9kUlRMOG5TQ1NUOVBBcy1FSlE3MEcxbnlsTzF1NERYNjNsaElULTMyMXF2cS1OSk1ZcEhaWWM2T0NjazJQWl9mYU5pTWtneTFMcWo1bjBWaFR5NFJEdVRnNlpwYUNpQ01ScGN3NkotRDBZczRHU3hVNUV5OHFpc2ZfSExPUmNyLS1hT01IMVl1d0JwNERJc1lIdHlJaE9mRFZsUmFkcEpmZnhMc1hDM09tc1V1T0RYNmQydHRpSFRoMkhJeUpzdXRiR0REbTNMTHUtTjh5dmNZNmNrX2RnaEFac3ZQUGZ4dFdUVU1rSU9faEk?oc=5",
+      "published": "Wed, 07 Oct 2026 13:42:00 GMT",
+      "summary": "Des voisins font arrêter les travaux qui avaient déjà débuté : tout le quartier doit rembourser près de 700 000 euros au prestataire &nbsp;&nbsp; Midi Libre",
       "themes": []
     },
     {
@@ -222,52 +224,20 @@
       "region": "occitanie",
       "source_id": "midilibre",
       "source_label": "Midi Libre",
-      "title": "\"Tout se calcule…\" : grâce à son achat en viager, Pier espère partir à la retraite plus tôt - Midi Libre",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPamRfWlhZWW9HdEYtWGRKR2owVUVkRmxaUm1SRFF2RThUMjhXU2NZTkpWNy1keTVhUUNQMGVhNXNGZVRCSmR5UlFDck16TlpOLTBybmdlbFMxeXZvQktEV2xucnlkc3N2cVRDTnJDbGI4Q1U3dGMzS0JOQUF3NUFYb3B3VGtSS3pEbGhrUDZodHJPdEpvb3VEYVhXVUNBZWZKRldzUC11aG9iSW4zMzNqMl9QVXg3LXJWemZfY3dVd1VyUVVaTEdRdHE1cTdaT3FBSUxnVzlSUnlvaG1odnA2QTdwSQ?oc=5",
-      "published": "Fri, 09 Oct 2026 15:31:00 GMT",
-      "summary": "\"Tout se calcule…\" : grâce à son achat en viager, Pier espère partir à la retraite plus tôt &nbsp;&nbsp; Midi Libre",
+      "title": "\"Vous n’avez qu’à le manger\" : un chasseur pensait abattre un sanglier mais il s’agissait du cochon domestique d’une ferme pédagogique - Midi Libre",
+      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOUnZIdDhrN1FhM3RBcXdvMGJ2ZExBRGk4ZEE0VzFZVjZvM0N6bThpSXZTZnltYncwSE0tZkN0MHg2TUpld3MyRndwckozZFhJMGN4WWhTQkZqTlVDWHpfOHZ6RkxyNFV0N0U0OXlscDl6NGZxYnM3LWpLQi1uSkJ5MUxpZ2NBSk1LRVo3dEZLMDZMVnNaMXNGZ2JaamluYThvMktTWmthVThQNWlMQ1F1eGRTeFlhN05hYnhLakF4cWNNYUROU2RYME5jV1YxNkFoNEZucGt4bmQ1YTY1bFFnLXMwWHU5U2FFLU1CVXV3dHctQUh4TkVhbFNIZnFJM0VLS2NxcFRn?oc=5",
+      "published": "Fri, 09 Oct 2026 06:40:00 GMT",
+      "summary": "\"Vous n’avez qu’à le manger\" : un chasseur pensait abattre un sanglier mais il s’agissait du cochon domestique d’une ferme pédagogique &nbsp;&nbsp; Midi Libre",
       "themes": []
     },
     {
       "region": "occitanie",
       "source_id": "midilibre",
       "source_label": "Midi Libre",
-      "title": "\"Le pont emporté, l’accès totalement interrompu\" : après de violentes pluies, un hameau près d'Avène totalement isolé - Midi Libre",
-      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPLVZycld0dUE3NlltTVk0NnJiOGFXU1lGVXhxYmNNRDBZTEFRcUFCMXowNlhuQlI2dHRTWllGYXNjdG05enpNdUQ2NEp6R0JmMTZHdHJvWHNoM0J2eGRLNjExcDMtb0JlbUhDbldVSVRyZXIxNEVydXYyWHhON2ozZ0I2TllsYlFYUF9ERWp5RFdkRHJuTFNhanUtMWs1SXNoSTJsaFpuZk1haE4wUlA5RGdPcnpORmtsWVBja3JrMkplY3NiaTFRZHNiaUVoejRpVklUVzZNdUJhM0ZtRjJlVGpNdTgzSGs5QlphWFJrUQ?oc=5",
-      "published": "Wed, 07 Oct 2026 16:30:00 GMT",
-      "summary": "\"Le pont emporté, l’accès totalement interrompu\" : après de violentes pluies, un hameau près d'Avène totalement isolé &nbsp;&nbsp; Midi Libre",
-      "themes": []
-    },
-    {
-      "region": "occitanie",
-      "source_id": "midilibre",
-      "source_label": "Midi Libre",
-      "title": "Des voisins font arrêter les travaux qui avaient déjà débuté : tout le quartier doit rembourser près de 700 000 euros au prestataire - Midi Libre",
-      "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPX01RZmJBQVR2aGp1Vm1FeFB0d3hpRTlQUE9kUlRMOG5TQ1NUOVBBcy1FSlE3MEcxbnlsTzF1NERYNjNsaElULTMyMXF2cS1OSk1ZcEhaWWM2T0NjazJQWl9mYU5pTWtneTFMcWo1bjBWaFR5NFJEdVRnNlpwYUNpQ01ScGN3NkotRDBZczRHU3hVNUV5OHFpc2ZfSExPUmNyLS1hT01IMVl1d0JwNERJc1lIdHlJaE9mRFZsUmFkcEpmZnhMc1hDM09tc1V1T0RYNmQydHRpSFRoMkhJeUpzdXRiR0REbTNMTHUtTjh5dmNZNmNrX2RnaEFac3ZQUGZ4dFdUVU1rSU9faEk?oc=5",
-      "published": "Wed, 07 Oct 2026 13:42:00 GMT",
-      "summary": "Des voisins font arrêter les travaux qui avaient déjà débuté : tout le quartier doit rembourser près de 700 000 euros au prestataire &nbsp;&nbsp; Midi Libre",
-      "themes": []
-    },
-    {
-      "region": "occitanie",
-      "source_id": "midilibre",
-      "source_label": "Midi Libre",
-      "title": "Présidentielle 2027 : \"Une affaire dont tout le monde se moque\"… Accusé d’antisémitisme, Jordan Bardella affirme être \"un garçon raisonnable\" - Midi Libre",
-      "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPb0RRa3BxMXJYaDBQbDdVaUZKVVhyOWtmTjlwSXJpekk2RFJfTmVfVXFqTlJ6dk9ZOUtaSXdPZ3R4TW81Skpld19PMVh2UDRhOXlFZW9EdERQWHNFVVhhd3pjSDcwb3k3OXppdFdRVDd2dUpjSFY4UHF1Sm42YTBacmZzYmtjQzhHb2VNMlpmN0ZrZ01rYzVHb0xvLVllVC1rOGI3c2VIQ0kxTTVNb2xLQWU2LXJNYWExTi1GSncwN0tOM1NuVG9NdzZGRHJ6WHhtNHdQd0hVaVkxQXpQSHRvbmNhZHNVeVJfeG5nOW1wbGJFTUd2ZDhMN01wY0pzWThiaUREbl9kU3dlM1Jac0E?oc=5",
-      "published": "Fri, 09 Oct 2026 05:59:00 GMT",
-      "summary": "Présidentielle 2027 : \"Une affaire dont tout le monde se moque\"… Accusé d’antisémitisme, Jordan Bardella affirme être \"un garçon raisonnable\" &nbsp;&nbsp; Midi Libre",
-      "themes": [
-        "elections_2027"
-      ]
-    },
-    {
-      "region": "occitanie",
-      "source_id": "midilibre",
-      "source_label": "Midi Libre",
-      "title": "Maison Tarbouriech : du petit mas ostréicole à la véritable PME - Midi Libre",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdXJxUG9pT1JCbTZXdVZkVWZLUWczYjdmWlNnajFoUUJzNHFlT2RBUHNBaW5Tdll2Q0N5bDd1ZzFESVRicGNQTFhic1BDSXpfU3JHVWNwd3JZYVFNdTFTOGluNjZkRGtSZEMzaFVoWG9Kc1cydmc2UTZDQWU1eERUemVQS3I4c19lMDQwek84OGc0ODlvS2NUc1p5cmFWSUZ2ZHRqX1JIVUc3Q2htTTFz?oc=5",
-      "published": "Thu, 08 Oct 2026 15:56:00 GMT",
-      "summary": "Maison Tarbouriech : du petit mas ostréicole à la véritable PME &nbsp;&nbsp; Midi Libre",
+      "title": "Affluence à l’Espéran pour Octobre Rose - Midi Libre",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQOFV5X2I5TllwZ3JBOTVtVkpwWTNFdnFRZ1dXQzZPeFp6OEgxVk14MnNGSTdyZmk4bU05SnNrekMxTDJMaXNaR210MFFvX1dSbmQ2MHg2bDZhV0VpU0RLUjlfQVhIZVB1OHhpSG9uaTNLNFVZa2xycjJkaVJTWUlGanVFYlZsd3h3SFhZNGZabks?oc=5",
+      "published": "Sat, 10 Oct 2026 03:05:00 GMT",
+      "summary": "Affluence à l’Espéran pour Octobre Rose &nbsp;&nbsp; Midi Libre",
       "themes": []
     },
     {
@@ -294,50 +264,52 @@
       "region": "occitanie",
       "source_id": "midilibre",
       "source_label": "Midi Libre",
-      "title": "Deux voitures volées, un réservoir percé, trois jeunes Lunellois interpellés en pleine nuit à Montpellier - Midi Libre",
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPblk1b1RoY1lpRkROb0x6RG9wZGJVQVJ5ZHVUa2xHQXlYOTJfVGlVdTU1dUYzdDRxSmZZa1FXNjJVdVFqQ3YwOEtMeEFRc2RmbGhnSDVkbGwyblZCZDY2a3JNeXJ5TmxWTjlXWDNabGZkUF9CYVJKYklQdVZwUzJEYWl1alRXTWxWMjk5N0ZlVHdrbnpINnBOdEZqeU5Mcm9xYVRKRkJjZTdGbU5CSFoya2FkaXhLMnJjdEk5bFdaQV9MdjlUX0NudkZRZkJsdnltclJXV0lmbWlKVXpjZk00dzdQa2g5c1k?oc=5",
-      "published": "Fri, 09 Oct 2026 04:01:00 GMT",
-      "summary": "Deux voitures volées, un réservoir percé, trois jeunes Lunellois interpellés en pleine nuit à Montpellier &nbsp;&nbsp; Midi Libre",
+      "title": "Un poste de police attaqué et incendié avec des agents bloqués à l’intérieur : une enquête ouverte pour tentative d’homicide volontaire - Midi Libre",
+      "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOVlBTWUp6cmtEM3p0cFBUd1dPVWFJMFpoUmZSc296cEh5NFcwVFVYQnpxTWctTUc2RE9ucVloWS1MX3JOUXI2cV8xbW1DV3lZMFIyVGdmSVZzRXlhQ2piVmpjMy1nLU1Eb01rb29OWE1rTXpNRDBocTRhbXd6a3V6RXUwZE1JZThKSTJlbGZBanU2SlQ0V0JMandZZy1RTmhTb0EzMGxnaTFyS1U1eFMxTHFDOHhWeHhVaTVUTk4tQW0wdFBPbl9nenBLbnFzVS1DRmg0elQ2RnBDWDQzM25tOGdSWjZmaEgyZFdJUlF2ZGNkalR1QU5ONlB4R0xzZHpRZWtjS0d5WEFBblFi?oc=5",
+      "published": "Fri, 09 Oct 2026 18:22:00 GMT",
+      "summary": "Un poste de police attaqué et incendié avec des agents bloqués à l’intérieur : une enquête ouverte pour tentative d’homicide volontaire &nbsp;&nbsp; Midi Libre",
+      "themes": [
+        "criminalite"
+      ]
+    },
+    {
+      "region": "occitanie",
+      "source_id": "midilibre",
+      "source_label": "Midi Libre",
+      "title": "Blocus des lycées : cette astuce trouvée par des jeunes pour semer le chaos lors des cours en ligne… et leur organisation est très bien ficelée - Midi Libre",
+      "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOekxGMmxNNndvcGFCcTU1RV9XN0U5Z1VoOW9sRzRBYXVnaEEtVWthV1ZDZEJmQlhJRW9jaVFQb1RVSkR0MjRoeDdxSGY0N0hJOGczVm56WGkwdzZzUlhHU1Q5US0zU2VHWHpObkhyTkhndXJWSE1ZbEUya2lYNndjUmVtUWc2OGVlMlliUnZ3ZUZnaEYxMGdDaHFzRHlmQWtBdGl2a0Z0dkpCVHd5RXhyVFRPNlk4d01NbDBGMENiMnoyaFlZdUNvMWhUY3ZpTmdzLUNST094YWpCcGVmUGJjcFNFWHJpOU9SWjhRMzhwMmMwanptSlV4cTBnUXkxSkdCUVdEZDV6bkhDYWFVNDgwOGtKUFdNREV2?oc=5",
+      "published": "Fri, 09 Oct 2026 06:02:00 GMT",
+      "summary": "Blocus des lycées : cette astuce trouvée par des jeunes pour semer le chaos lors des cours en ligne… et leur organisation est très bien ficelée &nbsp;&nbsp; Midi Libre",
       "themes": []
     },
     {
       "region": "occitanie",
       "source_id": "midilibre",
       "source_label": "Midi Libre",
-      "title": "Les dégâts de la tornade, une pétition pour une gare, un journaliste porte plainte : l’essentiel de l’actu en région - Midi Libre",
-      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQME01czVaX3NMMGU4RDhWcEd3ZndSU2FBejlYeTZuTnAyWG8wWXUwbjlTaUw1UW1PVkVWZ0lkR1MzdGJXZ3ljWUFvNFBtLUdjcGtDaTBrbERGbU5sbWRIcThaRmhWU2o3d3VabFVXaTdkN2lmTlNxT0dsT2p0bktXYWJJcHhFNl8zYy1oNm55aUpEcnlVeFhIdUVkQ3J0MmVRem52VE13X1hPMlRkZE9LcUFoTjVjTGg0dTI5MTRqY2lZTmFfV2FtZ01Tb3JPTndWYVhWMVFTR3p5VDU0VlVsZEtjc290WmVCY0dOdTlSUFc?oc=5",
-      "published": "Thu, 08 Oct 2026 18:31:00 GMT",
-      "summary": "Les dégâts de la tornade, une pétition pour une gare, un journaliste porte plainte : l’essentiel de l’actu en région &nbsp;&nbsp; Midi Libre",
+      "title": "La dispute conjugale dégénère : elle s’interpose devant sa voiture, son ex la percute et s’enfuit en enlevant leur enfant - Midi Libre",
+      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPNmlSdjFDeTU0WW1NRHZEbEViY0huSHVJdzZQLVdJT0ZLd3pBcFJPWENaWUdxRnBGM0VGMWlOcklvdmNKTThYaS1kYTlUUTdwd0hSWTdJOGdqMF9BTm81LUNLZ19hc0VRZ21ld3hMQUtmbWZCRmFwcVBaUUlXRV9ld1VieWp4dHFRVEkzek1TMi02MGFkNlo3d1FfZU1aNkQ4UzNQa2x3bDdDUkVzVzl4QmNJQ0ZHUmhJV3BSa0RPOURLb2t6U1R5UTJmckhXRnVpbW1aTXBjWExJNHZjUkxsVWd6dHZmRXl4MDJpRFFWay14YktaU2hYUQ?oc=5",
+      "published": "Fri, 09 Oct 2026 05:42:00 GMT",
+      "summary": "La dispute conjugale dégénère : elle s’interpose devant sa voiture, son ex la percute et s’enfuit en enlevant leur enfant &nbsp;&nbsp; Midi Libre",
       "themes": []
     },
     {
       "region": "occitanie",
-      "source_id": "lindependant",
-      "source_label": "L'Indépendant",
-      "title": "Top 14 : \"Un match plus difficile que contre Castres et Bordeaux\"… Comment l’USAP a préparé sa réception de Vannes, déjà déterminante pour la suite de la saison - L'Indépendant",
-      "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxPMjN3WmtPRGs0aTg1b0FvMjhmS2RlWnlpM0w2ekYwd3RCSTNWclN6aHNINHpjakJyVWdVLUp1M0V2SEw1Slp3REowTi0wSWZXOGp0SlZnaUt6UEszVkdBN0kyWlBFaV9mQWd2bEpxRmhBYUNQa2txWXJRT0lLSWRwdkpTN1p4YllQSUdkclFsRWJCSzFuZjJxdW1ka283LThpSWpocVh0azFrN0tUUXhuLXprLUdvbWwxR2hVR1lCU29OSUp6V1Z4bnJQUmQzdnFRb3NSMzFMczRhaDlsYzJSS2dQeGZyQkd4Z243aHV0TUpESTVwellpWXN6VVNfalV5VENrSUtPZVA2ZFpoZDB1djVwYWk4R3haZ2lRUWpPbWFjV09u?oc=5",
-      "published": "Fri, 09 Oct 2026 13:56:00 GMT",
-      "summary": "Top 14 : \"Un match plus difficile que contre Castres et Bordeaux\"… Comment l’USAP a préparé sa réception de Vannes, déjà déterminante pour la suite de la saison &nbsp;&nbsp; L'Indépendant",
+      "source_id": "midilibre",
+      "source_label": "Midi Libre",
+      "title": "Les compos de Valence Romans – ASBH : Joseph Laharrague forfait, Job Poulet et Paul Recor associés au centre - Midi Libre",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPTnZhNUVjbXFnTVNzaDhHcWt4YzBiWi1TZGxKRzd1NHJ0T2ItUTlUOHdzdWNHdmtpS3VOdVh6TDNKXzRJSXdNVVVSYlVwbHhHUjNaalYyb1FmaTB3Z1JpNXRCaHluNjEwY0paRFhYMEpwSTRnb2JZdTlBX09KQXI2anV2VGw1b0lFdHpNSWFod2FkN2Q4WFNzempUTGRBMURwMURwN1BWd3NRVmxrRXUweEl3YmFHcFRla0VVbi1FSF9oUnc4ZEZ4R245eVIzcGtDT3YxUlZ1QnJ0UWFXVHdQYmNNMmhudVU?oc=5",
+      "published": "Thu, 08 Oct 2026 16:16:00 GMT",
+      "summary": "Les compos de Valence Romans – ASBH : Joseph Laharrague forfait, Job Poulet et Paul Recor associés au centre &nbsp;&nbsp; Midi Libre",
       "themes": []
     },
     {
       "region": "occitanie",
-      "source_id": "lindependant",
-      "source_label": "L'Indépendant",
-      "title": "Argentine : un \"Catalan\" et un \"Narbonnais\" dans le staff des Pumas - L'Indépendant",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMGRlSGg4Q1FjR2x3aFhLSUdFbGJXYWRLZXhfLVIzRmJIanFfODVvdlhJcnZ6VUhfQXY1VDFHcjhsLWJ6V1Z2WWMxWDgzbEFlNEtMTjM5RVROSmtjMl9lXzlmNzVpZzNDbjJwUjBBUDliSkRacE1Hdl9mNWlnS0lBR19zWUNwSnJUanBuOHUtTGluV05rZE5oM0Z0SFlobXlGUmJ5by1PUVRVNHBZdVVrdDZBaw?oc=5",
-      "published": "Fri, 09 Oct 2026 14:35:00 GMT",
-      "summary": "Argentine : un \"Catalan\" et un \"Narbonnais\" dans le staff des Pumas &nbsp;&nbsp; L'Indépendant",
-      "themes": []
-    },
-    {
-      "region": "occitanie",
-      "source_id": "lindependant",
-      "source_label": "L'Indépendant",
-      "title": "Top 14 : Sevu Reece et Paolo Garbisi titulaires, Lucas Velarte en 8, première pour Marco Riccioni… La composition de l’USAP pour la réception de Vannes - L'Indépendant",
-      "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxONW5EOXBMdHg4ckZLWndLV3U3c3FxQmFJZHJJM2Q2TTZvbmZZamNUSXFMTmpFVWVCNEZkcC01bmp6QnRlcEgwUjRCTDVUbzhndWt1S3hqZXN4UWRPMWwzTW5ZRDgzWmRiSGNmRDF0YTlDaDBJV2JBTUc2cEN1SEdLOVNJN0d4QkNaUWRhQk5NNm9aeFlOeDZsb0FpREZobHBjUF9JanNGTGFmejJiVlJla0xNdlY3NUFhMTBrcGFVdUQyeWpaRjNaOUQyMUNZZWdWUWpUVGNWWjRRS0FWclFxZ1k1VVFPa0pEZkJlcnpTQWw3UzcwY2hlRktkeVRZR05EQUhGbF9zczhaaEdsanRpZEJMY0Q3aTR0bW15VUdQOUx4VjQ?oc=5",
-      "published": "Fri, 09 Oct 2026 16:03:00 GMT",
-      "summary": "Top 14 : Sevu Reece et Paolo Garbisi titulaires, Lucas Velarte en 8, première pour Marco Riccioni… La composition de l’USAP pour la réception de Vannes &nbsp;&nbsp; L'Indépendant",
+      "source_id": "midilibre",
+      "source_label": "Midi Libre",
+      "title": "Course-poursuite à Montpellier : un automobiliste sous protoxyde d’azote refuse le contrôle puis tente d’en découdre avec les policiers - Midi Libre",
+      "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPUjRhWlRUamJ0S0hCRUpsTTlBNnB6QlhwcmxDWGtmSjY5U3pQWTJrSE5JMml3Q1htZkJrTEhXMnhYTlpqdWpKTzJUZVFWb2V4MjhPa1ZGLUhjWS1RT0E3N0NSNHVvZDZ4Y1JFREtYMTJGcWNmMEVvWFFRZzMwLThOcGZvemZJQVBqMUIxYW0zSjFuTW5UR0lGNlJOYTR6WXZtRHRnekpNa01YR18zeW1UVzlacndlbTBHV3RsQW11OXNFVEpXSzkwNWUtNm4xeUtPbGV2a0ZCSGxWQUcwOFNZVk1FdmVOLUVWMmFGbC1qVFFJR050XzJBa0RRWTlVbzdGR01pS21sZWlCUmph?oc=5",
+      "published": "Fri, 09 Oct 2026 05:01:00 GMT",
+      "summary": "Course-poursuite à Montpellier : un automobiliste sous protoxyde d’azote refuse le contrôle puis tente d’en découdre avec les policiers &nbsp;&nbsp; Midi Libre",
       "themes": []
     },
     {
@@ -354,20 +326,20 @@
       "region": "occitanie",
       "source_id": "lindependant",
       "source_label": "L'Indépendant",
-      "title": "Enseignante frappée dans une école de l'Aude : des anciens élèves se mobilisent au soutien de la professeure blessée - L'Indépendant",
-      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPZEdDTUlDWE9nUkx0aVVxX21TXzlkd2JYVHRtYm5LZl9wQ0ZYVlBzb09vZFp4TGItNi1BdFl2cmhQTWRHRU0zQXdPUHlSd0FIenljT20zclhtWVBMYUEyeXItajZ2OWNjWUg4dlBUem9ZcWVFc3I4Ui13R3RXcE96cDlnODFJb1MxdF80YjFXZnRSQUhmQ2VXU3NaRjRLbWh0WWx0UGtGOWRVcHZhQVhfN0JRejdHN1VYSkMtZVB0bkpSRmZwR05FeVY0amk1emVXa3NaR2dqbkJsZDVpSTVUVWtYZU5VQ1JUV3Q0bkFlR3dydkU1QVoxUw?oc=5",
-      "published": "Fri, 09 Oct 2026 10:26:00 GMT",
-      "summary": "Enseignante frappée dans une école de l'Aude : des anciens élèves se mobilisent au soutien de la professeure blessée &nbsp;&nbsp; L'Indépendant",
+      "title": "Top 14 : Sevu Reece et Paolo Garbisi titulaires, Lucas Velarte en 8, première pour Marco Riccioni… La composition de l’USAP pour la réception de Vannes - L'Indépendant",
+      "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxONW5EOXBMdHg4ckZLWndLV3U3c3FxQmFJZHJJM2Q2TTZvbmZZamNUSXFMTmpFVWVCNEZkcC01bmp6QnRlcEgwUjRCTDVUbzhndWt1S3hqZXN4UWRPMWwzTW5ZRDgzWmRiSGNmRDF0YTlDaDBJV2JBTUc2cEN1SEdLOVNJN0d4QkNaUWRhQk5NNm9aeFlOeDZsb0FpREZobHBjUF9JanNGTGFmejJiVlJla0xNdlY3NUFhMTBrcGFVdUQyeWpaRjNaOUQyMUNZZWdWUWpUVGNWWjRRS0FWclFxZ1k1VVFPa0pEZkJlcnpTQWw3UzcwY2hlRktkeVRZR05EQUhGbF9zczhaaEdsanRpZEJMY0Q3aTR0bW15VUdQOUx4VjQ?oc=5",
+      "published": "Fri, 09 Oct 2026 16:03:00 GMT",
+      "summary": "Top 14 : Sevu Reece et Paolo Garbisi titulaires, Lucas Velarte en 8, première pour Marco Riccioni… La composition de l’USAP pour la réception de Vannes &nbsp;&nbsp; L'Indépendant",
       "themes": []
     },
     {
       "region": "occitanie",
       "source_id": "lindependant",
       "source_label": "L'Indépendant",
-      "title": "XV de France - \"C'est un joli clin d’œil\" : Patrick Arlettaz dans les locaux de l'USAP et sur ses terres pour un séminaire avant la Nations Cup - L'Indépendant",
-      "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQTTB5c25RRzQtaGxOeGtkMmY3VUk3clFuN3NlUzY5X283d2lFVzEwckhiNGhtcjQyNTZQZXV0QlZWLVNXbEtRMld1Q1ZEa19PTHJHYm4zWVVRTkJqVHN1Vkh6cjZkUVdzbTdlRi1FUTdZNm1mdTZXVEhUSUU5RjhzY0ZNUHZPMnpBdENXYzR4UTJ4amQxaEFKZmFUZzFrdUowOW4tQ1lON3RoLXRlRkFZaTNmX2lsWFdCa1RFdnozOVg0YWlQa2c1dXdDWFMtaDJZd1F0alJ4ajN2MTFRbjA4SjZucWZGNHUzSkVlc3hJZFdFNzVGLXBrX2d5a1RCTV95T2E2NUphXzhBaUYwTjA0SWRaQmxUdw?oc=5",
-      "published": "Fri, 09 Oct 2026 16:42:00 GMT",
-      "summary": "XV de France - \"C'est un joli clin d’œil\" : Patrick Arlettaz dans les locaux de l'USAP et sur ses terres pour un séminaire avant la Nations Cup &nbsp;&nbsp; L'Indépendant",
+      "title": "Enseignante frappée dans une école de l'Aude : des anciens élèves se mobilisent au soutien de la professeure blessée - L'Indépendant",
+      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPZEdDTUlDWE9nUkx0aVVxX21TXzlkd2JYVHRtYm5LZl9wQ0ZYVlBzb09vZFp4TGItNi1BdFl2cmhQTWRHRU0zQXdPUHlSd0FIenljT20zclhtWVBMYUEyeXItajZ2OWNjWUg4dlBUem9ZcWVFc3I4Ui13R3RXcE96cDlnODFJb1MxdF80YjFXZnRSQUhmQ2VXU3NaRjRLbWh0WWx0UGtGOWRVcHZhQVhfN0JRejdHN1VYSkMtZVB0bkpSRmZwR05FeVY0amk1emVXa3NaR2dqbkJsZDVpSTVUVWtYZU5VQ1JUV3Q0bkFlR3dydkU1QVoxUw?oc=5",
+      "published": "Fri, 09 Oct 2026 10:26:00 GMT",
+      "summary": "Enseignante frappée dans une école de l'Aude : des anciens élèves se mobilisent au soutien de la professeure blessée &nbsp;&nbsp; L'Indépendant",
       "themes": []
     },
     {
@@ -416,6 +388,16 @@
       "region": "occitanie",
       "source_id": "lindependant",
       "source_label": "L'Indépendant",
+      "title": "Top 14 : \"Un match plus difficile que contre Castres et Bordeaux\"… Comment l’USAP a préparé sa réception de Vannes, déjà déterminante pour la suite de la saison - L'Indépendant",
+      "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxPMjN3WmtPRGs0aTg1b0FvMjhmS2RlWnlpM0w2ekYwd3RCSTNWclN6aHNINHpjakJyVWdVLUp1M0V2SEw1Slp3REowTi0wSWZXOGp0SlZnaUt6UEszVkdBN0kyWlBFaV9mQWd2bEpxRmhBYUNQa2txWXJRT0lLSWRwdkpTN1p4YllQSUdkclFsRWJCSzFuZjJxdW1ka283LThpSWpocVh0azFrN0tUUXhuLXprLUdvbWwxR2hVR1lCU29OSUp6V1Z4bnJQUmQzdnFRb3NSMzFMczRhaDlsYzJSS2dQeGZyQkd4Z243aHV0TUpESTVwellpWXN6VVNfalV5VENrSUtPZVA2ZFpoZDB1djVwYWk4R3haZ2lRUWpPbWFjV09u?oc=5",
+      "published": "Fri, 09 Oct 2026 13:56:00 GMT",
+      "summary": "Top 14 : \"Un match plus difficile que contre Castres et Bordeaux\"… Comment l’USAP a préparé sa réception de Vannes, déjà déterminante pour la suite de la saison &nbsp;&nbsp; L'Indépendant",
+      "themes": []
+    },
+    {
+      "region": "occitanie",
+      "source_id": "lindependant",
+      "source_label": "L'Indépendant",
       "title": "Agirc-Arrco : coup dur pour 14 millions de retraités... Leur pension n'augmentera pas autant qu'espéré au mois de novembre - L'Indépendant",
       "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOWFpRU2MxN2lIR3lBNUFrOHlHdTZXazN5TFBGcjNlOUMtWUx4OXVLSzEyd2NwTjhhWVp5SExMWThWS1FzMmJGa253VlE0U3RVZXU5WkdDR3JKT3BnT1E1QkthOS1pdy1tb1NDSHlLeDVkSFFJUmpkUUREa0VpbjBUOUpIOGVKVG45Tlh5d0xjRXBwb3U1TzJHZllrVGRKakRtTkZYZm1XamtWTWt6d3FyNkxVUUJBa0k4MUMtTnBOck5TekdSdVpJRzNDQjhiQ2Vqc3U5ZEo3TVFIcmhFQ1pNSWEzbmRiV0xKemlkejJaOExFSlF1am9CcVlSSQ?oc=5",
       "published": "Fri, 09 Oct 2026 14:08:00 GMT",
@@ -426,34 +408,10 @@
       "region": "occitanie",
       "source_id": "lindependant",
       "source_label": "L'Indépendant",
-      "title": "\"On a 27 heures de cours et souvent autant d’attente\" : un lycée de Perpignan a laissé ses élèves s’exprimer sur un quotidien \"pas choisi\" - L'Indépendant",
-      "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQaVJOeVJSWnV4ZklJQmlQWnFkUHp3ZkhZYmVZcUZJdEZrdFp1OWJpcXlXdzUzeXlvX0tneU9UNDRJM0ZzdFhYT0tCT2c4RGt2T2NVb2ZxaTBuOUd6dm5SQlRsZEZmQjZtT0dfaGFnSUFVS0c3dW1RRDlvcTFZdEMzZWh3ZmlVeE5wSkhCdUJYYkNCcEJxX3l6dDAxYnpTRWhaZEZjTXEtSmFyQ2dKMGM2ZmU5LUxpdlRRUDR5VGV2REF5cklEempDUkJkcUZ0S2lYOFN1RUpabXJnSGM5LURON21ZVXllSC1fRHBXUTdPdVZEVExaMTlIZTFoZHpoUGQ3U1ozTTZqMFc1SUk?oc=5",
-      "published": "Fri, 09 Oct 2026 15:16:00 GMT",
-      "summary": "\"On a 27 heures de cours et souvent autant d’attente\" : un lycée de Perpignan a laissé ses élèves s’exprimer sur un quotidien \"pas choisi\" &nbsp;&nbsp; L'Indépendant",
-      "themes": [
-        "enseignement"
-      ]
-    },
-    {
-      "region": "occitanie",
-      "source_id": "lindependant",
-      "source_label": "L'Indépendant",
-      "title": "Une battue organisée dans l’Aude pour retrouver un sexagénaire : l'homme a fini par rentrer chez lui - L'Indépendant",
-      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNbk5sbTlmaFlJekFGY0NGRHVHWl9veTBCMWs2UUdKb1k5NU5wWmJoVGgtdGkxc3pSYmFmanBWOU5EclRPQ1RzektzUWwwSmo4Snd5V0dGZGRqUDhzRFdlR3g1dE1tell0WEVzcFVEZXNMNlhrekNKRnZZNWlwMzgta2J4Z1ctb29heTJ2MkwxTW82VEJJeS1mWWtKamQ4bG5ESFVzS28wRHhMeDNmMWFYT2xCd3BSZW82dU5jekZjNEZ1ejBNSktDX3JUSEhPczV6ZjNseVlhTjNKMXFCT1pJRzk4V2xGX3ZOcElrbWs4SFdDTVE?oc=5",
-      "published": "Thu, 08 Oct 2026 14:35:00 GMT",
-      "summary": "Une battue organisée dans l’Aude pour retrouver un sexagénaire : l'homme a fini par rentrer chez lui &nbsp;&nbsp; L'Indépendant",
-      "themes": [
-        "chasse"
-      ]
-    },
-    {
-      "region": "occitanie",
-      "source_id": "lindependant",
-      "source_label": "L'Indépendant",
-      "title": "VIDEO - Un double vortex venu de la mer : les images de la violente tornade qui a frappé la Sicile - L'Indépendant",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQNWtKOExLM0xBeVA4MzZVLXN4d3NtX3R2eEQ5NmtoLW95eHlnZVlLNnB6YlIxNzRKTWNudW9nX3ZhV3NkSEFWV1ZuV2hDTjhWOWlzMjNsMHl6RC1wSEpTODRFZGlieHE1NzFwMEEzeVdINHBQRDlTZFBwOGlwSWVRNndnWXB5Wnh3eFFvU0M3QUo2S0h0a0VWUDFSVVFFejctVm5vMk5hWEx2M3hzOXl6N3VBNlM1Mkw4VFNQRVIwSUdYQWtsMVhLVnFCOFpJT1RWcm4wSlN0azlwakkwTU9R?oc=5",
-      "published": "Fri, 09 Oct 2026 10:47:00 GMT",
-      "summary": "VIDEO - Un double vortex venu de la mer : les images de la violente tornade qui a frappé la Sicile &nbsp;&nbsp; L'Indépendant",
+      "title": "XV de France - \"C'est un joli clin d’œil\" : Patrick Arlettaz dans les locaux de l'USAP et sur ses terres pour un séminaire avant la Nations Cup - L'Indépendant",
+      "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQTTB5c25RRzQtaGxOeGtkMmY3VUk3clFuN3NlUzY5X283d2lFVzEwckhiNGhtcjQyNTZQZXV0QlZWLVNXbEtRMld1Q1ZEa19PTHJHYm4zWVVRTkJqVHN1Vkh6cjZkUVdzbTdlRi1FUTdZNm1mdTZXVEhUSUU5RjhzY0ZNUHZPMnpBdENXYzR4UTJ4amQxaEFKZmFUZzFrdUowOW4tQ1lON3RoLXRlRkFZaTNmX2lsWFdCa1RFdnozOVg0YWlQa2c1dXdDWFMtaDJZd1F0alJ4ajN2MTFRbjA4SjZucWZGNHUzSkVlc3hJZFdFNzVGLXBrX2d5a1RCTV95T2E2NUphXzhBaUYwTjA0SWRaQmxUdw?oc=5",
+      "published": "Fri, 09 Oct 2026 16:42:00 GMT",
+      "summary": "XV de France - \"C'est un joli clin d’œil\" : Patrick Arlettaz dans les locaux de l'USAP et sur ses terres pour un séminaire avant la Nations Cup &nbsp;&nbsp; L'Indépendant",
       "themes": []
     },
     {
@@ -500,20 +458,10 @@
       "region": "occitanie",
       "source_id": "lindependant",
       "source_label": "L'Indépendant",
-      "title": "Top 14 : le \"hip drop\", quelle est cette technique de plaquage désormais sanctionnée par World Rugby - L'Indépendant",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQSkdUNWJONzFndkJ3MW1ILVE5Qk5GcTZKMjZTS3pjMmM3WVpjUXFaalpJZS1mb2xGdDNkSTgtWTF5SUlJbER0Q2podEZrMTFmdF9RWFU4Wlo3MW5tYU1DRVFRdE1oVlNnNjFnUmh0cUxqdkkwYUpCTkFXUUpqd2h3ZUZNZlRUR19oQVZTaWJTR3JkRkgzWkNFOFpDSGRYekN4T3lWMzBNc2RxUTZxNjJiaUtmUmJjejhPS3JJZlVzS21wZVdWVW9JVVVSY1JnV1hrbmpxd2tQM3Mtc1gtZGJnXw?oc=5",
-      "published": "Thu, 08 Oct 2026 14:53:00 GMT",
-      "summary": "Top 14 : le \"hip drop\", quelle est cette technique de plaquage désormais sanctionnée par World Rugby &nbsp;&nbsp; L'Indépendant",
-      "themes": []
-    },
-    {
-      "region": "occitanie",
-      "source_id": "lindependant",
-      "source_label": "L'Indépendant",
-      "title": "Incendie de Crans-Montana : Jacques Moretti va subir une expertise psychiatrique, ce que cela pourrait changer pour la suite de la procédure - L'Indépendant",
-      "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQajFTUjJQR2ZqVTNhaEZKOEhjV2dDblFsWWVlZTZENFF4VGwwWkE0TUNsZnBzMGVpdHJWckdmRzQxbllwY1ZkNnA4YnE3SVVJNVNQOHhMQk1lYnBJSEdvSEo2VjdsVGo3NzZ2RzJqaDQyZ0c4QWZ3b0tNSmJiNVgxelVlQzNmSmdxOGxtc1dTeFJiNTNCazZjaUFkeXJlVk9jeUJKMUx3ZlRrNC1NeDBLWkE3dEN4ZU45eTBkcEFJMjJBSDdtRE9sVjZOWm5lRnRsX3MwUlAtNFBNMHI0MjBWdTluN0xpYTN3RzZlWjRpblVsRUNoTVJIME5qTVpVemltS2lSTTk4eTk2V1VJY2syRFhyRmZnXy1P?oc=5",
-      "published": "Fri, 09 Oct 2026 09:35:00 GMT",
-      "summary": "Incendie de Crans-Montana : Jacques Moretti va subir une expertise psychiatrique, ce que cela pourrait changer pour la suite de la procédure &nbsp;&nbsp; L'Indépendant",
+      "title": "Argentine : un \"Catalan\" et un \"Narbonnais\" dans le staff des Pumas - L'Indépendant",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMGRlSGg4Q1FjR2x3aFhLSUdFbGJXYWRLZXhfLVIzRmJIanFfODVvdlhJcnZ6VUhfQXY1VDFHcjhsLWJ6V1Z2WWMxWDgzbEFlNEtMTjM5RVROSmtjMl9lXzlmNzVpZzNDbjJwUjBBUDliSkRacE1Hdl9mNWlnS0lBR19zWUNwSnJUanBuOHUtTGluV05rZE5oM0Z0SFlobXlGUmJ5by1PUVRVNHBZdVVrdDZBaw?oc=5",
+      "published": "Fri, 09 Oct 2026 14:35:00 GMT",
+      "summary": "Argentine : un \"Catalan\" et un \"Narbonnais\" dans le staff des Pumas &nbsp;&nbsp; L'Indépendant",
       "themes": []
     },
     {
@@ -530,20 +478,22 @@
       "region": "occitanie",
       "source_id": "lindependant",
       "source_label": "L'Indépendant",
-      "title": "Il avait empoché 271 296 euros de recettes : un propriétaire parisien condamné à 110 000 euros d'amende pour avoir loué son studio sur Airbnb et Booking - L'Indépendant",
-      "link": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxQNkFSakgxcHNuY1dGNGliOXlmQmNkOUlhSWNmYW16OURqZjVocDNzU0FkbV8tZXVHRjhJR0FrdjlfYkt3Rl81a1JrbE5ZSnY5NXdyd1FEU0E2THRqcUVobnRKV1c1VnlQWmRjajlPY2NySGN6alg1ZDZwQ0tud0RRWWw1WG5ycWJaNXpxZTI3eGVyU3FTQ2I0ajlNNU5zSEhMS3VLVWtBOE1QbmVYOUpUMHFacTNYczMyZGtfX2g2X3lmd0tQYWFiUjAtbjNKajVfLWxwTmtzQ0lqa1VuN09sZVFIaV9oVlVqdWRfYTBsSGpBSjR6R1Q1eVFuSnd3bXE0NlpWOWxVbTFZOXpad0ZSZHBQX2dycWJXcFoyb3ZxY0hIeFZrbkxiUw?oc=5",
-      "published": "Thu, 08 Oct 2026 04:05:00 GMT",
-      "summary": "Il avait empoché 271 296 euros de recettes : un propriétaire parisien condamné à 110 000 euros d'amende pour avoir loué son studio sur Airbnb et Booking &nbsp;&nbsp; L'Indépendant",
-      "themes": []
+      "title": "\"On a 27 heures de cours et souvent autant d’attente\" : un lycée de Perpignan a laissé ses élèves s’exprimer sur un quotidien \"pas choisi\" - L'Indépendant",
+      "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQaVJOeVJSWnV4ZklJQmlQWnFkUHp3ZkhZYmVZcUZJdEZrdFp1OWJpcXlXdzUzeXlvX0tneU9UNDRJM0ZzdFhYT0tCT2c4RGt2T2NVb2ZxaTBuOUd6dm5SQlRsZEZmQjZtT0dfaGFnSUFVS0c3dW1RRDlvcTFZdEMzZWh3ZmlVeE5wSkhCdUJYYkNCcEJxX3l6dDAxYnpTRWhaZEZjTXEtSmFyQ2dKMGM2ZmU5LUxpdlRRUDR5VGV2REF5cklEempDUkJkcUZ0S2lYOFN1RUpabXJnSGM5LURON21ZVXllSC1fRHBXUTdPdVZEVExaMTlIZTFoZHpoUGQ3U1ozTTZqMFc1SUk?oc=5",
+      "published": "Fri, 09 Oct 2026 15:16:00 GMT",
+      "summary": "\"On a 27 heures de cours et souvent autant d’attente\" : un lycée de Perpignan a laissé ses élèves s’exprimer sur un quotidien \"pas choisi\" &nbsp;&nbsp; L'Indépendant",
+      "themes": [
+        "enseignement"
+      ]
     },
     {
       "region": "occitanie",
       "source_id": "lindependant",
       "source_label": "L'Indépendant",
-      "title": "Dans cette commune de l'Aude, des travaux nocturnes de voirie causent des fissures et des dégâts dans les maisons, les riverains en colère - L'Indépendant",
-      "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOeHZ3QnBGeTE3TXY2NnhRZE94c3JPdWxzVktITG9CYi1RZHJaUHYxakZITFp2RWZ0V2lwdVJhLVJUenpyM1VMemFRRnMzZkZsVFdZNDFVbmtNYnl6Snl1T1ZEVGc4QjNlVG9aZUVfUm5SM1RuejVISWZfYnJ0OFAwbWRGMVg5ckdlYmJrWGxJMjJVSjZtejhudnlYSjRQNFliYm1RWm5vR19KT29fcmVZT1o0WC04M1FuX1p4MERteFFPZmlaakZTUHl2eHd0YXNfazg1cFBOOGlta3dtb2JOaXc2Q1k4SG0ycTdHLU5rdDlNa3lfaGl0Mm1sTGNWNDY3aElWYUl2bTFvaDhybnE5eUZpWWVWZw?oc=5",
-      "published": "Thu, 08 Oct 2026 08:47:00 GMT",
-      "summary": "Dans cette commune de l'Aude, des travaux nocturnes de voirie causent des fissures et des dégâts dans les maisons, les riverains en colère &nbsp;&nbsp; L'Indépendant",
+      "title": "VIDEO - Un double vortex venu de la mer : les images de la violente tornade qui a frappé la Sicile - L'Indépendant",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQNWtKOExLM0xBeVA4MzZVLXN4d3NtX3R2eEQ5NmtoLW95eHlnZVlLNnB6YlIxNzRKTWNudW9nX3ZhV3NkSEFWV1ZuV2hDTjhWOWlzMjNsMHl6RC1wSEpTODRFZGlieHE1NzFwMEEzeVdINHBQRDlTZFBwOGlwSWVRNndnWXB5Wnh3eFFvU0M3QUo2S0h0a0VWUDFSVVFFejctVm5vMk5hWEx2M3hzOXl6N3VBNlM1Mkw4VFNQRVIwSUdYQWtsMVhLVnFCOFpJT1RWcm4wSlN0azlwakkwTU9R?oc=5",
+      "published": "Fri, 09 Oct 2026 10:47:00 GMT",
+      "summary": "VIDEO - Un double vortex venu de la mer : les images de la violente tornade qui a frappé la Sicile &nbsp;&nbsp; L'Indépendant",
       "themes": []
     },
     {
@@ -554,6 +504,56 @@
       "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOelZTdmN6MmVfNU85SjRMOFFBQXJSSEQ3SDRRTlMxZkhBdDlWQ3Y1Vko0b3BUNkM4X1VmNmc5X0JuUVVwTjIycVYzY2ktNGJfX1E1SUxJRS1lZFVDNVlDcXc4T2VqRTJ3Q243Qjd0OEs1c2tzeFdBNDNsdUZfUFBZZUhXNzJEYWFQd3Vwa0lFVnRnSTNUR2pxZTZVUVp2NFF2NUNYZ3ZyS01NdkZGQWUwQVdtaXdQMnJwQjBCOU0yckdrSnJtSWpLbkt5ek43Z005TktHUTgtbHg1bnVEdlFvVDA1dEllZw?oc=5",
       "published": "Fri, 09 Oct 2026 10:34:00 GMT",
       "summary": "Près de Perpignan : il effectuait des travaux en bordure du fleuve, l’engin de chantier tombe dans l’eau &nbsp;&nbsp; L'Indépendant",
+      "themes": []
+    },
+    {
+      "region": "occitanie",
+      "source_id": "lindependant",
+      "source_label": "L'Indépendant",
+      "title": "Il avait empoché 271 296 euros de recettes : un propriétaire parisien condamné à 110 000 euros d'amende pour avoir loué son studio sur Airbnb et Booking - L'Indépendant",
+      "link": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxQNkFSakgxcHNuY1dGNGliOXlmQmNkOUlhSWNmYW16OURqZjVocDNzU0FkbV8tZXVHRjhJR0FrdjlfYkt3Rl81a1JrbE5ZSnY5NXdyd1FEU0E2THRqcUVobnRKV1c1VnlQWmRjajlPY2NySGN6alg1ZDZwQ0tud0RRWWw1WG5ycWJaNXpxZTI3eGVyU3FTQ2I0ajlNNU5zSEhMS3VLVWtBOE1QbmVYOUpUMHFacTNYczMyZGtfX2g2X3lmd0tQYWFiUjAtbjNKajVfLWxwTmtzQ0lqa1VuN09sZVFIaV9oVlVqdWRfYTBsSGpBSjR6R1Q1eVFuSnd3bXE0NlpWOWxVbTFZOXpad0ZSZHBQX2dycWJXcFoyb3ZxY0hIeFZrbkxiUw?oc=5",
+      "published": "Thu, 08 Oct 2026 04:05:00 GMT",
+      "summary": "Il avait empoché 271 296 euros de recettes : un propriétaire parisien condamné à 110 000 euros d'amende pour avoir loué son studio sur Airbnb et Booking &nbsp;&nbsp; L'Indépendant",
+      "themes": []
+    },
+    {
+      "region": "occitanie",
+      "source_id": "lindependant",
+      "source_label": "L'Indépendant",
+      "title": "Le conducteur perd soudainement le contrôle de sa voiture à Carcassonne, et finit sa course dans les eaux du canal du Midi - L'Indépendant",
+      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNaTN2SHV2YmtsbkJobTVwRzVfX25YaFEtcFRRb093bGUwbzh3SjJ3ckVkVFBVRVF0d0JHZFYzY0xpUUlVR2t1TVdNajhvQ1NaNWY4WTNTdlVrMDZuX0pwXzNENkdSZ19rNHUzOFF6S2tJVWpQU3lqM094T0dHVzhQZWJ2LXVaNENHRUlkUDE4ZDd6Mkk4dG5PZ1VnMW5XQlpCV3J3TmpvcC05SDd2R2VUYzFnTkc1eVFrY09SS2pwVXpmYUI5bTQxbW04U2lkREtYR0xyZW5kbjJHV2VEZW4zVENNczl3VExaTURvTm0yc0NOazNabzFZX2d2clRtT1dELUtZ?oc=5",
+      "published": "Fri, 09 Oct 2026 07:20:00 GMT",
+      "summary": "Le conducteur perd soudainement le contrôle de sa voiture à Carcassonne, et finit sa course dans les eaux du canal du Midi &nbsp;&nbsp; L'Indépendant",
+      "themes": []
+    },
+    {
+      "region": "occitanie",
+      "source_id": "lindependant",
+      "source_label": "L'Indépendant",
+      "title": "Elle demande un poste de nuit pour élever son enfant et se fait licencier : l’employée obtient sa réintégration et 30 000 euros de dommages et intérêts - L'Indépendant",
+      "link": "https://news.google.com/rss/articles/CBMipwJBVV95cUxOWll0d2IyTW41NlRhX1llMXV6ZWJoS0xIWGxocS1DRFF2M2E5d0JuVUlnRFdLRFM4Rng3NTdzMDIzR0RXOXdBLWg5YXNfWkVMal8yYkZORnA3a1BLd1ZLNXUwY043YWplcU56ai1IV3RaZkFMSkZiNm9mUzQ1YXRLZkVXNWJXejROZ05aT21xVlAxbjZXRERBcmxEWU1OTi11RE9UcjBreF9kQ2FGcXpLeWtObVZ6RHNWQk16a1g4akRrTnlpNnZWaHNYazJVMUFGVWg1UjBxLVN4UXZrNHY3dkNFZEplalVnWkVMTlMxMmMxU3RsV0QxQ1VrUUZQMnJoN2d4VWUzRTl0Z0RSWGlhbzB4RnRRQTA0YUtsemxRTktEemFZaC1Z?oc=5",
+      "published": "Wed, 07 Oct 2026 20:53:00 GMT",
+      "summary": "Elle demande un poste de nuit pour élever son enfant et se fait licencier : l’employée obtient sa réintégration et 30 000 euros de dommages et intérêts &nbsp;&nbsp; L'Indépendant",
+      "themes": []
+    },
+    {
+      "region": "occitanie",
+      "source_id": "lindependant",
+      "source_label": "L'Indépendant",
+      "title": "Incendie de Crans-Montana : Jessica Moretti a fait une demande d'indemnisation pour \"perte de revenu\" auprès de son assurance - L'Indépendant",
+      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNTGpxNTg5MXFDU0FlOE00dXlxVTBjc2pKQUlCbXhXYlh2czdDVXJTRHlWa1NCT0JGOGw0b0hxT1RET285OUZNZ3djZU5pMU9QSVhIUzdoWldJN1BGMnRIakNEaUFGT3c4SU1jQmZnYlpNVE5WT285REhyNHFNcW1PVWxKaFFVT1Q3NjdvRngtTk5oTFJlN1RNOW5hcFhLbEwzUVZGcG12WS1JSTdYUFpYb1lZa2NrcnRndkdTS3hockpMNVlNVFFxdmtYVHhEZV9FU0tBaDB6ZjU0amY0QUpfZElhbGhkdEdSQVZaUHZMOXJSbkxha0JCcE04d3Awb0E4ZXc?oc=5",
+      "published": "Tue, 06 Oct 2026 16:31:00 GMT",
+      "summary": "Incendie de Crans-Montana : Jessica Moretti a fait une demande d'indemnisation pour \"perte de revenu\" auprès de son assurance &nbsp;&nbsp; L'Indépendant",
+      "themes": []
+    },
+    {
+      "region": "occitanie",
+      "source_id": "lindependant",
+      "source_label": "L'Indépendant",
+      "title": "Appel à témoins dans les Pyrénées-Orientales : hospitalisée à Perpignan, une femme de 47 ans a disparu à sa sortie - L'Indépendant",
+      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPVHVfWGp3a2MwN1RTVl9zV0kxNlBOSzZvc1ViNUNVenRuemI1TXhYd0JQbFFLTmJkdzVMUmRhbnl5aGFyOElLdXBmSmZJWlhmb19OYjRtZk93eHFaZlAtdEJhamtCTUdVR09LMlVxdi03YWh4cFhPYW9Sb0ladndjWmNCMDVZSlluVG9yUEpXLWh3akNRMnhyS3laZHRRR0xDQmNpakhuWl81Y1hjTzhqYnBLS2lxM20wNExsV1hjdzI0RU5JRGhkcjRVMFZKeENDa0gyTFB0YzhPSDFxR1NYRW0tMXhWSHNlaFhQUW5waEk0Q3dVQXc?oc=5",
+      "published": "Thu, 08 Oct 2026 10:02:00 GMT",
+      "summary": "Appel à témoins dans les Pyrénées-Orientales : hospitalisée à Perpignan, une femme de 47 ans a disparu à sa sortie &nbsp;&nbsp; L'Indépendant",
       "themes": []
     },
     {
@@ -572,50 +572,53 @@
       "region": "occitanie",
       "source_id": "lindependant",
       "source_label": "L'Indépendant",
-      "title": "Elle demande un poste de nuit pour élever son enfant et se fait licencier : l’employée obtient sa réintégration et 30 000 euros de dommages et intérêts - L'Indépendant",
-      "link": "https://news.google.com/rss/articles/CBMipwJBVV95cUxOWll0d2IyTW41NlRhX1llMXV6ZWJoS0xIWGxocS1DRFF2M2E5d0JuVUlnRFdLRFM4Rng3NTdzMDIzR0RXOXdBLWg5YXNfWkVMal8yYkZORnA3a1BLd1ZLNXUwY043YWplcU56ai1IV3RaZkFMSkZiNm9mUzQ1YXRLZkVXNWJXejROZ05aT21xVlAxbjZXRERBcmxEWU1OTi11RE9UcjBreF9kQ2FGcXpLeWtObVZ6RHNWQk16a1g4akRrTnlpNnZWaHNYazJVMUFGVWg1UjBxLVN4UXZrNHY3dkNFZEplalVnWkVMTlMxMmMxU3RsV0QxQ1VrUUZQMnJoN2d4VWUzRTl0Z0RSWGlhbzB4RnRRQTA0YUtsemxRTktEemFZaC1Z?oc=5",
-      "published": "Wed, 07 Oct 2026 20:53:00 GMT",
-      "summary": "Elle demande un poste de nuit pour élever son enfant et se fait licencier : l’employée obtient sa réintégration et 30 000 euros de dommages et intérêts &nbsp;&nbsp; L'Indépendant",
+      "title": "Guerre en Ukraine : face aux nouveaux drones russes à réaction Geran-4, l'efficacité redoutable et économique du système VAMPIRE ukrainien - L'Indépendant",
+      "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNdktQeXgyM2pKZldnNjBRdW5NbUNzV0RES3FfSDZEMUtheHllRmx6Ri1yY19GWTM5VWp2anlkOTNQejNaU2xMZ2lUMjc1V1BxbjVLei1DN0t0X3J3OXBsREpMUC1tWFc2dE43ek1vY1JtUEVRVmNYUzB2SmdLR2ctLWtvOUU0amVpU1BjcEs2WW1Pb3B6LUszaFdPWDlXWVRPYVVJd3J2SjZFanpIMXBXRGxUSy1nZnNvRzhjUUd3MFlEOHlCUjJfVkNmUHNDamxLSms2STNJTUViUE5EMFprU195LWRmX0ljcU55SHFfdUJIX3JoTVItVnJEZVZXRmljeWZia1pvdkNXd21Ic3p6UVBmUXQ?oc=5",
+      "published": "Wed, 07 Oct 2026 04:02:00 GMT",
+      "summary": "Guerre en Ukraine : face aux nouveaux drones russes à réaction Geran-4, l'efficacité redoutable et économique du système VAMPIRE ukrainien &nbsp;&nbsp; L'Indépendant",
       "themes": []
     },
     {
       "region": "occitanie",
       "source_id": "lindependant",
       "source_label": "L'Indépendant",
-      "title": "Explosion meurtrière de Saint-Laurent-de-la-Salanque : \"J’ai mis l’essence partout comme ils me l’ont dit, sur les caméras aussi\" avoue le jeune clandestin - L'Indépendant",
-      "link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxOeU04dVJiMk9ZZFFDQXJhV3Y0OEZXbEZoTjJlQ2hoaTNvWXRiRDNsNHZzNXFZVnR6MWRxN0s3alc0Q0lrdjlvdUROcjFJX2pHQlRNd1YxamozS1k1enRwQnBSOFZ5Z0F5NDQ0a0Myb2xibWJ2UTJEUjhLdmV6NFl0VlBQMC1VSlpmUDZXTUtxQXBfYUpNMjcyeGREVS1MZW5KXy1LMDFES0ZkakNuMWlxVGc2SmNELVFySjQweldwRklaaUJOZnF2SUdPbzFNNWpSZzIxWnpOUXdySl9Ca2xNLW1JT2h4VzJOUEdIamdJMFpSWlBhTTduWlFTRU1VN2k3ZnJtck1kZTVtWmVCODZsMEhWUFNYLXRITGJMd2pjSHRTUUJtQVE?oc=5",
-      "published": "Fri, 09 Oct 2026 09:11:00 GMT",
-      "summary": "Explosion meurtrière de Saint-Laurent-de-la-Salanque : \"J’ai mis l’essence partout comme ils me l’ont dit, sur les caméras aussi\" avoue le jeune clandestin &nbsp;&nbsp; L'Indépendant",
+      "title": "D’importants ralentissements sont en cours sur l’autoroute A9 : neuf personnes impliquées et sept blessés dans un accident - L'Indépendant",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNSFV5YzJlRVVsVVR0X1Z1a3JEM09CNVRudTlVODdjaHRDcWtCcVVEdzItRTV0Szl2NlZ4cDRySUJrM20wQ1BNcjJEaFc2VmFCeEpBOHh5WTdiMFVMOXNpRnNzZWJ1MTdxQ2tnSmRoYWFHS3FRV3czOThtWDJnRERjOVZBWjR3d242MS11NHpYZWg1eUhYYUhaYjNwdVlvQnlFM0RsUTAyRTFmMUdsSWs5bmRPU2o2LV80Zmk4WnlIQTlJOWJTa0JVQ3MzcUtNT1JwcnVxZ2Fn?oc=5",
+      "published": "Thu, 08 Oct 2026 07:22:00 GMT",
+      "summary": "D’importants ralentissements sont en cours sur l’autoroute A9 : neuf personnes impliquées et sept blessés dans un accident &nbsp;&nbsp; L'Indépendant",
       "themes": []
     },
     {
       "region": "occitanie",
       "source_id": "lindependant",
       "source_label": "L'Indépendant",
-      "title": "\"Malgré leur différence, ils ont toute leur place dans la scolarité\" : À Perpignan, les collégiens \"dys\" apprennent à dépasser leurs difficultés - L'Indépendant",
-      "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPd2pBREZPQ3ZkZ3IzREtGT2tKd2lXaUVJX3VITTl0Y0hmVVdWdkVPdVk2R3p5T0ZPcUhfVlZxaWR4RC1tbGJKU0JBNUlmWkxZU05acFZFY2NBWWxkRFl3MDhaaDBYYjA4YkNoSGl5U0YzR2V5UWdHNGpsb0xNQlduUXpiVnRVQTJkcTkyTmtQdVJRWTVUWGt4ZTA5bEc0YUo1SWRiZDlEVEFtWXdDc05hbzJ4cklXZWt3TDVaYXhvX25OakN3UG1OcHlmUG5YRUhpcHpISHFPQXgxLVJhaWNzeE5XY3I4UTlTblEyUVE1Z3FYalNJaEYzNndOZGZObVhRYVZGcXhoeHp6LUhPY1ppcDNlR0ZXc3M?oc=5",
-      "published": "Fri, 09 Oct 2026 16:44:00 GMT",
-      "summary": "\"Malgré leur différence, ils ont toute leur place dans la scolarité\" : À Perpignan, les collégiens \"dys\" apprennent à dépasser leurs difficultés &nbsp;&nbsp; L'Indépendant",
+      "title": "Présidentielle 2027 : le vote de la primaire sociale-démocrate prolongé jusqu’à dimanche soir en raison d’une cyberattaque, seulement 20 000 personnes avaient pu voter à 19 h - L'Indépendant",
+      "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxOZ0NTMXY3WTItdGl0QlhWTTRmb2tyNXdpOGFqNUF2VkVWazF1dk44VHJSYkR4bHdxSDRoVU0wTnc1b0pnYTBsdDJ6c0xoZXpnWmFzYV9MeUdBcm4zeGZfc3FjeE9GNWNqNUxBWHFIWE1OTlRsQVRMcVo5RnMxVmdXZk14QVFWRWJxcWxWZWttQk5mQjA0RHZ6bllqdVF6dnZEaXY4Qy1fenJKV2wwbS1OWUhPclNjNDd3TnFiYTZHZ09faFgzVTEtY245b0NXZzlDdy1ERjZGT1M4U1JPXzBteFhDb0E4TGYzYXQxWnNNV2tGODRfRTBsTmp6Zk9MX1o1YWg0elo4MXNXNmVDc0Izd1JEbFRIYTk3b1V0VWtHZ05LOWs?oc=5",
+      "published": "Fri, 09 Oct 2026 18:52:00 GMT",
+      "summary": "Présidentielle 2027 : le vote de la primaire sociale-démocrate prolongé jusqu’à dimanche soir en raison d’une cyberattaque, seulement 20 000 personnes avaient pu voter à 19 h &nbsp;&nbsp; L'Indépendant",
+      "themes": [
+        "elections_2027",
+        "cybercriminalite"
+      ]
+    },
+    {
+      "region": "occitanie",
+      "source_id": "lindependant",
+      "source_label": "L'Indépendant",
+      "title": "Tir réussi du missile M51.3 par la France : le Kremlin dit y voir un \"message fort et clair\" - L'Indépendant",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQTTFlbzBudmRBOTA4U3pxV3pPNVg3SGhtcGxzUTdtVExQRmZkNFNHSDE4YVJjckM0WmtBeWFUVURyaEdhcTh5WjQtM2JWd0FGZ29rTmowdjdzQ19NV3MwZ0Zka01ESk1MRkU5NDJiT2VxbDdfQ1VBaUh0aUtrLVk4bnF0ZTA3MVYyX0ZYM3lzUlRoeDlhREhRNnd6dFRFaXo1YkNEM0ZFUTZPdjMxc0o4OFdQdUFNVVBUeXNFUjNENzNPbTZ3QzdMcUhyZ0pYY2JmSkJsdDlR?oc=5",
+      "published": "Wed, 07 Oct 2026 13:24:00 GMT",
+      "summary": "Tir réussi du missile M51.3 par la France : le Kremlin dit y voir un \"message fort et clair\" &nbsp;&nbsp; L'Indépendant",
       "themes": []
     },
     {
       "region": "occitanie",
       "source_id": "lindependant",
       "source_label": "L'Indépendant",
-      "title": "Tour de France : ils avaient volé 15 000 euros de matériel à des journalistes français lors de la 2e étape en Catalogne, les voleurs arrêtés trois mois plus tard - L'Indépendant",
-      "link": "https://news.google.com/rss/articles/CBMipwJBVV95cUxNQTEzUGwxS3M5OVZ6aDUwV1FQSnFGNU5lV2d0MG1wMzJCNnJUdWNid005N0NwdkJ3VDFqUVFJWlNMRmctTlBaMVUyTVd0VkdURTktM1pYQlBjTlBYMl9EY2pDM25ESFJfZV9OYVlIc2U0czg5bDJiNjdWME5QcEs0aHlvZklpUjNNeS1yQ1RuaDBFYVI3NDYwZWRsQlpaVi1qMEhVTmJKMXFfSW5DUHZjLTZGS09TdGo5VFlINlQ4T21PUWw1aS1GbHltMEFKM3ZmUndDeXF0MkhNQ05mX0tHTlJPNEJLNFd5LUZRZzFTWTdmZ1VQVUo0VDRxY0tRUHhhYmt2S3hSU3hKMEtxM2luRUFjRHFzYnNwbUN6a1MzUkxoU29kdlRJ?oc=5",
-      "published": "Fri, 09 Oct 2026 10:51:00 GMT",
-      "summary": "Tour de France : ils avaient volé 15 000 euros de matériel à des journalistes français lors de la 2e étape en Catalogne, les voleurs arrêtés trois mois plus tard &nbsp;&nbsp; L'Indépendant",
-      "themes": []
-    },
-    {
-      "region": "occitanie",
-      "source_id": "lindependant",
-      "source_label": "L'Indépendant",
-      "title": "Le conducteur perd soudainement le contrôle de sa voiture à Carcassonne, et finit sa course dans les eaux du canal du Midi - L'Indépendant",
-      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNaTN2SHV2YmtsbkJobTVwRzVfX25YaFEtcFRRb093bGUwbzh3SjJ3ckVkVFBVRVF0d0JHZFYzY0xpUUlVR2t1TVdNajhvQ1NaNWY4WTNTdlVrMDZuX0pwXzNENkdSZ19rNHUzOFF6S2tJVWpQU3lqM094T0dHVzhQZWJ2LXVaNENHRUlkUDE4ZDd6Mkk4dG5PZ1VnMW5XQlpCV3J3TmpvcC05SDd2R2VUYzFnTkc1eVFrY09SS2pwVXpmYUI5bTQxbW04U2lkREtYR0xyZW5kbjJHV2VEZW4zVENNczl3VExaTURvTm0yc0NOazNabzFZX2d2clRtT1dELUtZ?oc=5",
-      "published": "Fri, 09 Oct 2026 07:20:00 GMT",
-      "summary": "Le conducteur perd soudainement le contrôle de sa voiture à Carcassonne, et finit sa course dans les eaux du canal du Midi &nbsp;&nbsp; L'Indépendant",
+      "title": "Incendie de Crans-Montana : Jacques Moretti va subir une expertise psychiatrique, ce que cela pourrait changer pour la suite de la procédure - L'Indépendant",
+      "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQajFTUjJQR2ZqVTNhaEZKOEhjV2dDblFsWWVlZTZENFF4VGwwWkE0TUNsZnBzMGVpdHJWckdmRzQxbllwY1ZkNnA4YnE3SVVJNVNQOHhMQk1lYnBJSEdvSEo2VjdsVGo3NzZ2RzJqaDQyZ0c4QWZ3b0tNSmJiNVgxelVlQzNmSmdxOGxtc1dTeFJiNTNCazZjaUFkeXJlVk9jeUJKMUx3ZlRrNC1NeDBLWkE3dEN4ZU45eTBkcEFJMjJBSDdtRE9sVjZOWm5lRnRsX3MwUlAtNFBNMHI0MjBWdTluN0xpYTN3RzZlWjRpblVsRUNoTVJIME5qTVpVemltS2lSTTk4eTk2V1VJY2syRFhyRmZnXy1P?oc=5",
+      "published": "Fri, 09 Oct 2026 09:35:00 GMT",
+      "summary": "Incendie de Crans-Montana : Jacques Moretti va subir une expertise psychiatrique, ce que cela pourrait changer pour la suite de la procédure &nbsp;&nbsp; L'Indépendant",
       "themes": []
     },
     {
@@ -626,6 +629,16 @@
       "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNZmpKRHB3VXRkZURvaEVsQjUzcG5jS0cyRnlpY3l4U0hpQndjQ053b0o2NEF6TVBBSG9XLVRHWVdVSVdaTWZjRy03QWpRSWQ2eXZkMFJZb3FMRGliTVN5WWx0eG5JSkdKOEMwMWppUE40akxzaHV3NTc5ODk2am43UmRaczdsNFBBZTQ2X250RHU4UEtsTGdHNDZxZVd2VlIwTXBFaGtRMTVRek5XRmNROHZYTlhMS0NLRG5Ra1lnMENtZWpwTnlQUHo0dFFuMzRza1VDSWVldEZTUFF5Mmk3WG5tQ2VVUWVsMEl1MndjMndNQVEtbG9mQ21BSmtxWmdJREJ2dDFzVQ?oc=5",
       "published": "Thu, 08 Oct 2026 15:30:00 GMT",
       "summary": "12 départements en vigilance jeudi soir : une alerte \"neige-verglas\" activée au milieu des orages et des pluies soutenues &nbsp;&nbsp; Centre Presse Aveyron",
+      "themes": []
+    },
+    {
+      "region": "occitanie",
+      "source_id": "centre_presse_aveyron",
+      "source_label": "Centre Presse Aveyron",
+      "title": "Livret A, LDDS, LEP… Pourquoi vous pourriez être concerné par le prélèvement direct de votre argent sur vos comptes - Centre Presse Aveyron",
+      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNaVdyNkFnWGstN242bG11RGYtR3ZNalFzMGRid2l6T21ESHMwaWd0LTRvMHJTYW8tMmdKQzVzTDJBVzJqQ2dDb0Vnaktialh3UW9PTzVYOExaMF85czRGcURIV0FKSmRIZHRKcjFkVmF2OUhYN1Z2SDhMekZXSlBKVTV3UmhieGl4S1BUdHphZlZVSzBLWlQzb0s1VmRRTG14QTcybTJ0d1lRUnFKWkZEb1JtTE9Ma2pPbTJaZDFWTG9DbEdSS1ZIb3p0OTFQT0pXeTN4MTJteWFwOXItZ3BfaGh1X3FSUVRWanNQSkNyTUEzM1pOVm1JcVZwQ1F5SjBa?oc=5",
+      "published": "Thu, 08 Oct 2026 04:01:00 GMT",
+      "summary": "Livret A, LDDS, LEP… Pourquoi vous pourriez être concerné par le prélèvement direct de votre argent sur vos comptes &nbsp;&nbsp; Centre Presse Aveyron",
       "themes": []
     },
     {
@@ -758,10 +771,20 @@
       "region": "occitanie",
       "source_id": "centre_presse_aveyron",
       "source_label": "Centre Presse Aveyron",
-      "title": "VIDÉO. Un bébé de 18 mois quitte seul sa crèche et marche jusqu’au lieu de travail de sa mère - Centre Presse Aveyron",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQV29LcDVFTE5xS0dFNXJDTERjaEZSWktoR0tfTWU5RVlGRTlOd0QtcmhzeS1ndUJkZ2RDLVpDWFhJRlFrSHRpa0p1ZDVDZkNzR0lpVGhFMl9Pa283T0xDQUFsdWVWZzZqbHlnekVfVTliS3hfQzVzUG5PNDRCQ2p0ckFNY0FKTGdvVnRsVkNpUHhVdXB5OHFJLWJhUTdUV2lMYkhOYkVUUi1LZ1JDQnozWEQ0UWFYdEN0RFVrakdPT1B2V29aRzNxU1pXUU1yVkJlV20yTUxPMmUtUVM3Qy1OUTZlY2w?oc=5",
-      "published": "Thu, 08 Oct 2026 11:58:00 GMT",
-      "summary": "VIDÉO. Un bébé de 18 mois quitte seul sa crèche et marche jusqu’au lieu de travail de sa mère &nbsp;&nbsp; Centre Presse Aveyron",
+      "title": "En pleine contestation lycéenne émaillée de violences, la police nationale relance son concours de nouvelles policières… aux lycéens - Centre Presse Aveyron",
+      "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPa2ZwTzE0SktxUEVLQUN5eVBYcjZDaC1LdTJQMnhya1lLb3dtUE85akVKZnc0UE9pcjNiSlZkRDRBRlJwcU5OcGY1b3JsZ0U4bHpIaEFVMUhwSVVSN2c0dWVNYy1yankyMDZLRW5jWm43SjhCT2xJWUVTNEMwdzA2V2hEek5lSWdiYTZDWVhTWFNUTW1BQXRIM0s2eTJQSDN4bWRjRWJPX0l2S2xTUnF4YmhOMWgtLW5Db21yMi1WbVp4MVlIb2c4dDVZTGRqcVUxY29lV1Q1bGxXcFJSbWh2WnhUWGtlM3hmMHdmNmtFYTZ0YmFMV1VBeGM5Qk9rTUFiVUtOOXlrVnJsS3VWTmdFdEw1bWd0S095?oc=5",
+      "published": "Fri, 09 Oct 2026 19:14:00 GMT",
+      "summary": "En pleine contestation lycéenne émaillée de violences, la police nationale relance son concours de nouvelles policières… aux lycéens &nbsp;&nbsp; Centre Presse Aveyron",
+      "themes": []
+    },
+    {
+      "region": "occitanie",
+      "source_id": "centre_presse_aveyron",
+      "source_label": "Centre Presse Aveyron",
+      "title": "Il tente de traverser l’A75 avec 242 kg de résine de cannabis : le conducteur dit avoir accepté le job pour éponger une dette de jeu - Centre Presse Aveyron",
+      "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxOTHNRNW92V29idzQ2LWx5THZMZTFGemFieHBfb0V1Zkx3WERZNEt0WjE1MVk5a2xpXzB2NFdhRFFGbklWM2lybEk0eXc4UlZjc2tycVhwNVJkWkE0MTlmajRtaGpyVlhHYUQtdUtUSTI2UTQ5b2lUZnBoaURnYmRTRV9lWEZUWDBlYVowX3NCYmRFWG1TMjNfVHdFNjlITDNENWd5WnIwNWw5ZS01bTFuMkVxbkFjVVJlUEM3MUczVFJkaXFqZ3dBU2ZCTFZRSGI3cVRCM2pENFZtbzEwa044RFlYMWhlYkRtWmpUVHU1c1Bnc3NIX0NmbFRrTnNOT3VweUgyY3BscjlWNHZqVFZMdWpNc3BfUWc?oc=5",
+      "published": "Fri, 09 Oct 2026 17:40:00 GMT",
+      "summary": "Il tente de traverser l’A75 avec 242 kg de résine de cannabis : le conducteur dit avoir accepté le job pour éponger une dette de jeu &nbsp;&nbsp; Centre Presse Aveyron",
       "themes": []
     },
     {
@@ -772,6 +795,26 @@
       "link": "https://news.google.com/rss/articles/CBMirAJBVV95cUxOLXFjQTJpVFBoUGJJOGpVMEZsbTJQNGw4WEtKRFkxd3JFcnBBLUxJZkRoQnh6Z1R6WDl4WjdzUFBnZ1Nkc00yaDllZGxtMVlNZUhyXy1IU2gtSHJXci13dUM2OEJ5MC1uOGZuMC02QjR5YzNTdnNHZmNBYWNLUFp6R3o1STNQNE9sdXpGbG9lOG5aSHlOOTVudHFJa2RRWDlYRHFhUjdEQXhIT3ZkLXk4SERSdkhMczgxdGtlTEdQY215cUlxSXpoeFpXaVY5dlhmS0xKWjJ1emp3QlBkc3h5Y2dQRE8tMnNvLWw5V3Y2bXM3N1dFZ2UyNm1hdkx6YVVLNmZ6Wjg1eG9WOGtsNGswanVISGxKdC1qdlk4OWR5eTBqN2ZveTJ0WEpYZ1k?oc=5",
       "published": "Thu, 08 Oct 2026 12:44:55 GMT",
       "summary": "Sénégal ou Maroc : mais qui a gagné la dernière coupe d’Afrique des nations ? Le Tribunal arbitral du sport examine un recours, à compter de ce jeudi 8 octobre &nbsp;&nbsp; Centre Presse Aveyron",
+      "themes": []
+    },
+    {
+      "region": "occitanie",
+      "source_id": "centre_presse_aveyron",
+      "source_label": "Centre Presse Aveyron",
+      "title": "VIDÉO. Un bébé de 18 mois quitte seul sa crèche et marche jusqu’au lieu de travail de sa mère - Centre Presse Aveyron",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQV29LcDVFTE5xS0dFNXJDTERjaEZSWktoR0tfTWU5RVlGRTlOd0QtcmhzeS1ndUJkZ2RDLVpDWFhJRlFrSHRpa0p1ZDVDZkNzR0lpVGhFMl9Pa283T0xDQUFsdWVWZzZqbHlnekVfVTliS3hfQzVzUG5PNDRCQ2p0ckFNY0FKTGdvVnRsVkNpUHhVdXB5OHFJLWJhUTdUV2lMYkhOYkVUUi1LZ1JDQnozWEQ0UWFYdEN0RFVrakdPT1B2V29aRzNxU1pXUU1yVkJlV20yTUxPMmUtUVM3Qy1OUTZlY2w?oc=5",
+      "published": "Thu, 08 Oct 2026 11:58:00 GMT",
+      "summary": "VIDÉO. Un bébé de 18 mois quitte seul sa crèche et marche jusqu’au lieu de travail de sa mère &nbsp;&nbsp; Centre Presse Aveyron",
+      "themes": []
+    },
+    {
+      "region": "occitanie",
+      "source_id": "centre_presse_aveyron",
+      "source_label": "Centre Presse Aveyron",
+      "title": "Cagoulé et armé, il braque un camping et repart avec la caisse, à sa recherche depuis cinq jours, la gendarmerie lance un appel à témoins - Centre Presse Aveyron",
+      "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxQS3FDTm1CbXFXbUlKV2lOaU5SSWxVczZhMGJBSzQ3cTFhck9PUS1NQWZlX01tdUdaTjg1VXlSWGJGbzRLRWVIMl9mT3h6dmttVUlTdEw2RWM2YUNTenFhalp6QUZsR3p2RHo5dHdrWWdSbGppc2p6OUo0aWVrcGdqT0dCTms2UWtJdDJEeXo2X3NJSEt1ZkFPSVd6cGp1Z0xpRUtBNGRsaW9hRUdQVGtHV29yVHVoeDI0eGZjY3BDVUVWTUpkYUFwLXlHVVhPOVo4QjhSNTVQaWt5T0RxZ2JXejBOR0pVSk80a3ZzOE93VE9DMWptYzdkWjRTNnpYZV9JeWRKcFdyMEFpZDdrM2MwOWRkT01Va3Y5THJuVFBn?oc=5",
+      "published": "Fri, 09 Oct 2026 12:08:00 GMT",
+      "summary": "Cagoulé et armé, il braque un camping et repart avec la caisse, à sa recherche depuis cinq jours, la gendarmerie lance un appel à témoins &nbsp;&nbsp; Centre Presse Aveyron",
       "themes": []
     },
     {
@@ -798,10 +841,42 @@
       "region": "occitanie",
       "source_id": "centre_presse_aveyron",
       "source_label": "Centre Presse Aveyron",
+      "title": "Il labourait à 12 ans le champ de ses parents avec sa moto : ce pilote aveyronnais progresse en finale du championnat de France des rallyes routiers - Centre Presse Aveyron",
+      "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxObE10WVhrVFd1NHJSSDBfUlBENVJGXy1PMWpjUm1ieENrOENxLXZMdTFicW1IeXVyOVR1RUdDVkw5Zzl3RnpRclhicHdMLTN5VmVwaUtiV25UbkVyb0lNSVVhV0lyU3I0ajAtNEZ1bEE2NmJQdW1YZDBSUHh5X0g2MEQ0TUNGOWQ0djFmYlFDMDVnUGE5VDhiZEFBeFBqTEczaU9qSDJ4MnRSOC1iSDJWWkFQNEx2cXQ0R0NRVFZZT3p2d0N6V3FhX2pwelVYYXhnMEFmcmhfSWFBdkJERG5TN2gwRWEwWWVsaVAtc2RoY1NyZk04a1Q1djdLVjhERjRzSkJwbHJlc19FT3o2bUp1SGNUNFp5Um5jNWFpd3FTdlFQcFR4bjRCNlFhOVVGUQ?oc=5",
+      "published": "Mon, 05 Oct 2026 07:01:00 GMT",
+      "summary": "Il labourait à 12 ans le champ de ses parents avec sa moto : ce pilote aveyronnais progresse en finale du championnat de France des rallyes routiers &nbsp;&nbsp; Centre Presse Aveyron",
+      "themes": []
+    },
+    {
+      "region": "occitanie",
+      "source_id": "centre_presse_aveyron",
+      "source_label": "Centre Presse Aveyron",
+      "title": "VIDÉO. Blocage des lycées : le chef de la police municipale suspendu après avoir foncé en voiture sur les jeunes manifestants - Centre Presse Aveyron",
+      "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQOGhiWDBpQ3d0X1oyNGIyOWNORnU2ODVUSWF1TEJCVkFqNlN3QVhkaVVvREtkMWJJOWlyTEwtaTBKbXZyTG1JMHhIUmZXVFJoOXVqVjNOLVg4ejhvMjMtS3pZeTR0cnBnN01SUDV4OW52TXpQak9PcGo1bnpmWjgyVzh4VW8yci05QkRvN1dFMkdiQWpsRDBOTWt3NXFFcFRlQUp3ZXl6Uk9EQkZvYkJ6ZjFNY2oxQ2EtZjJkUzNDX1g3OGRrY0djN1JBbHIteGVTbVh0UTAwVlpPOEpzVHl3c2kyclBveHVLVUhRTTVPOHk5c3hiNmNKMGxjMXhGSUxuOVl1ZkdDWW9hNXNK?oc=5",
+      "published": "Fri, 09 Oct 2026 14:45:00 GMT",
+      "summary": "VIDÉO. Blocage des lycées : le chef de la police municipale suspendu après avoir foncé en voiture sur les jeunes manifestants &nbsp;&nbsp; Centre Presse Aveyron",
+      "themes": [
+        "blocage_occupation"
+      ]
+    },
+    {
+      "region": "occitanie",
+      "source_id": "centre_presse_aveyron",
+      "source_label": "Centre Presse Aveyron",
       "title": "Tennis : le nouveau statut de la Villefranchoise Maya Bories, désormais classée négative - Centre Presse Aveyron",
       "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQRHpkdzkzWkl1RW5WN0dDeVlYbHNUajJHWXNkNFVQWkE4amhUSVlPYklHMGl3TDNKcFFoM0p5dnNqcTNBdTdTa1kxSGdHZ19BNURXajFHcFVtTDdLMDc5YzI4cVVlakNwY0NhTWhvOXlfNkVIVHRVSnNSSGdTRFVPMm1iQlRNdkR2MlctS1ZXb0g1R0xkM1ZJUGVldHpDeWMzcmU0eE5HU1JRMTg4TEFLWkRiNDdiRUc4Snk3elNyTEF3UzQ1NUQ0ZG1VQ1hueXU1MW55OXhNbWxqNlAz?oc=5",
       "published": "Thu, 08 Oct 2026 11:01:00 GMT",
       "summary": "Tennis : le nouveau statut de la Villefranchoise Maya Bories, désormais classée négative &nbsp;&nbsp; Centre Presse Aveyron",
+      "themes": []
+    },
+    {
+      "region": "occitanie",
+      "source_id": "centre_presse_aveyron",
+      "source_label": "Centre Presse Aveyron",
+      "title": "Les pompiers se font voler leur carte carburant : les malfrats l’utilisent 137 fois pour un préjudice de 22 000 euros - Centre Presse Aveyron",
+      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNU1FZazVhdWFKQWtieEpMSnhYa0VUbUdrMFBYcW8wWVNQTTZKazVKNHhCY21vTDgwMDJkamlLM2FTU09RQUNLX2Rod3RwcUR0U3EyN1o5aldaYmxOaEtNb1hWWXdDbFdjNEktMmVNU2N4U0g5c29ZXzZtZW1hWUZPNUZabFNqYktEcmF2b1RpcktSOVhMNTRUVFpVN2NhSDFLV3dXZVR0bXBQX21xUnlrQWJ4X2tKdE5rT1Y1Wm5STkhOMkwwbTJIRUtzS213OFQ5bVZBbWxJZzVWcnl2TjNnLUZxSlhiMzBnZUotRnRPMXdYQjVZNUk5UFctNm1NNjNvN3lZ?oc=5",
+      "published": "Fri, 09 Oct 2026 04:01:00 GMT",
+      "summary": "Les pompiers se font voler leur carte carburant : les malfrats l’utilisent 137 fois pour un préjudice de 22 000 euros &nbsp;&nbsp; Centre Presse Aveyron",
       "themes": []
     },
     {
@@ -850,80 +925,10 @@
       "region": "occitanie",
       "source_id": "centre_presse_aveyron",
       "source_label": "Centre Presse Aveyron",
-      "title": "L’Auberge espalionne se remet aux fourneaux : une grande cuisine à ciel ouvert va s'installer dans cette rue - Centre Presse Aveyron",
-      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNQk1oVE9yV25DS29vZ3E0QTBMX3M5QVE0UjRlQVhMSkxfS0FmSWZlTkxhcnNEcTZjS2l5MDU1VmtiM1l5UGZhS0tTc19yMUt6SjJ4RVljZkJRVWNnVW1JQ1Bib3h1YzFxV19xeE5sZmxSbzVjUlpIelIxcm16ZmlPRUZMd0xPbng0aHp4ekpST29CWGYyZm1JZi1Hc2I1UG1tQ0NTT0EtcV9VZWFkY09ZaG44S2FLRTlMcUZWRWJ2cFFvRmtSamNCZ1ZJeThFc3pLWDhGTm9YOENfRFA5VXE4NjNFcVRCWEMtbDhvc2FISS1lTnJiN0E?oc=5",
-      "published": "Thu, 08 Oct 2026 08:01:00 GMT",
-      "summary": "L’Auberge espalionne se remet aux fourneaux : une grande cuisine à ciel ouvert va s'installer dans cette rue &nbsp;&nbsp; Centre Presse Aveyron",
-      "themes": []
-    },
-    {
-      "region": "occitanie",
-      "source_id": "centre_presse_aveyron",
-      "source_label": "Centre Presse Aveyron",
-      "title": "Elle était le symbole de la crise du logement qui frappe l’Espagne : Maricarmen Abascal est décédée à l’âge de 87 ans - Centre Presse Aveyron",
-      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOcU1jczhBamtmTW5wMjRrUm52cnFaOUx6WUtlcklSN0FoU0JoUzRqUHAtbnRTNkhjU3kwRW42cGZmellCMTRpSE9BZDFPNGNlNnMxa0hKazVVM2M4RjZiYXRJMmFGSlFWRUVnaDBhTW1Odk80cnh1THd4VXhCT3NtbmZKaXJkYUtTSlBjZDRlRldVYzRtNFZ1NDBZWk02MlhaOGIxQkhFN3hpWUtpWHc2MXYwR1B3OXl4NUJEWndLTGZVU1ZQQjhFVmZaQTdITnlJRUFJc2FycmFJUHlpQktCTnEyZUt3ZndWbEw2b21BaVdMX2xPSmhMS0Y4N1ZHYTRoRXc?oc=5",
-      "published": "Thu, 08 Oct 2026 08:10:00 GMT",
-      "summary": "Elle était le symbole de la crise du logement qui frappe l’Espagne : Maricarmen Abascal est décédée à l’âge de 87 ans &nbsp;&nbsp; Centre Presse Aveyron",
-      "themes": []
-    },
-    {
-      "region": "occitanie",
-      "source_id": "centre_presse_aveyron",
-      "source_label": "Centre Presse Aveyron",
-      "title": "Il tente de traverser l’A75 avec 242 kg de résine de cannabis : le conducteur dit avoir accepté le job pour éponger une dette de jeu - Centre Presse Aveyron",
-      "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxOTHNRNW92V29idzQ2LWx5THZMZTFGemFieHBfb0V1Zkx3WERZNEt0WjE1MVk5a2xpXzB2NFdhRFFGbklWM2lybEk0eXc4UlZjc2tycVhwNVJkWkE0MTlmajRtaGpyVlhHYUQtdUtUSTI2UTQ5b2lUZnBoaURnYmRTRV9lWEZUWDBlYVowX3NCYmRFWG1TMjNfVHdFNjlITDNENWd5WnIwNWw5ZS01bTFuMkVxbkFjVVJlUEM3MUczVFJkaXFqZ3dBU2ZCTFZRSGI3cVRCM2pENFZtbzEwa044RFlYMWhlYkRtWmpUVHU1c1Bnc3NIX0NmbFRrTnNOT3VweUgyY3BscjlWNHZqVFZMdWpNc3BfUWc?oc=5",
-      "published": "Fri, 09 Oct 2026 17:40:00 GMT",
-      "summary": "Il tente de traverser l’A75 avec 242 kg de résine de cannabis : le conducteur dit avoir accepté le job pour éponger une dette de jeu &nbsp;&nbsp; Centre Presse Aveyron",
-      "themes": []
-    },
-    {
-      "region": "occitanie",
-      "source_id": "centre_presse_aveyron",
-      "source_label": "Centre Presse Aveyron",
-      "title": "Fermeture de l'enseigne Darty à Millau : les clients sont renvoyés vers le magasin de Rodez - Centre Presse Aveyron",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNTWw1WktrQ1NkX0lrS0xGd0F4Y2dPd2dTTGpiVDJkd0lDM0ljdldaaWltN19uZDJSNW5RMVRVQVIwRTFZemU5bGlIVUJ1MWRqbXFGWmpSZ3NralBNQm1OTDhDM0c4RDA3aWRPUGxqeldJQTJKTERjc281WGkxM01sZVBUWU9rSzNTejRaaG1CSjNWbkE2MHRham1fbVhwclVSMTVWYzVvZTA3R1lNZmdRZ3RweXdhUERTaDd4UXlLQVFJSTBrN3RTVWZfOE9pd1lrUEtSbXpFZzJPRkk4SnFEYw?oc=5",
-      "published": "Thu, 08 Oct 2026 07:01:00 GMT",
-      "summary": "Fermeture de l'enseigne Darty à Millau : les clients sont renvoyés vers le magasin de Rodez &nbsp;&nbsp; Centre Presse Aveyron",
-      "themes": []
-    },
-    {
-      "region": "occitanie",
-      "source_id": "centre_presse_aveyron",
-      "source_label": "Centre Presse Aveyron",
-      "title": "Sommet de l’élevage à Cournon : l’excellence génétique, en Aveyron, de l’élevage de la famille Bastide - Centre Presse Aveyron",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPV0QzSFVIOGt2TGJISWJxOXA4UTRqR21Bb24zZVNHSnBpaHRmS3lBV3V5dTM4aEVvOFBqLU9Kal9sQ1RfUXVrdEhyTTZfTVFtRXRRTG5wandqREQwU0Q3WkQtZXZuaWZnLXRUVUNuRENmWFZVTEkzWmxDQ2lGaDZpMWRmZG1QRXVqeHNxRFNEWEIxbFE4Si0tU29IY0psbUp0SExWTVV5NVc0cUZrblIwa1FJZ3RIWWczaXNWNDg0aGU2Zko4bHI1QldRcnM1WXZ5SzA5aVBSZWV5OVBoV2xrZVJJQk5McXBuZHc?oc=5",
-      "published": "Thu, 08 Oct 2026 06:52:00 GMT",
-      "summary": "Sommet de l’élevage à Cournon : l’excellence génétique, en Aveyron, de l’élevage de la famille Bastide &nbsp;&nbsp; Centre Presse Aveyron",
-      "themes": []
-    },
-    {
-      "region": "occitanie",
-      "source_id": "centre_presse_aveyron",
-      "source_label": "Centre Presse Aveyron",
-      "title": "\"Quand il a eu 6 ans, j’ai voulu qu’il apprenne à nager pour éviter tout accident\" : le jeune aveyronnais Morgan Svec est maintenant champion de France handisport - Centre Presse Aveyron",
-      "link": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxQYi1MZy1pTGJrQy1nZzRyYnRKZWxSU2h1Ql9WRjhEZUNRa054MHI3SXFYZFBwTHZhU0dpYUxUdk5mLXBYVWExbVBGNV9IUUEyeUY4cDRkVEF4NXdkUTUycjc0NTdMRXA5UUU3T2drU2hlYVdJaXMzSjljRzJVZ1JXTWplaXRwbGZCcVFLOEJkaGNnTkhTR0piaXl1UHZBb2JoRmNUaTNoUGdnUWRSRTFaZXBTQXFudjhVU3hMczlGTnZQTE1RMHF2QjNxRnMwNF8ycE93eG5hWGdsMHZKTkY3Ymc1RzdYU24wbjl1WEF0NHYxYVgtVnNjTkJJaHQ2REd4YnBtSFdKYnJEZlE0dUFPUVJWbHFrc2JDVzhMYXNzY202T0tmYUpTdHNabw?oc=5",
-      "published": "Thu, 08 Oct 2026 07:01:00 GMT",
-      "summary": "\"Quand il a eu 6 ans, j’ai voulu qu’il apprenne à nager pour éviter tout accident\" : le jeune aveyronnais Morgan Svec est maintenant champion de France handisport &nbsp;&nbsp; Centre Presse Aveyron",
-      "themes": []
-    },
-    {
-      "region": "occitanie",
-      "source_id": "centre_presse_aveyron",
-      "source_label": "Centre Presse Aveyron",
-      "title": "Cagoulé et armé, il braque un camping et repart avec la caisse, à sa recherche depuis cinq jours, la gendarmerie lance un appel à témoins - Centre Presse Aveyron",
-      "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxQS3FDTm1CbXFXbUlKV2lOaU5SSWxVczZhMGJBSzQ3cTFhck9PUS1NQWZlX01tdUdaTjg1VXlSWGJGbzRLRWVIMl9mT3h6dmttVUlTdEw2RWM2YUNTenFhalp6QUZsR3p2RHo5dHdrWWdSbGppc2p6OUo0aWVrcGdqT0dCTms2UWtJdDJEeXo2X3NJSEt1ZkFPSVd6cGp1Z0xpRUtBNGRsaW9hRUdQVGtHV29yVHVoeDI0eGZjY3BDVUVWTUpkYUFwLXlHVVhPOVo4QjhSNTVQaWt5T0RxZ2JXejBOR0pVSk80a3ZzOE93VE9DMWptYzdkWjRTNnpYZV9JeWRKcFdyMEFpZDdrM2MwOWRkT01Va3Y5THJuVFBn?oc=5",
-      "published": "Fri, 09 Oct 2026 12:08:00 GMT",
-      "summary": "Cagoulé et armé, il braque un camping et repart avec la caisse, à sa recherche depuis cinq jours, la gendarmerie lance un appel à témoins &nbsp;&nbsp; Centre Presse Aveyron",
-      "themes": []
-    },
-    {
-      "region": "occitanie",
-      "source_id": "centre_presse_aveyron",
-      "source_label": "Centre Presse Aveyron",
-      "title": "Il labourait à 12 ans le champ de ses parents avec sa moto : ce pilote aveyronnais progresse en finale du championnat de France des rallyes routiers - Centre Presse Aveyron",
-      "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxObE10WVhrVFd1NHJSSDBfUlBENVJGXy1PMWpjUm1ieENrOENxLXZMdTFicW1IeXVyOVR1RUdDVkw5Zzl3RnpRclhicHdMLTN5VmVwaUtiV25UbkVyb0lNSVVhV0lyU3I0ajAtNEZ1bEE2NmJQdW1YZDBSUHh5X0g2MEQ0TUNGOWQ0djFmYlFDMDVnUGE5VDhiZEFBeFBqTEczaU9qSDJ4MnRSOC1iSDJWWkFQNEx2cXQ0R0NRVFZZT3p2d0N6V3FhX2pwelVYYXhnMEFmcmhfSWFBdkJERG5TN2gwRWEwWWVsaVAtc2RoY1NyZk04a1Q1djdLVjhERjRzSkJwbHJlc19FT3o2bUp1SGNUNFp5Um5jNWFpd3FTdlFQcFR4bjRCNlFhOVVGUQ?oc=5",
-      "published": "Mon, 05 Oct 2026 07:01:00 GMT",
-      "summary": "Il labourait à 12 ans le champ de ses parents avec sa moto : ce pilote aveyronnais progresse en finale du championnat de France des rallyes routiers &nbsp;&nbsp; Centre Presse Aveyron",
+      "title": "Articles du 10/10/2026 - Centre Presse Aveyron",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9jTlBfMmthWlluOHd6Rk84RXBuNDNiNHpRc0xPai1Jb3h3T0ZOa2RpTWNQUzlsU1pBRTdqSzlUSlh2djFDNDREU0szWGtSMjA1VTJxMnRFZkpQYlp4NlBRSmFHamJpUQ?oc=5",
+      "published": "Sat, 10 Oct 2026 02:48:01 GMT",
+      "summary": "Articles du 10/10/2026 &nbsp;&nbsp; Centre Presse Aveyron",
       "themes": []
     },
     {
@@ -1287,20 +1292,20 @@
       "region": "paca",
       "source_id": "nice_matin",
       "source_label": "Nice-Matin",
-      "title": "Christa Pike, qui a survécu à son exécution aux États-Unis, a recommencé à marcher - Nice-Matin",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOYlozVWJtODVEdXpmVVhqWlVmRzgzN0tsOXdELVpvUlFtUHg0MkVOTE4ydHI1Q2YweVYzZktBYkN2aTREbDNKamdGZ2E4T040VVBtYVI0SkxKZ3diRElYZjJkT2hoUGdWRmdJSmpzWnA3MjFCUWtiNGh2ZFBJS1NTWDdJU3RueGhsQmpsUnZHWjdCTHktMXJkQkVBODdIV3hZUDVONFhkNDRpYnBIVzFqWnBlQ3h6bkF0clJhQWJKamYzVkd2cW9N?oc=5",
-      "published": "Thu, 08 Oct 2026 13:45:42 GMT",
-      "summary": "Christa Pike, qui a survécu à son exécution aux États-Unis, a recommencé à marcher &nbsp;&nbsp; Nice-Matin",
+      "title": "Sa belle-mère a déclenché l’alarme : le chanteur Hugues Aufray, 97 ans, victime d’une tentative de home-jacking à son domicile près de Paris - Nice-Matin",
+      "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQYXl0c0RSR0haZ3NxVk0waXB1YzB1RTVjMWFGMENGQlVNYmhIeUhpMVhZV0xFUktiN1VVaVExdTN5SDloVGZqaGw3Mzdmbkp4ejJvV2h4WWplc1U5WUZnMnpLSkk3QWkwZmRxQlNJZ1JPT1hYdGlqN3BPejVWYkdCam1ZUlpMOTFjQ1dTQ2I5Q0VfSmt0Zl9acWw4Y3A3VWtXS3ktWk5NcDRnWUx0bGFZdVBEWjNXZ3FUU3dsN0wxcXl4c2l6SllTWkFSMVFleTFZd0h6LWIycXY1c1pORnVTNUVhN1BqNkplaGhPV0l2eTJYX2xMRTB3NmhZTWcwU0lYRXE2TzNTRW1aZTZNZDVLdDd3?oc=5",
+      "published": "Wed, 07 Oct 2026 14:35:09 GMT",
+      "summary": "Sa belle-mère a déclenché l’alarme : le chanteur Hugues Aufray, 97 ans, victime d’une tentative de home-jacking à son domicile près de Paris &nbsp;&nbsp; Nice-Matin",
       "themes": []
     },
     {
       "region": "paca",
       "source_id": "nice_matin",
       "source_label": "Nice-Matin",
-      "title": "Sa belle-mère a déclenché l’alarme : le chanteur Hugues Aufray, 97 ans, victime d’une tentative de home-jacking à son domicile près de Paris - Nice-Matin",
-      "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQYXl0c0RSR0haZ3NxVk0waXB1YzB1RTVjMWFGMENGQlVNYmhIeUhpMVhZV0xFUktiN1VVaVExdTN5SDloVGZqaGw3Mzdmbkp4ejJvV2h4WWplc1U5WUZnMnpLSkk3QWkwZmRxQlNJZ1JPT1hYdGlqN3BPejVWYkdCam1ZUlpMOTFjQ1dTQ2I5Q0VfSmt0Zl9acWw4Y3A3VWtXS3ktWk5NcDRnWUx0bGFZdVBEWjNXZ3FUU3dsN0wxcXl4c2l6SllTWkFSMVFleTFZd0h6LWIycXY1c1pORnVTNUVhN1BqNkplaGhPV0l2eTJYX2xMRTB3NmhZTWcwU0lYRXE2TzNTRW1aZTZNZDVLdDd3?oc=5",
-      "published": "Wed, 07 Oct 2026 14:35:09 GMT",
-      "summary": "Sa belle-mère a déclenché l’alarme : le chanteur Hugues Aufray, 97 ans, victime d’une tentative de home-jacking à son domicile près de Paris &nbsp;&nbsp; Nice-Matin",
+      "title": "Ancien joueur du RCT, l’Anglais Joe El Abd entraînera Clermont à partir de 2027 - Nice-Matin",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOWm1TanR5VGVha1Vkbl9KUTk2VXF0QWdnb28yc0RaRjZ1NDAzd1VaRWloTlh1NGtZX1VWd292Wl9sbWRnS0JMSG5jdkNxZ2p3U3pfYnRXakRsS19BaEZFNEhCam4zNmtTWHhuZFd4YURERENyZEV3alVlTk1Ebk10YkZWRU9Jc3dJcDlqSTVwemc5X3VfM1haMmJlYWJhOS1YSVJIOWFhMEQwb1ZON0YtQXBIRC11RHJSTlhfb05PNFh0SEhF?oc=5",
+      "published": "Wed, 07 Oct 2026 17:35:09 GMT",
+      "summary": "Ancien joueur du RCT, l’Anglais Joe El Abd entraînera Clermont à partir de 2027 &nbsp;&nbsp; Nice-Matin",
       "themes": []
     },
     {
@@ -1317,20 +1322,20 @@
       "region": "paca",
       "source_id": "nice_matin",
       "source_label": "Nice-Matin",
-      "title": "Blagues racistes, slogans fascistes, insultes sexistes : le député RN des Bouches-du-Rhône, Franck Allisio, limoge son assistant mis en cause par Libération pour des posts Facebook - Nice-Matin",
-      "link": "https://news.google.com/rss/articles/CBMiywJBVV95cUxNR3dneG41N2JuWnJVQzE3dDFhWFRLU1FtRjVtZEVnaHJZZzBuMkhnSEpVM01kU2tKMWUtN0swRW9FOHZ3RFp3Z2pmOGZLcUlSbWpGdFg0SFpDY3FOZmlOUEpHNWQwYmdVNVBhc015ellwNzR5OGwzejRGeC00aWY0VW9UTVpfRlphU1NDemZ4OHo2YjFJSGZqX3Y0c0FBSTBMYWpXd0tWeUJyc2dYQ1doVlNxbWFlRnFseDRjZDdaS1hhSXFLa2R2bVZQRnIyR29FcGZnWnNUX09lWTZOb184WmowV1NqbmhZZlZoTlRzSF92M1RUeE9Tc3N3ZTJCRWJ2cjBiZi1maXFyaGgwaDJ3eWktclFtQ1VsOXgyY2RnNnhRY0JuUURFNU9YaF9qSzZjd0ZRN2g1RW9EZ1phWENDdFZRMDFnQVZRMTd3?oc=5",
-      "published": "Fri, 09 Oct 2026 09:15:01 GMT",
-      "summary": "Blagues racistes, slogans fascistes, insultes sexistes : le député RN des Bouches-du-Rhône, Franck Allisio, limoge son assistant mis en cause par Libération pour des posts Facebook &nbsp;&nbsp; Nice-Matin",
+      "title": "Le prince Andrew « viré » de sa résidence : pourquoi le roi Charles III a-t-il payé lui-même la remise en état ? - Nice-Matin",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNN2wyY0xIVmdTY3ItSDZOTVpFeUFsNVdiancwMlZqdTZZck1Wdmc2N1RlMVYtTEF0dVBZMnJjeEhWMXpNSGRVWFllMjV5ODIyUC0zS09rZkt4cHdCelN0VDhzejh6d2JjY2N1Rk1GQTdldzV3R3FEWktKZEZpV0R6MGJiOWRhU0xyM0pnX1lNNjJuak93VnVzbC1ROEpMMFZ3TV9sZmNzQXREczFkNlVvdVhqSS1FY0ZOc0g0clVoaFpnSHdaN2FlTUFxWDhCYjJ3VEVSa3RPSERSU1I1OGtVSjNtcFhFMzd0NFE?oc=5",
+      "published": "Fri, 09 Oct 2026 16:05:15 GMT",
+      "summary": "Le prince Andrew « viré » de sa résidence : pourquoi le roi Charles III a-t-il payé lui-même la remise en état ? &nbsp;&nbsp; Nice-Matin",
       "themes": []
     },
     {
       "region": "paca",
       "source_id": "nice_matin",
       "source_label": "Nice-Matin",
-      "title": "Le prince Andrew « viré » de sa résidence : pourquoi le roi Charles III a-t-il payé lui-même la remise en état ? - Nice-Matin",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNN2wyY0xIVmdTY3ItSDZOTVpFeUFsNVdiancwMlZqdTZZck1Wdmc2N1RlMVYtTEF0dVBZMnJjeEhWMXpNSGRVWFllMjV5ODIyUC0zS09rZkt4cHdCelN0VDhzejh6d2JjY2N1Rk1GQTdldzV3R3FEWktKZEZpV0R6MGJiOWRhU0xyM0pnX1lNNjJuak93VnVzbC1ROEpMMFZ3TV9sZmNzQXREczFkNlVvdVhqSS1FY0ZOc0g0clVoaFpnSHdaN2FlTUFxWDhCYjJ3VEVSa3RPSERSU1I1OGtVSjNtcFhFMzd0NFE?oc=5",
-      "published": "Fri, 09 Oct 2026 16:05:15 GMT",
-      "summary": "Le prince Andrew « viré » de sa résidence : pourquoi le roi Charles III a-t-il payé lui-même la remise en état ? &nbsp;&nbsp; Nice-Matin",
+      "title": "Blagues racistes, slogans fascistes, insultes sexistes : le député RN des Bouches-du-Rhône, Franck Allisio, limoge son assistant mis en cause par Libération pour des posts Facebook - Nice-Matin",
+      "link": "https://news.google.com/rss/articles/CBMiywJBVV95cUxNR3dneG41N2JuWnJVQzE3dDFhWFRLU1FtRjVtZEVnaHJZZzBuMkhnSEpVM01kU2tKMWUtN0swRW9FOHZ3RFp3Z2pmOGZLcUlSbWpGdFg0SFpDY3FOZmlOUEpHNWQwYmdVNVBhc015ellwNzR5OGwzejRGeC00aWY0VW9UTVpfRlphU1NDemZ4OHo2YjFJSGZqX3Y0c0FBSTBMYWpXd0tWeUJyc2dYQ1doVlNxbWFlRnFseDRjZDdaS1hhSXFLa2R2bVZQRnIyR29FcGZnWnNUX09lWTZOb184WmowV1NqbmhZZlZoTlRzSF92M1RUeE9Tc3N3ZTJCRWJ2cjBiZi1maXFyaGgwaDJ3eWktclFtQ1VsOXgyY2RnNnhRY0JuUURFNU9YaF9qSzZjd0ZRN2g1RW9EZ1phWENDdFZRMDFnQVZRMTd3?oc=5",
+      "published": "Fri, 09 Oct 2026 09:15:01 GMT",
+      "summary": "Blagues racistes, slogans fascistes, insultes sexistes : le député RN des Bouches-du-Rhône, Franck Allisio, limoge son assistant mis en cause par Libération pour des posts Facebook &nbsp;&nbsp; Nice-Matin",
       "themes": []
     },
     {
@@ -1349,10 +1354,10 @@
       "region": "paca",
       "source_id": "nice_matin",
       "source_label": "Nice-Matin",
-      "title": "AS Monaco Basket : la décision du tribunal sur l’état de cessation de paiements du club repoussée - Nice-Matin",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQMTNMbVg1V1NiNm1Qc0RCY3daQW9JQzRYYUpfRFVaWEZtTnM1RnRlN0tzRGxjelJCWVNmZVpzemRUZGZPZHFhN0dFMVNBSjluUTF1M3VrbGZoMGk0TzJwQlF1eG9LSmdoVzg4b0hhdE9sdUNITE56X3FYSWhZZnJGQVhWbTh3SGRWanJyZUJWODR6UGVzdGNzU3pzajIzNXpmOXpPVTVMNHZWWklvSHdLZFlycFRYV0tuTlc0SFNSQ2R0WGVvYksxaW85RDZlU0ZNRzhz?oc=5",
-      "published": "Tue, 06 Oct 2026 17:23:25 GMT",
-      "summary": "AS Monaco Basket : la décision du tribunal sur l’état de cessation de paiements du club repoussée &nbsp;&nbsp; Nice-Matin",
+      "title": "Soupçons de viols sur 12 enfants à Nice : Sarah El Haïry réclame que les familles soient informées quand un professionnel de l’enfance est suspecté - Nice-Matin",
+      "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPT2g5OGY0QkhxdFcwQ1BiRmZhcExpV1h0WHNtT0JfUXhWNHg5TXpzTjczaEFMTnlnajRieWNmOWV2VEhjbnk1ZWR5ek11S2RHRlBmYU50RW85UFhhWkdFYzdZR2p3c2tfVk5tWVhvejFkLUlFQVlLdHlVVDRQcWFhXzBYTzZuaWtUN3hLVWRwOWVwejNLcExBeEV2VXNzWk52TFFYZVhXSFpDX0FkOUJkZXpKdjZCVk9hRUt2SWk0QWZON2g4WWJRLVR5WlVKWi02U0dxaEw0SXJZS2RqMHBYbm5vZ0M1T3htRkY5MC0tYktpa3BvV1JhSk1wMW1fQ1d3YVJ5dmdKWENLSnVWTUZKenZfQzQ0cVU?oc=5",
+      "published": "Fri, 09 Oct 2026 17:19:04 GMT",
+      "summary": "Soupçons de viols sur 12 enfants à Nice : Sarah El Haïry réclame que les familles soient informées quand un professionnel de l’enfance est suspecté &nbsp;&nbsp; Nice-Matin",
       "themes": []
     },
     {
@@ -1389,10 +1394,30 @@
       "region": "paca",
       "source_id": "nice_matin",
       "source_label": "Nice-Matin",
+      "title": "Christa Pike, qui a survécu à son exécution aux États-Unis, a recommencé à marcher - Nice-Matin",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOYlozVWJtODVEdXpmVVhqWlVmRzgzN0tsOXdELVpvUlFtUHg0MkVOTE4ydHI1Q2YweVYzZktBYkN2aTREbDNKamdGZ2E4T040VVBtYVI0SkxKZ3diRElYZjJkT2hoUGdWRmdJSmpzWnA3MjFCUWtiNGh2ZFBJS1NTWDdJU3RueGhsQmpsUnZHWjdCTHktMXJkQkVBODdIV3hZUDVONFhkNDRpYnBIVzFqWnBlQ3h6bkF0clJhQWJKamYzVkd2cW9N?oc=5",
+      "published": "Thu, 08 Oct 2026 13:45:42 GMT",
+      "summary": "Christa Pike, qui a survécu à son exécution aux États-Unis, a recommencé à marcher &nbsp;&nbsp; Nice-Matin",
+      "themes": []
+    },
+    {
+      "region": "paca",
+      "source_id": "nice_matin",
+      "source_label": "Nice-Matin",
       "title": "« La situation des nappes reste très préoccupante » : les secteurs de la Roya et de l’Esteron toujours en crise dans les Alpes-Maritimes - Nice-Matin",
       "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPLXlKZmNEdVFuTGo4N2t1WHVFbFpIVU5OTlk2cmlsejVoakhad1FTdnFJWXpheWNJTGFDVkdXb3dTWHZUNVlGSE1faTBQVjU2MDFIZGlIUlJHOC14V3V6aUFadlpaZFRkQjVJc2F1anJ0TURkRklrLWdHMGNYSV90SVhTcFF6NzBLTlAzT05FMUpOd2Zqdm1NdURVaDBqZi01YURKVFpidzNFcFVxeUdsb2lhTE1TMU0zcmppdXg1bmpSbEMtM2Q5SHRnakMxSHYzMVhwZTNNWE90WVdNOGRFUXgwbHRVa1ZteEdtc0liclR4RTZQeWJFQ3NMMXp4WTh0UklMZW9WSEVZTWc?oc=5",
       "published": "Thu, 08 Oct 2026 13:06:25 GMT",
       "summary": "« La situation des nappes reste très préoccupante » : les secteurs de la Roya et de l’Esteron toujours en crise dans les Alpes-Maritimes &nbsp;&nbsp; Nice-Matin",
+      "themes": []
+    },
+    {
+      "region": "paca",
+      "source_id": "nice_matin",
+      "source_label": "Nice-Matin",
+      "title": "AS Monaco Basket : la décision du tribunal sur l’état de cessation de paiements du club repoussée - Nice-Matin",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQMTNMbVg1V1NiNm1Qc0RCY3daQW9JQzRYYUpfRFVaWEZtTnM1RnRlN0tzRGxjelJCWVNmZVpzemRUZGZPZHFhN0dFMVNBSjluUTF1M3VrbGZoMGk0TzJwQlF1eG9LSmdoVzg4b0hhdE9sdUNITE56X3FYSWhZZnJGQVhWbTh3SGRWanJyZUJWODR6UGVzdGNzU3pzajIzNXpmOXpPVTVMNHZWWklvSHdLZFlycFRYV0tuTlc0SFNSQ2R0WGVvYksxaW85RDZlU0ZNRzhz?oc=5",
+      "published": "Tue, 06 Oct 2026 17:23:25 GMT",
+      "summary": "AS Monaco Basket : la décision du tribunal sur l’état de cessation de paiements du club repoussée &nbsp;&nbsp; Nice-Matin",
       "themes": []
     },
     {
@@ -1406,6 +1431,16 @@
       "themes": [
         "agriculture"
       ]
+    },
+    {
+      "region": "paca",
+      "source_id": "nice_matin",
+      "source_label": "Nice-Matin",
+      "title": "Féminicide à Nice : la victime venait de laisser son bébé de 2 mois à une amie, « juste pour quelques minutes » - Nice-Matin",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNSC1wUWp6Z0U1UUhuRk1fWTFXc1BvNDR3dUVBaEFEcXdGUTBIdUlod2xSNVhNUlI4bVV4a3RmVUEzd294X1JkdjM1am5nYnQwVWlDSEhRU0tiZjNzaGJaekxTREtpUVdGaXJGaTVwVDExUENyRTZ4UlB1T2s2U2I4QWlBVUxhU2dwbGZfMFh5YTZWMW91aE1MQVg3QlhvT2swUDJRcHBDN2Z4c3V4a2lEUlRDSGNQUEdpOFZZd1dVZkUxMHh6Q29FdGFtMGplWXlKRTZCQ0tJRTVxalhMM0dUNGNMNFZLRG8?oc=5",
+      "published": "Thu, 08 Oct 2026 14:24:37 GMT",
+      "summary": "Féminicide à Nice : la victime venait de laisser son bébé de 2 mois à une amie, « juste pour quelques minutes » &nbsp;&nbsp; Nice-Matin",
+      "themes": []
     },
     {
       "region": "paca",
@@ -1431,19 +1466,6 @@
       "region": "paca",
       "source_id": "nice_matin",
       "source_label": "Nice-Matin",
-      "title": "Fin du blocage de l’université, 600 lycéens mobilisés, 6 interpellations : on fait le point sur la mobilisation des lycéens et des étudiants dans les Alpes-Maritimes - Nice-Matin",
-      "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxNaGRhZXYybzFtSXdJUE9DaEZfaHptWDBmczNDeWtxczI5aUpScXdqV2NWeXlQekJsMjVaX09sTDNUTHA5TXg4dVhhR0s3bFI1TGlVRlpIblBUQlRtczZhNmtGQk9Qb1hSdVJoZUZiQnQ1VzlLZlJXaW9lYkFZTy1aWVVzdWZhS1Q1OFBZWXVlanNfWUREN1pVZlltNFFmbmNEelVsbzI1M1RGZGIwRHVqcnlUNG8zVHE5NjZxTFBjNVlBRTdORGRMLUpZV2xiZ0NaU0FNX3RZUjhvN1FoTEF4M2NXdzNsd2FiMVF3NHNNYWpFUElQNXdXS3Z1TVlvbkxIcFlNUlRRRzJSTEdsUGpDbWJya0E4dlZlR0RKa1RUMEVqMFJ3anY4bDRfSDZMUXVYQ0lDLTlDOXdSX0Q2Tmw3WEluZ0lCdw?oc=5",
-      "published": "Fri, 09 Oct 2026 18:15:48 GMT",
-      "summary": "Fin du blocage de l’université, 600 lycéens mobilisés, 6 interpellations : on fait le point sur la mobilisation des lycéens et des étudiants dans les Alpes-Maritimes &nbsp;&nbsp; Nice-Matin",
-      "themes": [
-        "enseignement",
-        "blocage_occupation"
-      ]
-    },
-    {
-      "region": "paca",
-      "source_id": "nice_matin",
-      "source_label": "Nice-Matin",
       "title": "« C’était pour épater vos passagères ? » : un chauffard condamné à 4 ans de prison pour avoir provoqué la mort d’un petit garçon à Toulon - Nice-Matin",
       "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOX3ZUbURObEVtMHpSZllwX1A5OWRwUVl1N2xIbTNXdXZOQ2x4c2R1akt2NnJRN0N5ZHZWaFdJU3BPalhvSV9pazNjcjBEV0NNRlJvMVBoRmhtOGFUSkFwT0ZKOGVpVV94V2RpOXZNanRITGtyTXM5WC1Ea1JackgzNWgxY1Z4TU1feG5ZejdoV25FUzkwSk1pTlZkdkR4Vmo0eDdzeDhWeno4ajJOQ19nSy1GeERCOVBMdTZ6WS1CLUo0eG5PUDNxRHlhb3BfbW5FU1lTZVpxUWlUeUY5LUZnbVZ4T0thNTlCblZzOUJtRFNVZHRsQWx4YVY1cUNOQTNGVk1QbGdqUkI?oc=5",
       "published": "Thu, 08 Oct 2026 17:05:04 GMT",
@@ -1464,22 +1486,13 @@
       "region": "paca",
       "source_id": "nice_matin",
       "source_label": "Nice-Matin",
-      "title": "Féminicide à Nice : la victime venait de laisser son bébé de 2 mois à une amie, « juste pour quelques minutes » - Nice-Matin",
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNSC1wUWp6Z0U1UUhuRk1fWTFXc1BvNDR3dUVBaEFEcXdGUTBIdUlod2xSNVhNUlI4bVV4a3RmVUEzd294X1JkdjM1am5nYnQwVWlDSEhRU0tiZjNzaGJaekxTREtpUVdGaXJGaTVwVDExUENyRTZ4UlB1T2s2U2I4QWlBVUxhU2dwbGZfMFh5YTZWMW91aE1MQVg3QlhvT2swUDJRcHBDN2Z4c3V4a2lEUlRDSGNQUEdpOFZZd1dVZkUxMHh6Q29FdGFtMGplWXlKRTZCQ0tJRTVxalhMM0dUNGNMNFZLRG8?oc=5",
-      "published": "Thu, 08 Oct 2026 14:24:37 GMT",
-      "summary": "Féminicide à Nice : la victime venait de laisser son bébé de 2 mois à une amie, « juste pour quelques minutes » &nbsp;&nbsp; Nice-Matin",
-      "themes": []
-    },
-    {
-      "region": "paca",
-      "source_id": "nice_matin",
-      "source_label": "Nice-Matin",
-      "title": "Une fuite de gaz dans le centre de Brignoles provoque évacuations et confinements mais pas de dégâts - Nice-Matin",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNVVkycV9zS3Y1a3BNQnd2ZGpnclJXZVgzb01aR042bDlWa25SYmJhZXktTFM1VWR2NWdvbTFuR0xoMEIyX3dWV0lKM3pWN254bHpqdTJLMFIzeDNtR2lnN29NR25EMW9hbHN6SGFVQ2RGOEc3eTNoSXVJbExqWFk4Z3g5T251cDE1elF1d0NBRk1kWGxvZVFvZWpiM3ZucjNsdk5HaXdyMXVJUkZxaFUyY2RsSDlRWDBmNmlrWWZoYVdROXM0dkJRWA?oc=5",
-      "published": "Fri, 09 Oct 2026 09:26:00 GMT",
-      "summary": "Une fuite de gaz dans le centre de Brignoles provoque évacuations et confinements mais pas de dégâts &nbsp;&nbsp; Nice-Matin",
+      "title": "Fin du blocage de l’université, 600 lycéens mobilisés, 6 interpellations : on fait le point sur la mobilisation des lycéens et des étudiants dans les Alpes-Maritimes - Nice-Matin",
+      "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxNaGRhZXYybzFtSXdJUE9DaEZfaHptWDBmczNDeWtxczI5aUpScXdqV2NWeXlQekJsMjVaX09sTDNUTHA5TXg4dVhhR0s3bFI1TGlVRlpIblBUQlRtczZhNmtGQk9Qb1hSdVJoZUZiQnQ1VzlLZlJXaW9lYkFZTy1aWVVzdWZhS1Q1OFBZWXVlanNfWUREN1pVZlltNFFmbmNEelVsbzI1M1RGZGIwRHVqcnlUNG8zVHE5NjZxTFBjNVlBRTdORGRMLUpZV2xiZ0NaU0FNX3RZUjhvN1FoTEF4M2NXdzNsd2FiMVF3NHNNYWpFUElQNXdXS3Z1TVlvbkxIcFlNUlRRRzJSTEdsUGpDbWJya0E4dlZlR0RKa1RUMEVqMFJ3anY4bDRfSDZMUXVYQ0lDLTlDOXdSX0Q2Tmw3WEluZ0lCdw?oc=5",
+      "published": "Fri, 09 Oct 2026 18:15:48 GMT",
+      "summary": "Fin du blocage de l’université, 600 lycéens mobilisés, 6 interpellations : on fait le point sur la mobilisation des lycéens et des étudiants dans les Alpes-Maritimes &nbsp;&nbsp; Nice-Matin",
       "themes": [
-        "energie"
+        "enseignement",
+        "blocage_occupation"
       ]
     },
     {
@@ -1509,20 +1522,32 @@
       "region": "paca",
       "source_id": "nice_matin",
       "source_label": "Nice-Matin",
-      "title": "Une baisse de 12 à 18 centimes sur le prix du litre à la pompe : Sébastien Lecornu annonce la libération de 10 millions de barils de gazole sur trois mois - Nice-Matin",
-      "link": "https://news.google.com/rss/articles/CBMiswJBVV95cUxNb2tWeWsxd0pIVklfc0QyNnNpam5rTTN1Mjh1MC1yMHpaUm1tamxsdG9MSG9qcmJHVzNNZ1FRWjZ5WU1kcm1qbXNvcGFKUk5BbWk0TkdJbk84UUNrQjN1V215RldNMHNueVZvRkZ1ckRFZDc3b1J2MHJqSXA3NXMwb2NKYm4yb2JybE5wWXJMY2RVcENEaHlUUXVIa3RwdGVBNGZLcVJZUzBnVDlpMnN2OFBodWIxZm9yT3lnLXE3a0xfY2NQSWFXUm9qN3ZBOHRaWWxYSGw1YVhXVEtUNE1yVVJoNFdZY2FjQ045QUNMYXlSR1hieXZhNUdBZzc1UWw0U3JNTDJUTTdGWklBalo2WFQ4UVROLXRRODZxemEyWEFyVUN6SnBJbHA3di1wdG1iblZ3?oc=5",
-      "published": "Wed, 07 Oct 2026 17:23:46 GMT",
-      "summary": "Une baisse de 12 à 18 centimes sur le prix du litre à la pompe : Sébastien Lecornu annonce la libération de 10 millions de barils de gazole sur trois mois &nbsp;&nbsp; Nice-Matin",
+      "title": "Une fuite de gaz dans le centre de Brignoles provoque évacuations et confinements mais pas de dégâts - Nice-Matin",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNVVkycV9zS3Y1a3BNQnd2ZGpnclJXZVgzb01aR042bDlWa25SYmJhZXktTFM1VWR2NWdvbTFuR0xoMEIyX3dWV0lKM3pWN254bHpqdTJLMFIzeDNtR2lnN29NR25EMW9hbHN6SGFVQ2RGOEc3eTNoSXVJbExqWFk4Z3g5T251cDE1elF1d0NBRk1kWGxvZVFvZWpiM3ZucjNsdk5HaXdyMXVJUkZxaFUyY2RsSDlRWDBmNmlrWWZoYVdROXM0dkJRWA?oc=5",
+      "published": "Fri, 09 Oct 2026 09:26:00 GMT",
+      "summary": "Une fuite de gaz dans le centre de Brignoles provoque évacuations et confinements mais pas de dégâts &nbsp;&nbsp; Nice-Matin",
+      "themes": [
+        "energie"
+      ]
+    },
+    {
+      "region": "paca",
+      "source_id": "nice_matin",
+      "source_label": "Nice-Matin",
+      "title": "Affaire Gimenez : le maire de Vallauris, poursuivi pour diffamation, crie victoire sur les réseaux sociaux après la décision de la Cour de cassation - Nice-Matin",
+      "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxOUVQ0dHo2cHdxLVAybzhDVFNCVUduaEo2SkRHeWJfUnVOTTl1TVh3TFFDTWREU2xEZjBCdEdhbWdJV0VLc3FFQ1NzeFdPSzNWc19tR3hFc2I0by1EV3RJYTVRUEI2Y1Y0X0RfZkFhQU5HZnFMSWhyZWdNM2djNTVJNE5Gc2JCUXlxaDFXUEFjMUtfa0x2QjIyU1cydkJZQk9ITVREZXZ1R29oOWJfdjdyb25ad1JtZjhEdmNFUkNvdWRuM0c1WXNYS0l1Ty01TEdjckQwLWk4RHFxRjdmQ3lKdTJDbUVacFh2M0tqQ0FkSzM2aks4REk5ZTZ0UFBqT19KcUVSV0RHR2lXRjNCSkwtVnBzS1E0ZC13ZGRyZVUydTU?oc=5",
+      "published": "Fri, 09 Oct 2026 16:08:00 GMT",
+      "summary": "Affaire Gimenez : le maire de Vallauris, poursuivi pour diffamation, crie victoire sur les réseaux sociaux après la décision de la Cour de cassation &nbsp;&nbsp; Nice-Matin",
       "themes": []
     },
     {
       "region": "paca",
       "source_id": "nice_matin",
       "source_label": "Nice-Matin",
-      "title": "« La cleptomanie et la consommation de stups ne sont pas une explication au vol » : un homme dans le déni condamné à un an de prison par le tribunal de Grasse - Nice-Matin",
-      "link": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxQT19LMFhYOFZ1LVoteWQzemJ6dnBTTTFYVDNNeWgyaUEzQ2ViX1ZFM0Naa3kxUlgtZTU0b3VGT0tTVlJjcXdxaU5QVjdqZUJBcE11S01XYm84ckRZUDBKc1YyQW9DN3gxc1NOd05nQmowTDRqSTk5Znd5Z253RHluN2dsWERERUNUMXRDVzNKQ0FkZnBKXy1zeXN4R0NpYkdVdWVKQldxTmUzUWhNcVp4REx5Qkw5TFVHbGpCS0U5MGpYWW1nT2pHOTh0bW9BSnMtdTYwNXU3OTE3b3ZUOUpMNXdvNWJkUEkzQTJTVkgyUnFxTmlSaHNqZE1XR1pydnc3LW1iOUl2dzYtTk9GX0V3YV9hbGxxR2V3Q0RNTFN0YjVkdk5tY0tKTy1OUQ?oc=5",
-      "published": "Fri, 09 Oct 2026 02:45:02 GMT",
-      "summary": "« La cleptomanie et la consommation de stups ne sont pas une explication au vol » : un homme dans le déni condamné à un an de prison par le tribunal de Grasse &nbsp;&nbsp; Nice-Matin",
+      "title": "« J’étais dans tous mes états, j’ai eu peur » : un coiffeur assène plusieurs coups de ciseaux à son client après une vive altercation à Nice - Nice-Matin",
+      "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOYkZPZC1lUE1CeWE5ZEV2WVBpV3lUa3M1ZGpkUG9UdzFycUx3cTZMbU93S2ozWTNPdHc2amxMN1hERE8yaXRKSEdFVkJ4RjFqcVhLb2Ftdl9iUmlWT0JPckltdkh6XzBSMmZkSWdaVHhZN290WkhiZ2hsUlJNaEFxRFVqRUpXXzFSTGxvRW5MZmJOY3hlNEJSNy1BSG9mNF9nRk5UOUx5bk1VdXc3cmRiN01MOHkzeHhzLUI4OFVnY3pic0hXU25zWm9TOFRHTms5bFdPbExLX290VkJUeW1xUktZQkFHNXd3M2MwMUNWWjNiVncwZjl0MFlfTHhjeFBXMFlENDRteWROQkM5QjlLWVJR?oc=5",
+      "published": "Sat, 10 Oct 2026 03:30:01 GMT",
+      "summary": "« J’étais dans tous mes états, j’ai eu peur » : un coiffeur assène plusieurs coups de ciseaux à son client après une vive altercation à Nice &nbsp;&nbsp; Nice-Matin",
       "themes": []
     },
     {
@@ -1539,20 +1564,10 @@
       "region": "paca",
       "source_id": "nice_matin",
       "source_label": "Nice-Matin",
-      "title": "« L’expérience étant encourageante » : la France va acquérir un kit de largage de retardant pour l’A400M pour lutter contre les incendies - Nice-Matin",
-      "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNQ28zX3RxOXVtbVpObnpoTDhCaGZUbDA2aHk4Z2hZR0hvM080RUtSUC1TNm1sbnBNTExfbFVVV0luaEVRYXp3YUQ3aGZXb0J5bnFDQmhkM09sV3JkMU9hZGFCNWZoUzJ6cmlITUd3M0wzVE1DMjFwUDRBUmdaMlJEQW1wWlJfRnZWWVBldzlQWTV2blNtQm5kRlJQdU93NTRkV1MwVkZVZEV3d2JBM2EyNktPY1RYNGRRUVV1NHFfLXdUVVZXX0JfVEVkcHBmTTVQMWplek1FNjNWZC1wRFBJTHlIOUt2XzU1WHYwdlBYX1l5VU96NjJ2dV9EYW53MWJmV1hnWThxS1I2OG8?oc=5",
-      "published": "Thu, 08 Oct 2026 10:02:20 GMT",
-      "summary": "« L’expérience étant encourageante » : la France va acquérir un kit de largage de retardant pour l’A400M pour lutter contre les incendies &nbsp;&nbsp; Nice-Matin",
-      "themes": []
-    },
-    {
-      "region": "paca",
-      "source_id": "nice_matin",
-      "source_label": "Nice-Matin",
-      "title": "Affaire Gimenez : le maire de Vallauris, poursuivi pour diffamation, crie victoire sur les réseaux sociaux après la décision de la Cour de cassation - Nice-Matin",
-      "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxOUVQ0dHo2cHdxLVAybzhDVFNCVUduaEo2SkRHeWJfUnVOTTl1TVh3TFFDTWREU2xEZjBCdEdhbWdJV0VLc3FFQ1NzeFdPSzNWc19tR3hFc2I0by1EV3RJYTVRUEI2Y1Y0X0RfZkFhQU5HZnFMSWhyZWdNM2djNTVJNE5Gc2JCUXlxaDFXUEFjMUtfa0x2QjIyU1cydkJZQk9ITVREZXZ1R29oOWJfdjdyb25ad1JtZjhEdmNFUkNvdWRuM0c1WXNYS0l1Ty01TEdjckQwLWk4RHFxRjdmQ3lKdTJDbUVacFh2M0tqQ0FkSzM2aks4REk5ZTZ0UFBqT19KcUVSV0RHR2lXRjNCSkwtVnBzS1E0ZC13ZGRyZVUydTU?oc=5",
-      "published": "Fri, 09 Oct 2026 16:08:00 GMT",
-      "summary": "Affaire Gimenez : le maire de Vallauris, poursuivi pour diffamation, crie victoire sur les réseaux sociaux après la décision de la Cour de cassation &nbsp;&nbsp; Nice-Matin",
+      "title": "« La cleptomanie et la consommation de stups ne sont pas une explication au vol » : un homme dans le déni condamné à un an de prison par le tribunal de Grasse - Nice-Matin",
+      "link": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxQT19LMFhYOFZ1LVoteWQzemJ6dnBTTTFYVDNNeWgyaUEzQ2ViX1ZFM0Naa3kxUlgtZTU0b3VGT0tTVlJjcXdxaU5QVjdqZUJBcE11S01XYm84ckRZUDBKc1YyQW9DN3gxc1NOd05nQmowTDRqSTk5Znd5Z253RHluN2dsWERERUNUMXRDVzNKQ0FkZnBKXy1zeXN4R0NpYkdVdWVKQldxTmUzUWhNcVp4REx5Qkw5TFVHbGpCS0U5MGpYWW1nT2pHOTh0bW9BSnMtdTYwNXU3OTE3b3ZUOUpMNXdvNWJkUEkzQTJTVkgyUnFxTmlSaHNqZE1XR1pydnc3LW1iOUl2dzYtTk9GX0V3YV9hbGxxR2V3Q0RNTFN0YjVkdk5tY0tKTy1OUQ?oc=5",
+      "published": "Fri, 09 Oct 2026 02:45:02 GMT",
+      "summary": "« La cleptomanie et la consommation de stups ne sont pas une explication au vol » : un homme dans le déni condamné à un an de prison par le tribunal de Grasse &nbsp;&nbsp; Nice-Matin",
       "themes": []
     },
     {
@@ -1563,16 +1578,6 @@
       "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxOeGdyNGtSZzd5SUgzUWJzV2NMLWhnYk51MDdtdjNPMjQyWG5JajlUVzQ1ZTZuS0Z4YjZ2Q1FlNnJoTDUwLUZYWjJwSnRGeF83WWhrQ2FMUXpqTzBqNnF2eERqR0pyRENZd2VtN0x1aTAxMG1sWmhkOGdkMkFXZEVxbGl1R043UHBfeVhxcVBzRjVXTW5EQnpSWWYyNnkwOGZvZUQ4RWNVS01FcTM2QS1LY25ZbnlzZGZ1eHRGQVNZN3plU2JqR1hkNnBTVWRraDEyM3VVRTQwNFN2dXJYVkh6XzlTXzE5aktqX2c3clQtX3JwX0FCQ1JBeGxlUEZ3aHdyaE5CempwV3pTM0hWUW8yRFZhaGVDZmFXT0I5UUk5WndkVzVuTmFLN0N6d0t6NlAyQVFXSg?oc=5",
       "published": "Fri, 09 Oct 2026 10:30:00 GMT",
       "summary": "« Le fleuve sera entièrement renaturé, rouvert et replanté » : grâce à cette importante subvention européenne, la Brague va pouvoir accélérer sa transformation à Antibes &nbsp;&nbsp; Nice-Matin",
-      "themes": []
-    },
-    {
-      "region": "paca",
-      "source_id": "nice_matin",
-      "source_label": "Nice-Matin",
-      "title": "L’envoi de « dick pic » non consenties sera désormais passible d’un an d’emprisonnement et plusieurs milliers d’euros d’amende - Nice-Matin",
-      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOcGdreS1aZHNKQzdscnpZclJmMjk3SGhSY0xIMzhnNW1DWE9SOW5UeVJtLTV0cjV0dDZ5Y1dRb29uSTFyd3Y3ZHlTTG9XaERRbW9NTE1MNFZ5aUpFT29fU0pTd0x2UC1MMFZwa2VtVVNNVURJNEMyTDFfaVhaTENkdGh6RTVRLTliTHlHWGxCX1hrQXZwRmlKSTlKc3EzVjZzMW1tamF5cUZodHRCYjZhTDJPWnpfS09RbEFESWwxLWhMRDNwN3JQTENwZ2dlMW1QdTh3YTRScjZHaG5MWlBaX2Fnc1NEWUpTODdNbDBBY3JTV3ZCSU1xQw?oc=5",
-      "published": "Wed, 07 Oct 2026 15:04:55 GMT",
-      "summary": "L’envoi de « dick pic » non consenties sera désormais passible d’un an d’emprisonnement et plusieurs milliers d’euros d’amende &nbsp;&nbsp; Nice-Matin",
       "themes": []
     },
     {
@@ -1672,6 +1677,16 @@
       "title": "Var-Matin - Nice-Matin",
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9pN3lCUmdMM1BMYW51Q1Y1VXNzNG1VYjgxaXZOMXdrMWVKUFFZU0dQWFRDTWxSdmYxOXF1bGpPRTk2UExQVmZqMENIY25pWS1rQVp2MmJaMkE?oc=5",
       "published": "Sun, 27 Jun 2021 17:07:22 GMT",
+      "summary": "Var-Matin &nbsp;&nbsp; Nice-Matin",
+      "themes": []
+    },
+    {
+      "region": "paca",
+      "source_id": "var_matin",
+      "source_label": "Var-Matin",
+      "title": "Var-Matin - Nice-Matin",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB1aWk5NjczU1VoSlVYdGZaN2RwNmRuN1h4am9rZ2Rna3pnUGxIeGhSM2MtdGFtX0dWU2R1b0NETS1nZkhvc2NSMGFzTG9Rb29KVTNQSVhGVQ?oc=5",
+      "published": "Sun, 22 Dec 2019 08:03:16 GMT",
       "summary": "Var-Matin &nbsp;&nbsp; Nice-Matin",
       "themes": []
     },
@@ -1809,6 +1824,16 @@
       "region": "paca",
       "source_id": "la_provence",
       "source_label": "La Provence",
+      "title": "Wembanyama, Theodora, Squeezie... Ces personnalités qui soutiennent le mouvement lycéen - La Provence",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQZHlCT3l2LTdtb0JldTh1MkplTkFiajVYV3kzbG9FNXZwTWtybzJtVUxobWd3YVZDUWJkUDlxYV9TZjl3cDRRLUpWOUxid3M4OE5wQ0RuY0VKUUpQbW9BVzlNTlB4S1ctdFkzSmxKdWlBUmRGT0VFbTFwOFNpcXdESXUwZEpoM01GQXVCWnZUMVJBQ2hKZ25BVkNsSkt2V01KUVVxeGdYUjBRUWVleVgxX0czVlROT24wVGplcGYyV09uT1hrN1hybkJ2YXlBTFBjbjVlcDB3R1JFM3RHbFA1VQ?oc=5",
+      "published": "Fri, 09 Oct 2026 15:53:57 GMT",
+      "summary": "Wembanyama, Theodora, Squeezie... Ces personnalités qui soutiennent le mouvement lycéen &nbsp;&nbsp; La Provence",
+      "themes": []
+    },
+    {
+      "region": "paca",
+      "source_id": "la_provence",
+      "source_label": "La Provence",
       "title": "L'Ethiopie et l'Erythrée s'accusent mutuellement \"d'agression\" - La Provence",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQTDg5ZzJfbWVoNjM4eUdDaEFZR1hqTmUtS01hV0liZWY1a2ltNVVtN3QtbVNNTEJBX1VyU0x2UURFQmh6VWxrMG1femlhUFljRHFyaHZuc2pIempCS3ZWYTJVZ2FMRXFCOUJpOVpiVVRMT1lucWxVRm5nRWlaTEFQaEVvenR3d18ySjJHbmpQRzZyZkFBTTlQMk1nc0dyM2NYY0RON25uRnFqQXU5MDMybW9FemFVYTM0X1EzRjFR?oc=5",
       "published": "Fri, 09 Oct 2026 12:55:40 GMT",
@@ -1839,6 +1864,16 @@
       "region": "paca",
       "source_id": "la_provence",
       "source_label": "La Provence",
+      "title": "Chili : une inhabituelle coulée de boue à Santiago fait au moins six blessés - La Provence",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQeHJkc0N3UU9GQWtnV09RejRzRXEyeUNFWXJuYS01bXJNX0NabjRnZ1BEYXZuN3VOY2lIUFg2YVhzT1p3NkVOYXNqUXFhcUM0TWpZY3R4VlRBbjdJYm91NHFLcmQ0R0I5TU14MlRaQTN1Mi1Sd1M0bHAxaGRwc1JGWk9Ycy1sTE1wTzZZQUxXNmxFcVRDV1VobDVEVFA5cERHdjVXV3NwNXoxcW01NmtmUy1Lb3NKVlNTZE85VF9rSm5UMTFBMEN5UWtNdTBtRktSTjZJ?oc=5",
+      "published": "Fri, 09 Oct 2026 00:48:57 GMT",
+      "summary": "Chili : une inhabituelle coulée de boue à Santiago fait au moins six blessés &nbsp;&nbsp; La Provence",
+      "themes": []
+    },
+    {
+      "region": "paca",
+      "source_id": "la_provence",
+      "source_label": "La Provence",
       "title": "Après Les Enfoirés, les Restos du Coeur vont lancer Les Enflures, un spectacle d'humour - La Provence",
       "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNeHlFUWkxTmZUbEN5UHVmYzRHNEJ3SDl2MFEyM3B4Y0xFdnNib1htNE1YV0c5M05FNnFhWnRvZklmRXJncEZ3MWF3dzdCV1oyMXAtclFVSGhPYXdBdW9pNUNNU1FvZmFhX3B2c3U0Q244TlUzNHQ5aWk4SEc1aG1yVUtidTZLTmtXRXNCSDNVc0dDYkJrbHpGYVVZY1BjclltMlpHODB2THl1N0ZoU2VFVlA5TFVLVUxRenViSnBGYk5icGZWVWFrMFp3N2c3eTgtaFBsUzMwcjNBckpnWFQ5OA?oc=5",
       "published": "Thu, 08 Oct 2026 19:05:36 GMT",
@@ -1849,10 +1884,10 @@
       "region": "paca",
       "source_id": "la_provence",
       "source_label": "La Provence",
-      "title": "Chili : une inhabituelle coulée de boue à Santiago fait au moins six blessés - La Provence",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQeHJkc0N3UU9GQWtnV09RejRzRXEyeUNFWXJuYS01bXJNX0NabjRnZ1BEYXZuN3VOY2lIUFg2YVhzT1p3NkVOYXNqUXFhcUM0TWpZY3R4VlRBbjdJYm91NHFLcmQ0R0I5TU14MlRaQTN1Mi1Sd1M0bHAxaGRwc1JGWk9Ycy1sTE1wTzZZQUxXNmxFcVRDV1VobDVEVFA5cERHdjVXV3NwNXoxcW01NmtmUy1Lb3NKVlNTZE85VF9rSm5UMTFBMEN5UWtNdTBtRktSTjZJ?oc=5",
-      "published": "Fri, 09 Oct 2026 00:48:57 GMT",
-      "summary": "Chili : une inhabituelle coulée de boue à Santiago fait au moins six blessés &nbsp;&nbsp; La Provence",
+      "title": "Blocus des lycées : un message envoyé par la gendarmerie de Gardanne à des lycéens de Fourcade crée la discorde - La Provence",
+      "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNT3g2bUJOb0tjNUZ3SHQ4amVtZmE2a0pjNHgyOHhQcnRjUzFKZjFIa0pLRU9uam5OX3VrWlYxQzhiMzhjbmJ0RzFIN0FZLXM5cjcwNGZydTBSLXFCWHBYQUpxY3o1NFU1NE9sWE5ZQ0pjdi13MkJ3WHdweWxKdHExNkVPMmNzOEVWQkhRcHo2UWtnTUk5SVZsWTRuQmgtaXNmR24tLTgtM3QwaldyY09aVlFTVk13NFk2Z0tCeUVUQ05KWFZSUlBBSmFvbEdDekFVcXlOMTg3MHhoTzlOZlhQcEtPRlJrdHdGSlpid2RTQlhGXy1OQzR6RV9VaWRWTW1mTGFzRlQwR2pNN0lxLXhj?oc=5",
+      "published": "Fri, 09 Oct 2026 15:45:00 GMT",
+      "summary": "Blocus des lycées : un message envoyé par la gendarmerie de Gardanne à des lycéens de Fourcade crée la discorde &nbsp;&nbsp; La Provence",
       "themes": []
     },
     {
@@ -1891,10 +1926,10 @@
       "region": "paca",
       "source_id": "la_provence",
       "source_label": "La Provence",
-      "title": "Lycées: Geffray présentera un \"plan d'urgence\" sur les remplacements d'ici \"quelques heures ou quelques jours\" - La Provence",
-      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOTFRBTkI4NlN2aldGREx3Qi1BVzhILVdzNEFVd2pONTY2NU4yLXJLQ3hhcTktX3Zjal9nb0QtN3FDNXFrWjlLZzVncmFXdHYxdnE2WUExbTg4U3ByNGlHdFVONWx6XzRZSFpLdWNKTjFkdldWdzlXS3h2VkV0dzB3MEpFanNLN0lfUURSM2Z0bUZMUnhxYjJyRnNxQVIwNW5QZ2tRazd3NFE0MzQyMk1HaWpiZ0tEYmJvNC03MTBMN2tyWEQzWndzbGRhMUt4M2pPN0VSZmdtemtpdGFRQkFBTnZJbWxIenhRZEw5OHRvRlhRSHFfMGY4eEE5Tk0?oc=5",
-      "published": "Thu, 08 Oct 2026 10:59:07 GMT",
-      "summary": "Lycées: Geffray présentera un \"plan d'urgence\" sur les remplacements d'ici \"quelques heures ou quelques jours\" &nbsp;&nbsp; La Provence",
+      "title": "Un jeune homme désincarcéré après une sortie de route, à Pertuis - La Provence",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQaElVMzBkeTQwZHpTUlo0MnVob01XNkJXRWg3UmtwTDNzU24zVl9uYV9hZnJRM05FUGRMWjZ0ZEN0Zk1PdnlfbHByY3A4d0w0eXk3YWVFT092U1pyNFBUZ2pzSWJERkpvYURCb1JxbXVCd1lNcmh3bHNwbEF5cG1oUnBOX1dXN21RU1FHa3M4SGc3T2JDWG8tMGRwZEhtcnVvX1IyRWdFbzZHZmVuMEJ2M2dNTGZqck9tT21pNUJlRXIxWFZnRGUwX2IxZmpFMnc4c1E?oc=5",
+      "published": "Fri, 09 Oct 2026 08:48:56 GMT",
+      "summary": "Un jeune homme désincarcéré après une sortie de route, à Pertuis &nbsp;&nbsp; La Provence",
       "themes": []
     },
     {
@@ -1921,6 +1956,26 @@
       "region": "paca",
       "source_id": "la_provence",
       "source_label": "La Provence",
+      "title": "Lycées: Geffray présentera un \"plan d'urgence\" sur les remplacements d'ici \"quelques heures ou quelques jours\" - La Provence",
+      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOTFRBTkI4NlN2aldGREx3Qi1BVzhILVdzNEFVd2pONTY2NU4yLXJLQ3hhcTktX3Zjal9nb0QtN3FDNXFrWjlLZzVncmFXdHYxdnE2WUExbTg4U3ByNGlHdFVONWx6XzRZSFpLdWNKTjFkdldWdzlXS3h2VkV0dzB3MEpFanNLN0lfUURSM2Z0bUZMUnhxYjJyRnNxQVIwNW5QZ2tRazd3NFE0MzQyMk1HaWpiZ0tEYmJvNC03MTBMN2tyWEQzWndzbGRhMUt4M2pPN0VSZmdtemtpdGFRQkFBTnZJbWxIenhRZEw5OHRvRlhRSHFfMGY4eEE5Tk0?oc=5",
+      "published": "Thu, 08 Oct 2026 10:59:07 GMT",
+      "summary": "Lycées: Geffray présentera un \"plan d'urgence\" sur les remplacements d'ici \"quelques heures ou quelques jours\" &nbsp;&nbsp; La Provence",
+      "themes": []
+    },
+    {
+      "region": "paca",
+      "source_id": "la_provence",
+      "source_label": "La Provence",
+      "title": "Avignon: un accident de personne coupe le trafic TGV, retards jusqu'à 2h30 - La Provence",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPQnNTVFBZbzVmQ2ItdlZqRU4zTzZzdzBqaFV1SGpJRDIxLU5MYkpmUzcxWFhGSGNIWXZmcmxNZVQwTE0tTlVZRmZNb0tndUdCX0NVcHdNV3lxalgyNXp5TlFxMDUwcW1XSDVJNVc3aGN5bklrWm1IVlYwclJZYVQxZm81NjNSbTlRcWJ4YUhjaHFubmNmVjFFdk5ra1l4WTBiNW9iVmhKeS1xbzhueVZDdmhBLXQzNGlCaW9FLWlTUmUyT2pBandtVWFUSnZMYWROOXpYc21Ra2I?oc=5",
+      "published": "Fri, 09 Oct 2026 01:50:00 GMT",
+      "summary": "Avignon: un accident de personne coupe le trafic TGV, retards jusqu'à 2h30 &nbsp;&nbsp; La Provence",
+      "themes": []
+    },
+    {
+      "region": "paca",
+      "source_id": "la_provence",
+      "source_label": "La Provence",
       "title": "Relèvement imminent du quota de loups qu'il sera possible d'abattre en 2026 - La Provence",
       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNOVRkdmlTVVEzUS0yMXUwMzliVUR5Yms1cGRRNmUtc0JPQVprV01raFJpY1kxLUFnV3dUMWxDSVFQeXFvRkd5VklxZ0NDMDNrN2hBak82cHZKaG5nSmNuYTdzT0syWHYtYml5UHBlZ21lRndZb1h6RDgweGJ1Wkc4eEw0OURuZk85TnBIdnBCMzV3ODBqZHNKTE9SNUlTOGlBSUIxalBGbXRabTFtVGlEbzVDd09zYkJXWU5Gd1BrSFIyVGNMVXl1WEJzMDJySllPaG1TYg?oc=5",
       "published": "Thu, 08 Oct 2026 11:52:58 GMT",
@@ -1931,10 +1986,10 @@
       "region": "paca",
       "source_id": "la_provence",
       "source_label": "La Provence",
-      "title": "Un jeune homme désincarcéré après une sortie de route, à Pertuis - La Provence",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQaElVMzBkeTQwZHpTUlo0MnVob01XNkJXRWg3UmtwTDNzU24zVl9uYV9hZnJRM05FUGRMWjZ0ZEN0Zk1PdnlfbHByY3A4d0w0eXk3YWVFT092U1pyNFBUZ2pzSWJERkpvYURCb1JxbXVCd1lNcmh3bHNwbEF5cG1oUnBOX1dXN21RU1FHa3M4SGc3T2JDWG8tMGRwZEhtcnVvX1IyRWdFbzZHZmVuMEJ2M2dNTGZqck9tT21pNUJlRXIxWFZnRGUwX2IxZmpFMnc4c1E?oc=5",
-      "published": "Fri, 09 Oct 2026 08:48:56 GMT",
-      "summary": "Un jeune homme désincarcéré après une sortie de route, à Pertuis &nbsp;&nbsp; La Provence",
+      "title": "Les enseignants et parents en colère à Marseille : \"Au Canet, on ne veut pas caner\" - La Provence",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOQ1ZmckhVSjNHSXFRelE2TWZyVGZUcVQ4dGpNUzZGTUJlSnJyYW9BbHNkZTVuZ2ZMS1VBRi1Vd1pld0dhNDczdmE0YWdXLVItaWtBTnpyMnBZd1k3OGlMVmE5bmlEOEFWYU1Hc2x4VHJUR2FEMHRVdTZERXNRSExiOVZFb19zRExFYm9FWjVQU2d0WEFVaVlULVN6MDd5bTBvMEtkeV9vRmpoSWU1eGVWQUtvWUhBcHZuQXB2MHhoZExUU3FTOXEwMTZ2NXJCY2tFY1cw?oc=5",
+      "published": "Fri, 09 Oct 2026 09:42:00 GMT",
+      "summary": "Les enseignants et parents en colère à Marseille : \"Au Canet, on ne veut pas caner\" &nbsp;&nbsp; La Provence",
       "themes": []
     },
     {
@@ -1955,16 +2010,6 @@
       "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOekE0c1JpNEt5aEp1RWxJcUZYVVlNUnpUaFhLWnJUdkZaWUplNHI4elZBTWhlX19SYWJGbUx3Y3QyLWhDMU5JWVp1VUNWSW9kQnZMQ2dBVk9sQzMtdGlzcHFPVTJEYXpZQ1NmcHJiakRSY1NXS0ktcDl2cHJnUDBJWDVPTkhrbjVsR2RGVEpnSXhHUEwyQklES1VxX2R1bnVsR04tYVZGX2hEU1MwY3BJOUNId1A1QVk0OXE0T1dyd1dUZTVWOURiVW9UclFyZXFHZ3NtZGlvTEhZR1k?oc=5",
       "published": "Thu, 08 Oct 2026 00:59:00 GMT",
       "summary": "Ukraine : le bilan des frappes russes sur des bus dans l'Est s'alourdit à 30 morts &nbsp;&nbsp; La Provence",
-      "themes": []
-    },
-    {
-      "region": "paca",
-      "source_id": "la_provence",
-      "source_label": "La Provence",
-      "title": "Avignon: un accident de personne coupe le trafic TGV, retards jusqu'à 2h30 - La Provence",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPQnNTVFBZbzVmQ2ItdlZqRU4zTzZzdzBqaFV1SGpJRDIxLU5MYkpmUzcxWFhGSGNIWXZmcmxNZVQwTE0tTlVZRmZNb0tndUdCX0NVcHdNV3lxalgyNXp5TlFxMDUwcW1XSDVJNVc3aGN5bklrWm1IVlYwclJZYVQxZm81NjNSbTlRcWJ4YUhjaHFubmNmVjFFdk5ra1l4WTBiNW9iVmhKeS1xbzhueVZDdmhBLXQzNGlCaW9FLWlTUmUyT2pBandtVWFUSnZMYWROOXpYc21Ra2I?oc=5",
-      "published": "Fri, 09 Oct 2026 01:50:00 GMT",
-      "summary": "Avignon: un accident de personne coupe le trafic TGV, retards jusqu'à 2h30 &nbsp;&nbsp; La Provence",
       "themes": []
     },
     {
@@ -2021,30 +2066,10 @@
       "region": "paca",
       "source_id": "la_provence",
       "source_label": "La Provence",
-      "title": "Blocus des lycées : un message envoyé par la gendarmerie de Gardanne à des lycéens de Fourcade crée la discorde - La Provence",
-      "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNT3g2bUJOb0tjNUZ3SHQ4amVtZmE2a0pjNHgyOHhQcnRjUzFKZjFIa0pLRU9uam5OX3VrWlYxQzhiMzhjbmJ0RzFIN0FZLXM5cjcwNGZydTBSLXFCWHBYQUpxY3o1NFU1NE9sWE5ZQ0pjdi13MkJ3WHdweWxKdHExNkVPMmNzOEVWQkhRcHo2UWtnTUk5SVZsWTRuQmgtaXNmR24tLTgtM3QwaldyY09aVlFTVk13NFk2Z0tCeUVUQ05KWFZSUlBBSmFvbEdDekFVcXlOMTg3MHhoTzlOZlhQcEtPRlJrdHdGSlpid2RTQlhGXy1OQzR6RV9VaWRWTW1mTGFzRlQwR2pNN0lxLXhj?oc=5",
-      "published": "Fri, 09 Oct 2026 08:45:00 GMT",
-      "summary": "Blocus des lycées : un message envoyé par la gendarmerie de Gardanne à des lycéens de Fourcade crée la discorde &nbsp;&nbsp; La Provence",
-      "themes": []
-    },
-    {
-      "region": "paca",
-      "source_id": "la_provence",
-      "source_label": "La Provence",
       "title": "La plateforme de concertation laisse les lycéens mobilisés indifférents voire sceptiques - La Provence",
       "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNamJfa09xMW9TaFExdUN5TE5GRTFPOWltbTQ4WW9VUWFmTTNKX3BtbjJja1VJcHpkaDYxTDAtdlB1UkJ3TGNEUkVxeHRWZ2szOTJVUmZUdXZZTXc3V05Wei1XVzBob09MQmNJbTZ4dkpNeWZvT3B2VWRFbGljSW5wbmRlckJHWnYxSlVXS3dUdnZsNm1kSzlJcFBkUzMxdW5iMjZqRzhfM25Qd2ZoTDQ4MEdFcl9DZ18zajk3SEdSQjYtLVk5S2VlZ3dnd2dsVWtVbzl4YVpJQTdZQzVuWnY4ZFhYRU5PcHdL?oc=5",
-      "published": "Fri, 09 Oct 2026 16:36:08 GMT",
+      "published": "Fri, 09 Oct 2026 10:30:36 GMT",
       "summary": "La plateforme de concertation laisse les lycéens mobilisés indifférents voire sceptiques &nbsp;&nbsp; La Provence",
-      "themes": []
-    },
-    {
-      "region": "paca",
-      "source_id": "la_provence",
-      "source_label": "La Provence",
-      "title": "Les enseignants et parents en colère à Marseille : \"Au Canet, on ne veut pas caner\" - La Provence",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOQ1ZmckhVSjNHSXFRelE2TWZyVGZUcVQ4dGpNUzZGTUJlSnJyYW9BbHNkZTVuZ2ZMS1VBRi1Vd1pld0dhNDczdmE0YWdXLVItaWtBTnpyMnBZd1k3OGlMVmE5bmlEOEFWYU1Hc2x4VHJUR2FEMHRVdTZERXNRSExiOVZFb19zRExFYm9FWjVQU2d0WEFVaVlULVN6MDd5bTBvMEtkeV9vRmpoSWU1eGVWQUtvWUhBcHZuQXB2MHhoZExUU3FTOXEwMTZ2NXJCY2tFY1cw?oc=5",
-      "published": "Fri, 09 Oct 2026 09:42:00 GMT",
-      "summary": "Les enseignants et parents en colère à Marseille : \"Au Canet, on ne veut pas caner\" &nbsp;&nbsp; La Provence",
       "themes": []
     },
     {
@@ -2055,16 +2080,6 @@
       "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPWnhCdF84X004bGhQRWNuWEdTNnQ2VENHUk5KekFXRlRwMFBvUGwzZ0k0bjYzNFdna0RzWFEtMjgzWmhwRjNqR0VMYmZ3REVIUU93QzdvUFRuRWpCel95QUNtaVhOUWxhOVBqRVQ1N0dOZm10UDNxeGw5N0c1Q0JsREs3bkt1c2xvdVhNeHh2eW9fWDZWRC1wYTdDTUVKYlFZdnJ2Z0MxTHVnckVqSTVyYkJ4RDlYU0VhdUJXa2FnS29LM3MyTnFBYkxkb3JJYVdXVndfLWtwbHZXV2stNkpDajdaanhqQ0VCcWp5QjFibXdDR2Q2emZPaVNIMDZtbk8yRHV0bHZkSzZDZS1WYjVyVE03eTZOTXV0YUx3?oc=5",
       "published": "Fri, 09 Oct 2026 16:35:44 GMT",
       "summary": "Les gendarmes découvrent plus de 150 vidéos pédopornographiques sur son ordinateur, il est placé sous contrôle judiciaire en attendant son jugement &nbsp;&nbsp; La Provence",
-      "themes": []
-    },
-    {
-      "region": "paca",
-      "source_id": "la_provence",
-      "source_label": "La Provence",
-      "title": "Punaise diabolique : vergers ravagés, envahissante… pourquoi sa prolifération dans le Sud de la France exaspère - La Provence",
-      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQYnMzMWVZZHZJVkRZYll2X3AzUFBlemhzZE5CNVUxYk9IMDBqSS1zWWZjY1packEzRW5wZ2FNMUdQY0N2ZUhYbVZ5OTlxeW9fOTBlUUV3SXVvMFhVTGcxREVtSUhYaWU3NFRSWlZiVWVzaE5YS0xVQ3VKcXdrbVlfU3YycWxVVWFSUWNRRlJYM3Jua3dFazZ1b2d2c2RLMmVRTVpnMDluZ1dXTzloWkNWT0tYTHdTUl9ieW92U2VTaHlabHlGaWpOU1RJNmtJdGkzOGRvN241cWVicGxPWnR2TkFsalZGRVM3MUQ2ZGF2TnQyVGl6ZmlnZDcyT295NWM?oc=5",
-      "published": "Fri, 09 Oct 2026 04:45:00 GMT",
-      "summary": "Punaise diabolique : vergers ravagés, envahissante… pourquoi sa prolifération dans le Sud de la France exaspère &nbsp;&nbsp; La Provence",
       "themes": []
     },
     {
@@ -2221,16 +2236,6 @@
       "region": "paca",
       "source_id": "la_marseillaise",
       "source_label": "La Marseillaise",
-      "title": "Les secrets d’histoire de l’ancien Hôtel Splendide à Marseille - www.lamarseillaise.fr",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPbnZNR3VRQmVfS0JxQlRtakxxN1ZOUEkyM3pQLUx3dDJCUFFWLTB1YVBCVUgteEE4M2c2UmJiSHFJVU9zLWRBM0hkUXR5NHk1cVZpV1V0R3RjVGp0OHJBQ05KU1dIcktJREp1ZXdSOVJNN1FlNmlxOEFOVFltU0tUX21oRVNsQk42SnlWOFJvUmZjZE1BSmlvdmNmU1N1b3ktRTRPdjgzSnptRVZKODN4SQ?oc=5",
-      "published": "Tue, 15 Sep 2026 07:00:00 GMT",
-      "summary": "Les secrets d’histoire de l’ancien Hôtel Splendide à Marseille &nbsp;&nbsp; www.lamarseillaise.fr",
-      "themes": []
-    },
-    {
-      "region": "paca",
-      "source_id": "la_marseillaise",
-      "source_label": "La Marseillaise",
       "title": "L’esprit de Rabelais dévore la Friche Belle de Mai - www.lamarseillaise.fr",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNbWh6LWE2QVNTTFRUbU5VbVJjYVdJaVBIWl9rc21LVURuQnpudWlfYWVMd21jMzgyTXVscnB1WWNESkFON1FKM3NRQ0xyNlNIR2VGNm9hVjZoYTFPV3NtZEt5Xy1tNFdnVU16R3RqOWktLXR0N2ZNU3lYWUpJX0t5dnRmNmZPYnYxYnBhYThwTlFKck9qQmtuS0VHcHhickdJ?oc=5",
       "published": "Tue, 15 Sep 2026 05:28:00 GMT",
@@ -2377,6 +2382,36 @@
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNYnhnRHJTbFZRVkZhdTYxOVBkNTRScXFOLWo2ZE9pRG9nUUItZDVoRUVDcjFCNmxPOV9QdWRtVjVfN3hUaXhWd0NVa1ZLbEZtNEYxVDVsaUd2a0ZvTUhGM214ekRGaVh4ZkZfanZEOHFsdl8wVno4ejl2Y19WQ01nVnRxM1FZVHVKY3pBMmg5cmNWdE00bGpkRHNncXV1R0V4V016R1pDQy11ZEtISUM3UUVnVl9ZaHlkaHFv?oc=5",
       "published": "Tue, 10 Jun 2025 07:00:00 GMT",
       "summary": "[Maj] « La Marseillaise » attaquée en justice par un député d’extrême droite &nbsp;&nbsp; www.lamarseillaise.fr",
+      "themes": []
+    },
+    {
+      "region": "paca",
+      "source_id": "la_marseillaise",
+      "source_label": "La Marseillaise",
+      "title": "[Grand entretien] Vladimir Cosma : « La culture marseillaise ne m’a jamais quitté » - www.lamarseillaise.fr",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNcHlzc2VKNTZZbWpaTmpET0NsTDdVLUs1SWRYNjBPSUlNYzB5b0oyS3huRTBNbElKTTBDVUlxQnVzTHlMcWNUcHR0MWQydDRnSlRjTlExaVB6WGRjUk11UWJQa1FWRnRMVk1GWFF6YUd2bE5xb1MyX2pNMEsxZXBBdmwwQlplSDgwd1pac2l0RUhKdUlyaGxVcFZtc2d2RHpOalRNTFBDUmhpYXVhcWJZc3NIR1k4Yk95VnVwQ3R2dFp6Zw?oc=5",
+      "published": "Sat, 13 Jun 2026 07:00:00 GMT",
+      "summary": "[Grand entretien] Vladimir Cosma : « La culture marseillaise ne m’a jamais quitté » &nbsp;&nbsp; www.lamarseillaise.fr",
+      "themes": []
+    },
+    {
+      "region": "paca",
+      "source_id": "france3_paca",
+      "source_label": "France 3 PACA",
+      "title": "Zoladex déremboursé en décembre 2026 : \"On est face à nous-même\", témoignent des femmes atteintes de cancer du sein",
+      "link": "https://france3-regions.franceinfo.fr/provence-alpes-cote-d-azur/bouches-du-rhone/marseille/zoladex-derembourse-en-decembre-2026-on-est-face-a-nous-meme-temoignent-des-femmes-atteintes-de-cancer-du-sein-3430809.html",
+      "published": "Fri, 09 Oct 2026 22:43:42 +0200",
+      "summary": "Le Zoladex ne sera plus remboursé à compter du 15 décembre 2026. Si une alternative thérapeutique existe, des patientes atteintes d’un cancer du sein redoutent de changer de traitement ou de devoir payer pour le poursuivre. Jasmine nous raconte son appréhension.",
+      "themes": []
+    },
+    {
+      "region": "paca",
+      "source_id": "france3_paca",
+      "source_label": "France 3 PACA",
+      "title": "À Aureille, dans les Alpilles, Jamy Gourmaud nous dévoile ses coups de cœur et ses bonnes adresses",
+      "link": "https://france3-regions.franceinfo.fr/provence-alpes-cote-d-azur/bouches-du-rhone/a-aureille-dans-les-alpilles-jamy-gourmaud-nous-devoile-ses-coups-de-c-ur-et-ses-bonnes-adresses-3429669.html",
+      "published": "Fri, 09 Oct 2026 08:51:58 +0200",
+      "summary": "Le journaliste et animateur est tombé amoureux du village d’Aureille il y a une quinzaine d'années. Dans l’émission \"Mon Côté Sud\" il nous emmène à la découverte de ses lieux favoris. Une escapade chaleureuse, ponctuée de rencontres, de découvertes et d'anecdotes, qui révèle les Alpilles à travers son regard passionné.",
       "themes": []
     },
     {
@@ -2674,26 +2709,6 @@
       "themes": []
     },
     {
-      "region": "paca",
-      "source_id": "france3_paca",
-      "source_label": "France 3 PACA",
-      "title": "Un CRS en plein saut, frappant un lycéen maintenu… Ce que l'on sait de l'enquête confiée à l'IGPN après l'usage de la force sur un manifestant à Marseille",
-      "link": "https://france3-regions.franceinfo.fr/provence-alpes-cote-d-azur/bouches-du-rhone/marseille/un-crs-en-plein-saut-frappant-un-lyceen-maintenu-ce-que-l-on-sait-de-l-enquete-confiee-a-l-igpn-apres-l-usage-de-la-force-sur-un-manifestant-a-marseille-3429984.html",
-      "published": "Thu, 08 Oct 2026 13:05:29 +0200",
-      "summary": "Une enquête pour “violences volontaires par personne dépositaire de l’autorité publique et avec arme” a été ouverte par le parquet de Marseille mercredi 7 octobre. ICI Provence-Alpes a passé au crible plusieurs vidéos de l'intervention policière.",
-      "themes": []
-    },
-    {
-      "region": "paca",
-      "source_id": "france3_paca",
-      "source_label": "France 3 PACA",
-      "title": "Ce que l'on sait du projet de restaurant italien que la star américaine George Clooney pourrait ouvrir dans une commune du Var",
-      "link": "https://france3-regions.franceinfo.fr/provence-alpes-cote-d-azur/var/la-star-americaine-george-clooney-pourrait-ouvrir-prochainement-un-restaurant-italien-haut-de-gamme-dans-cette-commune-du-var-3429375.html",
-      "published": "Thu, 08 Oct 2026 12:45:31 +0200",
-      "summary": "Quel beau coup de projecteur pour le village de Cotignac : l'acteur américain George Clooney aurait pour projet d'y ouvrir un restaurant italien haut de gamme. L'établissement reprendrait les murs d'une ancienne pizzeria en plein centre-ville.",
-      "themes": []
-    },
-    {
       "region": "corse",
       "source_id": "corse_matin",
       "source_label": "Corse-Matin",
@@ -2709,30 +2724,10 @@
       "region": "corse",
       "source_id": "corse_matin",
       "source_label": "Corse-Matin",
-      "title": "Au procès de l'incendie du Bella Vista, le coaccusé de Yassine Akhazzane affirme avoir été \"trahi\" - Corse Matin",
-      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQb0ZQajZuOGF6YWtpY0UyLTZYRVRadWROek8zLVl3WEZsLTg3V3V0ZFRqOGdwRFQwNC1YeWs2WjVmRHZmbVdmVWhXdFYxLURsQ285NVVhN3hKR2NBWWZvcnRSeHZuWWhBWWRMNkV6cmZidmpES2pURlYzVThBUF9nUEZLdm0zV0NqYkJ1UmFMa2lZQWhKSVFoR0h6TGFielhiWVNpc195WWxjQW5xZHVxREQ5MGE4anhENllScXg0bkJKTnB6Yk1BYkxkOUNqc3h0WjNJNmZoVkVpRmNqdV9pQ0FLX1NDU2xvQ3FPYUpXeXFaRHVGeE5j?oc=5",
-      "published": "Fri, 09 Oct 2026 19:35:02 GMT",
-      "summary": "Au procès de l'incendie du Bella Vista, le coaccusé de Yassine Akhazzane affirme avoir été \"trahi\" &nbsp;&nbsp; Corse Matin",
-      "themes": []
-    },
-    {
-      "region": "corse",
-      "source_id": "corse_matin",
-      "source_label": "Corse-Matin",
       "title": "Tour de Corse historique : deux blessés graves dans une sortie de route à Arbellara - Corse Matin",
       "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPNkdiMVpLcWRBeVA4dGV5MGdGcDhFeEtSdFNhUW0xaDNZbDA2MmJUenZaN1ZMNDYxU1hfd2pKbDNadzlIZklDUTJwVGZwSzNuOEJvS3hvMEE4dGVYNnhMNWhzUUxOcmNVelQwLVZXNkR6bXhQaG81NUxVQUNsZHZKem1manVQQVVoUlFWU0RoSFM1dHhXQXFKNFNYbEVJS29UNjVNQjl1UmtPbzBHd3M3YmtNQWhjWU5fUXgzbGJlZFZLZ2swS012bzhqRnF5SVZZRHRWcHAycGNTVjdC?oc=5",
       "published": "Fri, 09 Oct 2026 08:12:51 GMT",
       "summary": "Tour de Corse historique : deux blessés graves dans une sortie de route à Arbellara &nbsp;&nbsp; Corse Matin",
-      "themes": []
-    },
-    {
-      "region": "corse",
-      "source_id": "corse_matin",
-      "source_label": "Corse-Matin",
-      "title": "En Corse, le train veut gagner du terrain dans les déplacements du quotidien - Corse Matin",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQaHhkbnNGNlM1TUl3MG1DRXc5U0ludEVXM3FYZUdyOW85SkZyalVvbmE0YXVBZGZYbFRPSUw1RnRfS213T2RNX0k0VnRjZTEzbUpHbFQ3bDZNZU0yVEdTSzZDRXlLZGlHMFMya09sVTZGSHFaZ2tVM3ktbG9vNF81TzhoWkZicWlwb3hwXzBPT05BcU1zU1lSeWlRQ2hqX0tFZTJ0UXpDRk9hV0FzZkFWbXF0WXNad2lZVjkwaFdVTVdVWEZkbjNtZDlsaktBUXM?oc=5",
-      "published": "Fri, 09 Oct 2026 11:00:03 GMT",
-      "summary": "En Corse, le train veut gagner du terrain dans les déplacements du quotidien &nbsp;&nbsp; Corse Matin",
       "themes": []
     },
     {
@@ -2751,13 +2746,11 @@
       "region": "corse",
       "source_id": "corse_matin",
       "source_label": "Corse-Matin",
-      "title": "Grève chez Air Corsica : déroutement, bus, horaires adaptés... À quoi les voyageurs doivent-ils s'attendre à partir de ce vendredi ? - Corse Matin",
-      "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxObXNhanV5cmp5ZEdlZS1ueXNKaW82S09PbnQ3VVF1VXRjdmViell1VXhPLUxXT0JIMC1RNWNRMHdVV21qN3dzUWhFdzU4TzFvbkpUSW01MGlmaDB1LWNlUFRqVW44VDFDLThGRjdfdllXMXNCODNvN2phcmZXTVZOSXlDSjMtTGoyVU53VnF5cFNZNEo3WmxOLXlEVDZfbll0Y01IOFAtSmZWTEp2a3VuSncwOHdWelBpWGVRWnJxcl91WWNsWUV5Y2pHaHpHMHhDTVlaTmM3TVU0eWtRbTA2V2k4cmY3eTNMdUl2Vmt0Zl9yaW1SdmluYnFadEtPeGlfMDNtMmpHQk5mUUNk?oc=5",
-      "published": "Fri, 09 Oct 2026 05:00:06 GMT",
-      "summary": "Grève chez Air Corsica : déroutement, bus, horaires adaptés... À quoi les voyageurs doivent-ils s'attendre à partir de ce vendredi ? &nbsp;&nbsp; Corse Matin",
-      "themes": [
-        "greve"
-      ]
+      "title": "En Corse, le train veut gagner du terrain dans les déplacements du quotidien - Corse Matin",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQaHhkbnNGNlM1TUl3MG1DRXc5U0ludEVXM3FYZUdyOW85SkZyalVvbmE0YXVBZGZYbFRPSUw1RnRfS213T2RNX0k0VnRjZTEzbUpHbFQ3bDZNZU0yVEdTSzZDRXlLZGlHMFMya09sVTZGSHFaZ2tVM3ktbG9vNF81TzhoWkZicWlwb3hwXzBPT05BcU1zU1lSeWlRQ2hqX0tFZTJ0UXpDRk9hV0FzZkFWbXF0WXNad2lZVjkwaFdVTVdVWEZkbjNtZDlsaktBUXM?oc=5",
+      "published": "Fri, 09 Oct 2026 11:00:03 GMT",
+      "summary": "En Corse, le train veut gagner du terrain dans les déplacements du quotidien &nbsp;&nbsp; Corse Matin",
+      "themes": []
     },
     {
       "region": "corse",
@@ -2779,16 +2772,6 @@
       "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNYl93andsM013TFAwTDJ0azVXTFFaeVBmTXc1QmdCWE11MDBFOVh5MERZTDB4c0dBNXhwM1FSaHppaGlWSXhTRGpxaEZCbGF6RUwtSk92cUJSd3N2ay1sY2ZTY0FtVHlFVjU5Um0zZnVMX2VSUzJwUXpreVk3aElNbDhDRFoybmxDWF80TEd2TWw1ZDYxenRIbXcxT2FxOEdWWjJRQTZVUFJTUV9ZX0pXWTgyTXl5Zmlzb0I2cTluMk5icU13TnZsenRyNU9lWHJqejFoSkhOWTQ0TERkSUdOdzZFVzhLb2IxQlJEWHBfZEkweTdrOVJzTzQ1M3JVQjFYOVY4ejJwVnBqOEhI?oc=5",
       "published": "Thu, 08 Oct 2026 14:49:59 GMT",
       "summary": "Un mort et une personne en urgence absolue dans un accident de la route impliquant deux véhicules à Sari-Solenzara &nbsp;&nbsp; Corse Matin",
-      "themes": []
-    },
-    {
-      "region": "corse",
-      "source_id": "corse_matin",
-      "source_label": "Corse-Matin",
-      "title": "Pourquoi les aéroports d'Ajaccio et de Calvi nécessitent-ils des qualifications spécifiques pour les pilotes ? - Corse Matin",
-      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNeFY3VW1EMDdfX0JkcWtIZkdOSUpocVRPeHBPX0R4cl8zOTNBd2NCenpwWDBHNThmVmpUSHV3Z1Z5Vy1fTHE2MGJWUEJGb202SWRTUFBIeTFXNFBjcng0Q19RYkJaWmZGdXlIeXN6aEN3cU00dHg4akZ1aUtCM3BjN1BnN2ItNC04QnhwX2pIRTNSS0ZvWGdtbUpBVkFZeHFRZE4yZVVzeDZUTS1vSVhBbDN1R29SZlZPWk5YZGxMb1E5YXJLalU5ZWJIcDYxNU9CQWEwMlBYbVk0V2h3UUplSWFMNDVMNlI0RDBXbXFBXzBUMGR1ZHE0?oc=5",
-      "published": "Fri, 09 Oct 2026 18:30:20 GMT",
-      "summary": "Pourquoi les aéroports d'Ajaccio et de Calvi nécessitent-ils des qualifications spécifiques pour les pilotes ? &nbsp;&nbsp; Corse Matin",
       "themes": []
     },
     {
@@ -2817,16 +2800,6 @@
       "region": "corse",
       "source_id": "corse_matin",
       "source_label": "Corse-Matin",
-      "title": "\"Des actes d'une cruauté inqualifiable\" : le braconnage nocturne de sangliers sème l'indignation entre Carbuccia et Peri - Corse Matin",
-      "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPbzJ1YnpVYjRvMjZwWlZEcWR3eEpqSTVWZjdmdDMzTkFGcUdKSWJ3bW5jRnJRaG9XVjRkcWRxT2I5MkpwRGZFLS1YZEhhT2pNSWwtUHMweUU5Ni1Ea1VFVThwVWFwejZXc2FwV1V4aElfeHBUTE0wZG1JNjYtLWlHQXJUWVAzNkZYSmJhdEVJV2VMVXBEOWh4SDRvbzM2dktPdjNyRHpwck9CLUlXVnVCRUxzZmVkR2NZUzdsS1VYU3Y4MWNXN3BwQWxUaXI5ejF2aXpCTkVYWGRxSUl0T2NtN2ZzV1hkX2p3UFpOdHU2QzJfaDBoSUg4S0dyY1B2MlZtcEg2YUp2Rm9QaC1zT1RNVmxB?oc=5",
-      "published": "Thu, 08 Oct 2026 14:31:21 GMT",
-      "summary": "\"Des actes d'une cruauté inqualifiable\" : le braconnage nocturne de sangliers sème l'indignation entre Carbuccia et Peri &nbsp;&nbsp; Corse Matin",
-      "themes": []
-    },
-    {
-      "region": "corse",
-      "source_id": "corse_matin",
-      "source_label": "Corse-Matin",
       "title": "Rallye : de Delecour à Auriol, Fabrice Gordon vit son plus beau rêve cette saison - Corse Matin",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOWUhRNldjWGJQa2dmOUNMYVE1OExxbHFWMUJ2NzRLTnVxSVprVWZIOXFRMC1YS3hYSDEwV1FQRXk2aWVBSzdwQU93TW81aEVabVJIVm0xTmlBMV9NN3pUWXEybjdNeVlSSE9IQ3pjOTlxd01obUhzdzU2WjBYbl9WcUJCckFPMWM5LUFWdzNfTG1jcnNsRTF4S3hJWGVISlZfS25YQ09vSS1zYzZxVDFZaTV4VHdUZG5ZZ3haQ2pTTQ?oc=5",
       "published": "Fri, 09 Oct 2026 07:00:17 GMT",
@@ -2847,6 +2820,16 @@
       "region": "corse",
       "source_id": "corse_matin",
       "source_label": "Corse-Matin",
+      "title": "À Cargèse, 350 ans après, l'histoire résonne encore - Corse Matin",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVXVfbEhpRExoNnBQQzJZNmF5dTd6OU1jR3B3eDJ3LTExTTdyeG5VSmszTlk0enVoUVYySTRzZ1RWemFBX0s0WU1zX3pkcU4yMVpoSmxxTFdwMWtuaVZqRXpMUm40NVBUVGJHSzVFNFpTcTJXZlExN1FNbl96NzAyZlFZdW04a3Y5NzE4cVNKaDQzTFVtaWlBZ2tLNEduRFE2S1FVaG55WGM0UzF1ZTZOZUlpQWJ6SUk?oc=5",
+      "published": "Fri, 09 Oct 2026 18:00:25 GMT",
+      "summary": "À Cargèse, 350 ans après, l'histoire résonne encore &nbsp;&nbsp; Corse Matin",
+      "themes": []
+    },
+    {
+      "region": "corse",
+      "source_id": "corse_matin",
+      "source_label": "Corse-Matin",
       "title": "À France 3 Corse Via Stella, une grève engagée pour \"une durée illimitée\" - Corse Matin",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPSnctMW5EM0VzWG1oZnZFUlRDYXZtRmxybXg3NjRfZFoxRTRuLU1qVVlBNUc3NGJrUGJzNEpOelkxRXhQOG5BaklKLUl4aE4xYUhZeXZRZGtLeVBfMkt6RElSRmtydHhybVFrQXJfcE9wNl9GRzl1Yl9JQXlIQkFuMWk1c3Zaa2w0ZjlEM3VXV21meHBJbzR0VWJKMlFpdVA5UUNTckRtQUE1VkI4U2E5Y3NWYUtLUmFTOUlySE1xWXpOOElLbVE?oc=5",
       "published": "Thu, 08 Oct 2026 18:40:52 GMT",
@@ -2854,6 +2837,16 @@
       "themes": [
         "greve"
       ]
+    },
+    {
+      "region": "corse",
+      "source_id": "corse_matin",
+      "source_label": "Corse-Matin",
+      "title": "Pourquoi les aéroports d'Ajaccio et de Calvi nécessitent-ils des qualifications spécifiques pour les pilotes ? - Corse Matin",
+      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNeFY3VW1EMDdfX0JkcWtIZkdOSUpocVRPeHBPX0R4cl8zOTNBd2NCenpwWDBHNThmVmpUSHV3Z1Z5Vy1fTHE2MGJWUEJGb202SWRTUFBIeTFXNFBjcng0Q19RYkJaWmZGdXlIeXN6aEN3cU00dHg4akZ1aUtCM3BjN1BnN2ItNC04QnhwX2pIRTNSS0ZvWGdtbUpBVkFZeHFRZE4yZVVzeDZUTS1vSVhBbDN1R29SZlZPWk5YZGxMb1E5YXJLalU5ZWJIcDYxNU9CQWEwMlBYbVk0V2h3UUplSWFMNDVMNlI0RDBXbXFBXzBUMGR1ZHE0?oc=5",
+      "published": "Fri, 09 Oct 2026 18:30:20 GMT",
+      "summary": "Pourquoi les aéroports d'Ajaccio et de Calvi nécessitent-ils des qualifications spécifiques pour les pilotes ? &nbsp;&nbsp; Corse Matin",
+      "themes": []
     },
     {
       "region": "corse",
@@ -2869,23 +2862,11 @@
       "region": "corse",
       "source_id": "corse_matin",
       "source_label": "Corse-Matin",
-      "title": "Disparition de \"Loulou\" Amadori, figure de la photographie bastiaise - Corse Matin",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPeVN5QmVNeXlRUHFBcHJ2enliVjk0Tmw2TS1CajNXSjVnNkN5Wk5wZWp3SnI5V0Y4M1kzbHh4VVBfWkJQeTlndXcxbWo5UF85V1lLVktJa1gwb1BmZ01VZUUxZ041akxmRWZOV0tEcHd4aWg1eVZPWEtnVl9YZ0R2UHVWUHZETVlZQnFlWjNLb3A3VzJZMl9vaVdVWDY5aHJKTDVkYXA1LWg0QW9zcW5mc25WNnV5ZVEwaDAzTFlUYXo?oc=5",
-      "published": "Fri, 09 Oct 2026 16:23:13 GMT",
-      "summary": "Disparition de \"Loulou\" Amadori, figure de la photographie bastiaise &nbsp;&nbsp; Corse Matin",
+      "title": "Au procès de l'incendie du Bella Vista, le coaccusé de Yassine Akhazzane affirme avoir été \"trahi\" - Corse Matin",
+      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQb0ZQajZuOGF6YWtpY0UyLTZYRVRadWROek8zLVl3WEZsLTg3V3V0ZFRqOGdwRFQwNC1YeWs2WjVmRHZmbVdmVWhXdFYxLURsQ285NVVhN3hKR2NBWWZvcnRSeHZuWWhBWWRMNkV6cmZidmpES2pURlYzVThBUF9nUEZLdm0zV0NqYkJ1UmFMa2lZQWhKSVFoR0h6TGFielhiWVNpc195WWxjQW5xZHVxREQ5MGE4anhENllScXg0bkJKTnB6Yk1BYkxkOUNqc3h0WjNJNmZoVkVpRmNqdV9pQ0FLX1NDU2xvQ3FPYUpXeXFaRHVGeE5j?oc=5",
+      "published": "Fri, 09 Oct 2026 19:35:02 GMT",
+      "summary": "Au procès de l'incendie du Bella Vista, le coaccusé de Yassine Akhazzane affirme avoir été \"trahi\" &nbsp;&nbsp; Corse Matin",
       "themes": []
-    },
-    {
-      "region": "corse",
-      "source_id": "corse_matin",
-      "source_label": "Corse-Matin",
-      "title": "Grève des pilotes d'Air Corsica : à Bastia et Ajaccio, chacun espère pouvoir rejoindre sa destination - Corse Matin",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPZWNIR2l6QnFLMUNNckoySTRBTlRmb01QVUFXMzc3Q0p4VkM3WEpfX3l5WURVZDhubjhtNkxBdC04WThfeEFZTkwwdEI2a2xuVjhlVktobUFsa2I0UG55eFE4cGlOT21nc1ZEbFZLMld2N1U1MU8zOUE5end1Wnk3LWVldE5EbkZ6aVktY3BWSWlVcVVGWWtMc0prSGRkS1ZzMXpmcHhrXzgxZXJWbXNHbkxLRmdnNWVyalBSclhDdlNZQUFyVFJpbFVpT3V5aWZWeTFQcDRvRmlQMnV3VkZjQVhLWEtPRVlLV1E?oc=5",
-      "published": "Fri, 09 Oct 2026 04:43:00 GMT",
-      "summary": "Grève des pilotes d'Air Corsica : à Bastia et Ajaccio, chacun espère pouvoir rejoindre sa destination &nbsp;&nbsp; Corse Matin",
-      "themes": [
-        "greve"
-      ]
     },
     {
       "region": "corse",
@@ -2901,10 +2882,10 @@
       "region": "corse",
       "source_id": "corse_matin",
       "source_label": "Corse-Matin",
-      "title": "Canal+ lance Sport+, une plateforme pour regarder du sport gratuitement et en direct - Corse Matin",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQaTNCb0t0R2xoTXFrZ2NxVkhwclZyQ0RGMk1ORFFVQ1NtS2RoYWFtSUcwVkM5bzY1MUd4OGl2dFlSQ1Zadm5feURFZ1NpZzJOem5FZDBKWFo1VkZ0TEZWR3BUeDBoYUExM2hlV0Q4cHJySlpWdmFJLTRiaUdJZ3NvT1dvOEdWS19SUWhKeUxxUWpTTzlTRERmQmxad0lrV0pHUHVfSjNNWlZUNmtPY2VWZTBHdmxHU3NzTUlGdDFDSXBQcHhqVjZzWmNTd3ZPbXBhVDYzejJSMUNBUXcwZVE?oc=5",
-      "published": "Fri, 09 Oct 2026 06:00:41 GMT",
-      "summary": "Canal+ lance Sport+, une plateforme pour regarder du sport gratuitement et en direct &nbsp;&nbsp; Corse Matin",
+      "title": "Disparition de \"Loulou\" Amadori, figure de la photographie bastiaise - Corse Matin",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPeVN5QmVNeXlRUHFBcHJ2enliVjk0Tmw2TS1CajNXSjVnNkN5Wk5wZWp3SnI5V0Y4M1kzbHh4VVBfWkJQeTlndXcxbWo5UF85V1lLVktJa1gwb1BmZ01VZUUxZ041akxmRWZOV0tEcHd4aWg1eVZPWEtnVl9YZ0R2UHVWUHZETVlZQnFlWjNLb3A3VzJZMl9vaVdVWDY5aHJKTDVkYXA1LWg0QW9zcW5mc25WNnV5ZVEwaDAzTFlUYXo?oc=5",
+      "published": "Fri, 09 Oct 2026 16:23:13 GMT",
+      "summary": "Disparition de \"Loulou\" Amadori, figure de la photographie bastiaise &nbsp;&nbsp; Corse Matin",
       "themes": []
     },
     {
@@ -2923,10 +2904,44 @@
       "region": "corse",
       "source_id": "corse_matin",
       "source_label": "Corse-Matin",
+      "title": "Grève des pilotes d'Air Corsica : à Bastia et Ajaccio, chacun espère pouvoir rejoindre sa destination - Corse Matin",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPZWNIR2l6QnFLMUNNckoySTRBTlRmb01QVUFXMzc3Q0p4VkM3WEpfX3l5WURVZDhubjhtNkxBdC04WThfeEFZTkwwdEI2a2xuVjhlVktobUFsa2I0UG55eFE4cGlOT21nc1ZEbFZLMld2N1U1MU8zOUE5end1Wnk3LWVldE5EbkZ6aVktY3BWSWlVcVVGWWtMc0prSGRkS1ZzMXpmcHhrXzgxZXJWbXNHbkxLRmdnNWVyalBSclhDdlNZQUFyVFJpbFVpT3V5aWZWeTFQcDRvRmlQMnV3VkZjQVhLWEtPRVlLV1E?oc=5",
+      "published": "Fri, 09 Oct 2026 04:43:00 GMT",
+      "summary": "Grève des pilotes d'Air Corsica : à Bastia et Ajaccio, chacun espère pouvoir rejoindre sa destination &nbsp;&nbsp; Corse Matin",
+      "themes": [
+        "greve"
+      ]
+    },
+    {
+      "region": "corse",
+      "source_id": "corse_matin",
+      "source_label": "Corse-Matin",
       "title": "Gastro-entérite sur le GR20 : les randonneurs appelés à la vigilance - Corse Matin",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNdFFhZk1RYk0tU09WbElPTWhteVUwOUM4MFM0T24zaGUtQTF6LTM3c1kzdjhob0JGU0ozR1VNRHVTakdDOHJGRk5FbkRsOEtkbDJzMEFtRXE3ZE5qbmx4U2U1Z21xdkwyTjZFTkNVZm9JTmtPNk5STmtxamlCQkNEMXRVdGFkelpTSEp2V3J1MnQ4eGgzV25VeDFnNHFhZXVFZm95VW5iaXdSR3lCcHBoTGhEWlZQc0ZlcW9RdEJ1dw?oc=5",
       "published": "Thu, 08 Oct 2026 09:30:33 GMT",
       "summary": "Gastro-entérite sur le GR20 : les randonneurs appelés à la vigilance &nbsp;&nbsp; Corse Matin",
+      "themes": []
+    },
+    {
+      "region": "corse",
+      "source_id": "corse_matin",
+      "source_label": "Corse-Matin",
+      "title": "Grève chez Air Corsica : déroutement, bus, horaires adaptés... À quoi les voyageurs doivent-ils s'attendre à partir de ce vendredi ? - Corse Matin",
+      "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxObXNhanV5cmp5ZEdlZS1ueXNKaW82S09PbnQ3VVF1VXRjdmViell1VXhPLUxXT0JIMC1RNWNRMHdVV21qN3dzUWhFdzU4TzFvbkpUSW01MGlmaDB1LWNlUFRqVW44VDFDLThGRjdfdllXMXNCODNvN2phcmZXTVZOSXlDSjMtTGoyVU53VnF5cFNZNEo3WmxOLXlEVDZfbll0Y01IOFAtSmZWTEp2a3VuSncwOHdWelBpWGVRWnJxcl91WWNsWUV5Y2pHaHpHMHhDTVlaTmM3TVU0eWtRbTA2V2k4cmY3eTNMdUl2Vmt0Zl9yaW1SdmluYnFadEtPeGlfMDNtMmpHQk5mUUNk?oc=5",
+      "published": "Fri, 09 Oct 2026 05:00:06 GMT",
+      "summary": "Grève chez Air Corsica : déroutement, bus, horaires adaptés... À quoi les voyageurs doivent-ils s'attendre à partir de ce vendredi ? &nbsp;&nbsp; Corse Matin",
+      "themes": [
+        "greve"
+      ]
+    },
+    {
+      "region": "corse",
+      "source_id": "corse_matin",
+      "source_label": "Corse-Matin",
+      "title": "Canal+ lance Sport+, une plateforme pour regarder du sport gratuitement et en direct - Corse Matin",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQaTNCb0t0R2xoTXFrZ2NxVkhwclZyQ0RGMk1ORFFVQ1NtS2RoYWFtSUcwVkM5bzY1MUd4OGl2dFlSQ1Zadm5feURFZ1NpZzJOem5FZDBKWFo1VkZ0TEZWR3BUeDBoYUExM2hlV0Q4cHJySlpWdmFJLTRiaUdJZ3NvT1dvOEdWS19SUWhKeUxxUWpTTzlTRERmQmxad0lrV0pHUHVfSjNNWlZUNmtPY2VWZTBHdmxHU3NzTUlGdDFDSXBQcHhqVjZzWmNTd3ZPbXBhVDYzejJSMUNBUXcwZVE?oc=5",
+      "published": "Fri, 09 Oct 2026 06:00:41 GMT",
+      "summary": "Canal+ lance Sport+, une plateforme pour regarder du sport gratuitement et en direct &nbsp;&nbsp; Corse Matin",
       "themes": []
     },
     {
@@ -2963,20 +2978,20 @@
       "region": "corse",
       "source_id": "corse_matin",
       "source_label": "Corse-Matin",
-      "title": "Tour de Corse historique : Raphaël Astier s'échappe en tête, Thomas Argenti premier des pilotes insulaires - Corse Matin",
-      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPMzAxYTFyMG9hWEx5Q2VWMV9BaDBEWUY5NHlwNXdsT3VYNTFhdHU3aDI3d1NoNkN5cWNtTWZUNGRzVEtyUEppdmU0b2ZHYmE2RlBtXzFfTmpIN2lrMHVsaFhuNmpaQkR0VjNLZk5DWm9xbkRRRExwTUlNclVzWmdTX1Fmdy1zLXJxMTdKWWEtS3JKYnlBOU5TVlgxeV9aNWpZNGo1WWZlcnBtcmtGNDN0ZDZ6YVdDTnpyejdWa0pTMkhWd0NtT3pRTmw3aFBpM09Tei1CMEx2aVlKUDJlY3ZKemlyQzRDdkpyRGdmWDNVQ04?oc=5",
-      "published": "Thu, 08 Oct 2026 18:48:25 GMT",
-      "summary": "Tour de Corse historique : Raphaël Astier s'échappe en tête, Thomas Argenti premier des pilotes insulaires &nbsp;&nbsp; Corse Matin",
+      "title": "Jean-Luc Mélenchon juge Gabriel Attal \"personnellement responsable\" d'une partie de la révolte lycéenne - Corse Matin",
+      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNMFN3M2xzZUl6MzEzZG1IQUkzUlJtMGJ0YnNFMHlsSWxiNUd6Sk1Wa0FaNWtycHdtQ1cyWG9aakNudVR6U1V1RkxCWFpUXzU1TGtxb3c5NE9QWWNtMml0dlFsUkJKNGxsRVJGQlNrdEFWelZQa3pvcXlaa3dQUGJNSXBWU1IzNlNwVEJ4NmQ1al9aanluaE5BVXNnckNpZHd6MDZTelkyZGZTV18xN1UwSExyTnNoRzBzQVBpcncyMGJSMWlTZ2UxRTVQV2Q0b2FxWXdmSFQwLVZISjlIYnV0MkdrUm8tYmpjRXhRb28tak43YmFz?oc=5",
+      "published": "Fri, 09 Oct 2026 17:34:03 GMT",
+      "summary": "Jean-Luc Mélenchon juge Gabriel Attal \"personnellement responsable\" d'une partie de la révolte lycéenne &nbsp;&nbsp; Corse Matin",
       "themes": []
     },
     {
       "region": "corse",
       "source_id": "corse_matin",
       "source_label": "Corse-Matin",
-      "title": "Jean-Luc Mélenchon juge Gabriel Attal \"personnellement responsable\" d'une partie de la révolte lycéenne - Corse Matin",
-      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNMFN3M2xzZUl6MzEzZG1IQUkzUlJtMGJ0YnNFMHlsSWxiNUd6Sk1Wa0FaNWtycHdtQ1cyWG9aakNudVR6U1V1RkxCWFpUXzU1TGtxb3c5NE9QWWNtMml0dlFsUkJKNGxsRVJGQlNrdEFWelZQa3pvcXlaa3dQUGJNSXBWU1IzNlNwVEJ4NmQ1al9aanluaE5BVXNnckNpZHd6MDZTelkyZGZTV18xN1UwSExyTnNoRzBzQVBpcncyMGJSMWlTZ2UxRTVQV2Q0b2FxWXdmSFQwLVZISjlIYnV0MkdrUm8tYmpjRXhRb28tak43YmFz?oc=5",
-      "published": "Fri, 09 Oct 2026 17:34:03 GMT",
-      "summary": "Jean-Luc Mélenchon juge Gabriel Attal \"personnellement responsable\" d'une partie de la révolte lycéenne &nbsp;&nbsp; Corse Matin",
+      "title": "Porto-Vecchio : quatre blessés dans une collision entre deux véhicules - Corse Matin",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQVURZTlpNdlRGUHA3UkZSeTdQaWtCQ1ZRdWlYaTVDWThjTFpqMFljY0Z1UkR4VHotWUZPdW9kS3BPc3FmYkN2OXU5SENWSkEzQ0hpenlVUnFvU3NTX2JhN1BRNTQ4OVI4SWdnQ2pjMHR2Sm41dTBwVlpXN1hTVlRvazdsYW9nYVNlM0Zsc204RmJVRXVXRGpVZEdfYVBQNFRVZ1dMQlBkbFFKSWRwb2ZTcE1TUUk2OWJ0VjdDZUgzdzh4OHBIbEVjZHF1TlFwTGRHWVo5eA?oc=5",
+      "published": "Fri, 09 Oct 2026 23:13:07 GMT",
+      "summary": "Porto-Vecchio : quatre blessés dans une collision entre deux véhicules &nbsp;&nbsp; Corse Matin",
       "themes": []
     },
     {
@@ -3083,10 +3098,10 @@
       "region": "corse",
       "source_id": "corse_net_infos",
       "source_label": "Corse Net Infos",
-      "title": "Bruno Bartocetti, Un1té Police : « En Corse, on ne peut pas travailler avec deux fois moins d’effectifs que nécessaire » - Corse Net Infos",
-      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQa1Rsd2V2dExKU1NpTF96ZWVGTVBxYkNNaWdGOWN5a1lXaUx3dmMtM3YzSW1ma2pfMk9jWVlBejlEWVItRS16YVFYTXU5QWluUlVkS3ExLUNwd2V1QnE2NUppenVoT2twbmp3emdEYzhEcG5hdU1nQWVoX29xbmIwSEtKZUluMlNIVy1IUlNsX2NxQkgtd1hFR1ZyclBpTE9JYmdmb2Flb2poMjV4b19GRnpDR3piODNwa2lvX1VoVkVYRTdkV2RNeEpZSTBIdm1WY1llM3FBN2lxUHJ0RUx6RWxEeC1QMEEtMEJKVVBrTQ?oc=5",
-      "published": "Thu, 08 Oct 2026 07:44:00 GMT",
-      "summary": "Bruno Bartocetti, Un1té Police : « En Corse, on ne peut pas travailler avec deux fois moins d’effectifs que nécessaire » &nbsp;&nbsp; Corse Net Infos",
+      "title": "26e Tour de Corse Historique - Astier creuse l’écart à Propriano - Corse Net Infos",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNYWZ1ZVA3a0VhOGVXLVFQVEtYV3E0bXhkVkxqLW5aWm1mcVppcGNxOFppdjVxdkRrakNsOVVVYU1DbjY5Rm0za216RUQySFRRWFRWeGpCblViSFZNNUFqaXpyTUkyQmRtS1o0NW9pUjJYU2lDeThjUTlIWWdOejlTMkYwOHpIdFl4WTRQYlRrRXM4NnNhektOa25TUnZ2R1Rvb2s1bzZ4LXdOMUkz?oc=5",
+      "published": "Thu, 08 Oct 2026 19:47:00 GMT",
+      "summary": "26e Tour de Corse Historique - Astier creuse l’écart à Propriano &nbsp;&nbsp; Corse Net Infos",
       "themes": []
     },
     {
@@ -3105,16 +3120,6 @@
       "region": "corse",
       "source_id": "corse_net_infos",
       "source_label": "Corse Net Infos",
-      "title": "26e Tour de Corse Historique - Astier creuse l’écart à Propriano - Corse Net Infos",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNYWZ1ZVA3a0VhOGVXLVFQVEtYV3E0bXhkVkxqLW5aWm1mcVppcGNxOFppdjVxdkRrakNsOVVVYU1DbjY5Rm0za216RUQySFRRWFRWeGpCblViSFZNNUFqaXpyTUkyQmRtS1o0NW9pUjJYU2lDeThjUTlIWWdOejlTMkYwOHpIdFl4WTRQYlRrRXM4NnNhektOa25TUnZ2R1Rvb2s1bzZ4LXdOMUkz?oc=5",
-      "published": "Thu, 08 Oct 2026 19:47:00 GMT",
-      "summary": "26e Tour de Corse Historique - Astier creuse l’écart à Propriano &nbsp;&nbsp; Corse Net Infos",
-      "themes": []
-    },
-    {
-      "region": "corse",
-      "source_id": "corse_net_infos",
-      "source_label": "Corse Net Infos",
       "title": "Énergie : les îles veulent parler d’une seule voix face à l’État - Corse Net Infos",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOazd0OUpFcUFHWmhiMm8yUlR0Wk5jeGFRUGVSdTRfU2x0Q3NmeFZ1NXRNbk1xQWM2cnpYbkJ3ZGlQbjlaNXBuMHN3YUR6YUlsRHlwZ054VjBwZUp1YUZpRXdUb2RRZldhTnpxSjBmZ2twYllsMTU0MXlhUDdvT1plUGZsdHliNGNlUFJNSW56NjkyamMtZmp2RVQ1WU5JajdNUldWSTE3S3UwUEli?oc=5",
       "published": "Thu, 08 Oct 2026 14:00:00 GMT",
@@ -3122,6 +3127,16 @@
       "themes": [
         "energie"
       ]
+    },
+    {
+      "region": "corse",
+      "source_id": "corse_net_infos",
+      "source_label": "Corse Net Infos",
+      "title": "Dégradations de la statue de la Vierge à Porto-Vecchio : les mis en cause contraints de quitter immédiatement la Corse - Corse Net Infos",
+      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOVUtMT012eVVuMDhRLTNKZl8ydW1qeGRRZEFhc2t0MHhJclQ1ZEJRNERlRW5TclEwaVJIS2RHNkJ3VXFuWGhrUExqcU9DMGNjbDRjaVhOT05hSklMT0kxMHVTMmlQU1dMdEtpTTdzc1RScnl3VDJ2UVVUM2I4OGhoenpOM3RNRV94UDJUa01jcF9BZEgwNmxEaTdFYUJYcm9TSzlVMEY5VGJRR0N0Sjl3d3VOTjFVd3FZTERvRmoySXJwTVZlZEhpdk83aTBHS1IzVEZsek9VWkpRb0d6WE96clJ3cjhYQkdwbmhkTGlUNFFNWHJE?oc=5",
+      "published": "Fri, 02 Oct 2026 17:13:00 GMT",
+      "summary": "Dégradations de la statue de la Vierge à Porto-Vecchio : les mis en cause contraints de quitter immédiatement la Corse &nbsp;&nbsp; Corse Net Infos",
+      "themes": []
     },
     {
       "region": "corse",
@@ -3149,10 +3164,10 @@
       "region": "corse",
       "source_id": "corse_net_infos",
       "source_label": "Corse Net Infos",
-      "title": "Dégradations de la statue de la Vierge à Porto-Vecchio : les mis en cause contraints de quitter immédiatement la Corse - Corse Net Infos",
-      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOVUtMT012eVVuMDhRLTNKZl8ydW1qeGRRZEFhc2t0MHhJclQ1ZEJRNERlRW5TclEwaVJIS2RHNkJ3VXFuWGhrUExqcU9DMGNjbDRjaVhOT05hSklMT0kxMHVTMmlQU1dMdEtpTTdzc1RScnl3VDJ2UVVUM2I4OGhoenpOM3RNRV94UDJUa01jcF9BZEgwNmxEaTdFYUJYcm9TSzlVMEY5VGJRR0N0Sjl3d3VOTjFVd3FZTERvRmoySXJwTVZlZEhpdk83aTBHS1IzVEZsek9VWkpRb0d6WE96clJ3cjhYQkdwbmhkTGlUNFFNWHJE?oc=5",
-      "published": "Fri, 02 Oct 2026 17:13:00 GMT",
-      "summary": "Dégradations de la statue de la Vierge à Porto-Vecchio : les mis en cause contraints de quitter immédiatement la Corse &nbsp;&nbsp; Corse Net Infos",
+      "title": "Faute de réponses, le Sindicatu pà a difesa di i piscadori corsi donne quelques jours à l'État avant d’ « entrer dans le conflit » - Corse Net Infos",
+      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNYTY2RTlJU3R6R0U1S2ZpbDdxVzJXNkFkcFhuX2pCT0tUV2hHM08tX2JQYWR3eThBeF9DUG1TMWVWbVlLQ0x2aGRodTc0enJiMElBN3B2dU12OTRmQ3c2QS1NVDlyWHc3Q3llcjFWWHlxcGk0NEpscldUTG5hMEk4M3BsUTNzM1JCN2NqTE5hbDBzMEozQWFsUzZPcTFlaEVvV1pxTGt5WTRTLS05all4UG84dmExSDIxN2swYllQWXpOZWJvWmxqZTlhMDNqZFBSalRranh0eGQ3TV9GTkdGV2YtUVYtMk9nMXU5N0E4VzlwOFRi?oc=5",
+      "published": "Wed, 07 Oct 2026 14:07:00 GMT",
+      "summary": "Faute de réponses, le Sindicatu pà a difesa di i piscadori corsi donne quelques jours à l'État avant d’ « entrer dans le conflit » &nbsp;&nbsp; Corse Net Infos",
       "themes": []
     },
     {
@@ -3163,16 +3178,6 @@
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNbDdmbHNCN1VwYW9DMWhzWGJteDZWTVlzQTZ6ekthakd3eWE2WHRmcEo1M050SkE2OXlZMGswbTBKTnZtblN1eGFYVlFiU2xfY3ZFeHpMeXdrTEFOSzhOUTZsZlRnamJOZlhEcHByRThFNV9UTVRYS29GOWlyZFBVYktqTzlRZVZnVXJCQVVuUUlZNUN5TFVKay1jTTVTRVp3?oc=5",
       "published": "Wed, 07 Oct 2026 17:22:26 GMT",
       "summary": "Stonde di Vita avec… Carine Giner, coiffeuse itinérante &nbsp;&nbsp; Corse Net Infos",
-      "themes": []
-    },
-    {
-      "region": "corse",
-      "source_id": "corse_net_infos",
-      "source_label": "Corse Net Infos",
-      "title": "Faute de réponses, le Sindicatu pà a difesa di i piscadori corsi donne quelques jours à l'État avant d’ « entrer dans le conflit » - Corse Net Infos",
-      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNYTY2RTlJU3R6R0U1S2ZpbDdxVzJXNkFkcFhuX2pCT0tUV2hHM08tX2JQYWR3eThBeF9DUG1TMWVWbVlLQ0x2aGRodTc0enJiMElBN3B2dU12OTRmQ3c2QS1NVDlyWHc3Q3llcjFWWHlxcGk0NEpscldUTG5hMEk4M3BsUTNzM1JCN2NqTE5hbDBzMEozQWFsUzZPcTFlaEVvV1pxTGt5WTRTLS05all4UG84dmExSDIxN2swYllQWXpOZWJvWmxqZTlhMDNqZFBSalRranh0eGQ3TV9GTkdGV2YtUVYtMk9nMXU5N0E4VzlwOFRi?oc=5",
-      "published": "Wed, 07 Oct 2026 14:07:00 GMT",
-      "summary": "Faute de réponses, le Sindicatu pà a difesa di i piscadori corsi donne quelques jours à l'État avant d’ « entrer dans le conflit » &nbsp;&nbsp; Corse Net Infos",
       "themes": []
     },
     {
@@ -3211,6 +3216,16 @@
       "region": "corse",
       "source_id": "corse_net_infos",
       "source_label": "Corse Net Infos",
+      "title": "U tempu in Corsica - Corse Net Infos",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9LaVo3UE9Vb3BlRWhNdFpON2FLY3ZWc19aTVJRbThYemhDUHlqQS1acjhEZ3BBZWlNZGxNcmJKMlhVS2d3cVRJU2VMYVdZVjRzei00cC1aRE80bmZLYXowYldWME1nejFPX2VITE1DY2h1dw?oc=5",
+      "published": "Fri, 09 Oct 2026 05:00:00 GMT",
+      "summary": "U tempu in Corsica &nbsp;&nbsp; Corse Net Infos",
+      "themes": []
+    },
+    {
+      "region": "corse",
+      "source_id": "corse_net_infos",
+      "source_label": "Corse Net Infos",
       "title": "À Castello-di-Rostino, une matinée pour apprendre à déjouer les fraudes numériques - Corse Net Infos",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPdVZ4QXhodmlLS3VKZzQ2cE1nVFhJYUZmWkFDTklLZG43VGM3YmlCcFVIWVY3YXd6UEh1R2lQeVpYb2dQdDEtUE82VkoteW04RnF2a0VtOFo0OXFrdHJKemNDWDNsTl9GLXRCT1h0NEszb3YyUmtDWkd0M3ZaUVBBWWRpSlR0dlBFaWZkbHdGQllkc2REdmRraVlMTU1PdUJwVS1kVzJZLW9rN0pzQ0Y1YmYtcnY2X2NKYUVXZldwWU93QzNHclE?oc=5",
       "published": "Wed, 07 Oct 2026 08:58:15 GMT",
@@ -3225,16 +3240,6 @@
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcHJVTEtFMkRubjd0RVB1UWp0LWpOTzZWNS1rRk43QjlWaWZwNDhDZGFWQ3VrSi1pOGZLV3ZaUG04OEIzQlFvZXU2TGVjcjNRVUtkejg5M0J3QXd4NmlUazFqUVc0RUE5YUhuZGN1MGN0UVZkVW51Vy1iNGk4WndiNHEzeE9nZTVvM21WZHBUSWpVV0w4RWpwUDdfMmFNNk9UbHpGbFNNcnBpaVYzNEI4V2xpaw?oc=5",
       "published": "Wed, 07 Oct 2026 09:10:00 GMT",
       "summary": "Sud Corse : 40 millions d’euros d’investissements annoncés d’ici 2030 &nbsp;&nbsp; Corse Net Infos",
-      "themes": []
-    },
-    {
-      "region": "corse",
-      "source_id": "corse_net_infos",
-      "source_label": "Corse Net Infos",
-      "title": "U tempu in Corsica - Corse Net Infos",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9LaVo3UE9Vb3BlRWhNdFpON2FLY3ZWc19aTVJRbThYemhDUHlqQS1acjhEZ3BBZWlNZGxNcmJKMlhVS2d3cVRJU2VMYVdZVjRzei00cC1aRE80bmZLYXowYldWME1nejFPX2VITE1DY2h1dw?oc=5",
-      "published": "Fri, 09 Oct 2026 05:00:00 GMT",
-      "summary": "U tempu in Corsica &nbsp;&nbsp; Corse Net Infos",
       "themes": []
     },
     {
@@ -3271,20 +3276,20 @@
       "region": "corse",
       "source_id": "corse_net_infos",
       "source_label": "Corse Net Infos",
-      "title": "U tempu in Corsica - Corse Net Infos",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5teHNEWkM3QzFxSjBNUkJoZUtfRG9PVzZvd3RiUm44dGVYTVdQS2hEZ2MzRlZmNUFsTDVad1ZfYmlpV2xHSDBXNXc4ajZaLTNaaHEtN0d4VUJkekVQNklxbEFUNVd1OU10U1puU2FLb2puQQ?oc=5",
-      "published": "Thu, 08 Oct 2026 05:00:00 GMT",
-      "summary": "U tempu in Corsica &nbsp;&nbsp; Corse Net Infos",
+      "title": "Mobilisation lycéenne : Laurent Marcangeli interpelle le Premier ministre à l’Assemblée nationale - Corse Net Infos",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQcFgyZko4U0FzdDY5Z1NMN3FkbHdzR0NyeUFoZ0ZFQmRBQmRyYmRGVnFCS3VxbGJaSGRrWWtaZ0dHTGpiSkJXUzhNYXBwelVIa2w2LXpyY3RkTHBNSEI1YUFDX0NSY1QtZW5zVVpzM1F0R3JVeXJIeC1kWUpSTXhDWVBmdmRCTFZNMFZqcFdPMVRIcnU0WW1WNk9RTVl1dXc3VVlqNXY4S3pySDluYWY1VnBvTjd1VllSc1V2dFlvZG10VEJGcmxtamEyc0w2c2ZVelBjTVQ4Y1Y?oc=5",
+      "published": "Tue, 06 Oct 2026 14:05:00 GMT",
+      "summary": "Mobilisation lycéenne : Laurent Marcangeli interpelle le Premier ministre à l’Assemblée nationale &nbsp;&nbsp; Corse Net Infos",
       "themes": []
     },
     {
       "region": "corse",
       "source_id": "corse_net_infos",
       "source_label": "Corse Net Infos",
-      "title": "Mobilisation lycéenne : Laurent Marcangeli interpelle le Premier ministre à l’Assemblée nationale - Corse Net Infos",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQcFgyZko4U0FzdDY5Z1NMN3FkbHdzR0NyeUFoZ0ZFQmRBQmRyYmRGVnFCS3VxbGJaSGRrWWtaZ0dHTGpiSkJXUzhNYXBwelVIa2w2LXpyY3RkTHBNSEI1YUFDX0NSY1QtZW5zVVpzM1F0R3JVeXJIeC1kWUpSTXhDWVBmdmRCTFZNMFZqcFdPMVRIcnU0WW1WNk9RTVl1dXc3VVlqNXY4S3pySDluYWY1VnBvTjd1VllSc1V2dFlvZG10VEJGcmxtamEyc0w2c2ZVelBjTVQ4Y1Y?oc=5",
-      "published": "Tue, 06 Oct 2026 14:05:00 GMT",
-      "summary": "Mobilisation lycéenne : Laurent Marcangeli interpelle le Premier ministre à l’Assemblée nationale &nbsp;&nbsp; Corse Net Infos",
+      "title": "Bonifacio IRC Cup - Team Guenifey attendu en fin d'après-midi - Corse Net Infos",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOeUpwcC1hZVpFWF96a2FOV2JuMUd6TGNEbXFtb0JOYVpaM2xiSEt1Q2gtZG5qbG1taE9UdWdPLXc5MEVIeWw3b0tZUXNSTFJJNUVkSXNSQm1UQ0ZYRG9BQUpLYnBMS1Z4MjYzNUE2Y1JhYUpWVXIzeFZFRDBsX2pOZVdqOXFGWk5OdnlDcEp2MVpGR1NpUG5vRzc5QXl4RVM1eTlpQ1I3Z0s?oc=5",
+      "published": "Fri, 09 Oct 2026 15:28:00 GMT",
+      "summary": "Bonifacio IRC Cup - Team Guenifey attendu en fin d'après-midi &nbsp;&nbsp; Corse Net Infos",
       "themes": []
     },
     {
@@ -3301,6 +3306,18 @@
       "region": "corse",
       "source_id": "corse_net_infos",
       "source_label": "Corse Net Infos",
+      "title": "Grève chez Air Corsica : des passagers bloqués au bord de la route lors d’un transfert vers Marseille - Corse Net Infos",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPOU5Tb1kwTjBYZmFzMk9nR2VIeDhDM2V3d1hlN2pNeElLOGlZRnJQM0R0U0QzclNEXzBsRXZtdXgzbHZBNWRrRWNKQU9aVk5KdnpOU0tmNmhmZVZ1Tk9LX3JmU2ltb1VlMFVjVWx2Z1RSS3g2TUNoMmFic0pCZlFTbzlsZVVqQ3hGX2lybFJFTmVtRkxYVGt6NUEyNktHdGpYdi1aN3o2Z01TMk1RaUVuNmtjUWkwLVVob1diS1ZBX1poaWhFbS0wQ0tNTHpWYVQ4dGxBbG5jT0N1MVgwZHc?oc=5",
+      "published": "Fri, 09 Oct 2026 16:10:00 GMT",
+      "summary": "Grève chez Air Corsica : des passagers bloqués au bord de la route lors d’un transfert vers Marseille &nbsp;&nbsp; Corse Net Infos",
+      "themes": [
+        "greve"
+      ]
+    },
+    {
+      "region": "corse",
+      "source_id": "corse_net_infos",
+      "source_label": "Corse Net Infos",
       "title": "Pôle foncier de Corse : Ajaccio met la pression pour obtenir son implantation - Corse Net Infos",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNS3lIcVRuME9HOTRYYmg5MkNwLTRvZ1pSekNGVjdpVUdHdW5CNTNHMGs3cEZ3OGFEQnN6Q0NvalJhb3NKb0h0TV84QlZqU1pCT2wzc09JelI2cEl4RktPMTcwRG9QbTlwc040UHNJWFFCZC0yNHE1TS0zMTV4VHhFaXhQOHAwQkNicmlCT2VPcU9ybTgxbE5IeUMtZmprV29TU1FZX0xyTlZ6aXR2OGd2VHBQbFRqZ0N1alkxRnV3?oc=5",
       "published": "Tue, 06 Oct 2026 14:19:00 GMT",
@@ -3311,10 +3328,30 @@
       "region": "corse",
       "source_id": "corse_net_infos",
       "source_label": "Corse Net Infos",
-      "title": "Bonifacio IRC Cup - Team Guenifey attendu en fin d'après-midi - Corse Net Infos",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOeUpwcC1hZVpFWF96a2FOV2JuMUd6TGNEbXFtb0JOYVpaM2xiSEt1Q2gtZG5qbG1taE9UdWdPLXc5MEVIeWw3b0tZUXNSTFJJNUVkSXNSQm1UQ0ZYRG9BQUpLYnBMS1Z4MjYzNUE2Y1JhYUpWVXIzeFZFRDBsX2pOZVdqOXFGWk5OdnlDcEp2MVpGR1NpUG5vRzc5QXl4RVM1eTlpQ1I3Z0s?oc=5",
-      "published": "Fri, 09 Oct 2026 15:28:00 GMT",
-      "summary": "Bonifacio IRC Cup - Team Guenifey attendu en fin d'après-midi &nbsp;&nbsp; Corse Net Infos",
+      "title": "Voile - La Bonifacio IRC Cup hisse les voiles - Corse Net Infos",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNbVNsbDFrR0wwRXpvRlFlSm5zaGtqclB1anBUREtQWFAyMF9sVFY0UXZWcHVKcWs5d0Q0RXlkQWstc0RtM0dOTThyYzkzMElPbTJmYThIOEFTWUFXcVVOZE9Ub2U1N3M0Wll3MlExVzNQWEpjUWRKNXlDcWtKRnpaZGV2UFZuRDR4OV9LdXdUX0NaM2M?oc=5",
+      "published": "Tue, 06 Oct 2026 10:31:00 GMT",
+      "summary": "Voile - La Bonifacio IRC Cup hisse les voiles &nbsp;&nbsp; Corse Net Infos",
+      "themes": []
+    },
+    {
+      "region": "corse",
+      "source_id": "france3_corse",
+      "source_label": "France 3 Corse ViaStella",
+      "title": "\"Débrouille-toi comme tu veux, je veux pas qu'il fasse sa soirée\" : aux Assises d'Ajaccio, Yassine Akhazzane explique les raisons de l'incendie du Bella Vista",
+      "link": "https://france3-regions.franceinfo.fr/corse/debrouille-toi-comme-tu-veux-je-veux-pas-qu-il-fasse-sa-soiree-aux-assises-d-ajaccio-yassine-akhazzane-explique-les-raisons-de-l-incendie-du-bella-vista-3430890.html",
+      "published": "Fri, 09 Oct 2026 18:10:09 +0200",
+      "summary": "Ce vendredi 9 octobre, l'accusé principal de l'incendie de la résidence hôtelière le \"Bella Vista\" a été interrogé sur les faits. Yassine Akhazzane a notamment expliqué comment il était parvenu à recruter des personnes depuis sa cellule de prison afin de commettre les faits.",
+      "themes": []
+    },
+    {
+      "region": "corse",
+      "source_id": "france3_corse",
+      "source_label": "France 3 Corse ViaStella",
+      "title": "DIRECT VIDÉO. GFCA / SC Bastia, 5e tour de la Coupe de France de football",
+      "link": "https://france3-regions.franceinfo.fr/corse/direct-video-gfca-sc-bastia-5e-tour-de-la-coupe-de-france-de-football-3430230.html",
+      "published": "Fri, 09 Oct 2026 18:03:59 +0200",
+      "summary": "Suivez en direct le 5e tour de la Coupe de France de football qui opposera le petit poucet de National 2, le GFCA au SC Bastia qui évolue en Ligue 3. Rendez-vous en direct sur ViaStella et nos réseaux sociaux dès 16h45.",
       "themes": []
     },
     {
@@ -3609,28 +3646,6 @@
       "link": "https://france3-regions.franceinfo.fr/corse/live-suivez-en-direct-la-premiere-etape-du-tour-de-corse-historique-a-calvi-3428727.html",
       "published": "Wed, 07 Oct 2026 15:17:42 +0200",
       "summary": "Cinq étapes au programme, 1000 kilomètres de parcours, 413 kilomètres de secteurs chronométrés répartis en 19 épreuves spéciales. C'est le programme alléchant de ce Tour de Corse Historique, qui se terminera samedi 10 octobre à la mi-journée.",
-      "themes": []
-    },
-    {
-      "region": "corse",
-      "source_id": "france3_corse",
-      "source_label": "France 3 Corse ViaStella",
-      "title": "Blocage des lycées : la mobilisation se poursuit en Corse",
-      "link": "https://france3-regions.franceinfo.fr/corse/blocage-des-lycees-la-mobilisation-se-poursuit-en-corse-3428616.html",
-      "published": "Tue, 06 Oct 2026 15:49:45 +0200",
-      "summary": "Ce mardi 6 octobre, les mobilisations se poursuivent dans plusieurs lycées de Corse, dans le cadre du mouvement national visant à réclamer plus de moyens pour les établissements.",
-      "themes": [
-        "blocage_occupation"
-      ]
-    },
-    {
-      "region": "corse",
-      "source_id": "france3_corse",
-      "source_label": "France 3 Corse ViaStella",
-      "title": "La Corse toujours en vigilance jaune \"orages\" et \"pluie-inondation\"",
-      "link": "https://france3-regions.franceinfo.fr/corse/la-corse-en-vigilance-jaune-orages-et-pluie-inondation-ce-lundi-3427905.html",
-      "published": "Tue, 06 Oct 2026 08:48:08 +0200",
-      "summary": "Depuis le lundi 5 octobre, la Corse est placée en vigilance jaune \"orages\" et \"pluie-inondation\". L'alerte restera active au moins jusqu'à ce mardi soir.",
       "themes": []
     }
   ]
